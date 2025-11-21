@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\PreviewItemMailboxType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines the mailbox identifier and the user’s primary Simple Mail Transfer

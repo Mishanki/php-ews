@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetStreamingEventsType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Represents the operation that is used by clients to request streaming
@@ -29,7 +29,7 @@ class GetStreamingEventsType extends BaseRequestType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfSubscriptionIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfSubscriptionIdsType
      */
     public $SubscriptionId;
 }

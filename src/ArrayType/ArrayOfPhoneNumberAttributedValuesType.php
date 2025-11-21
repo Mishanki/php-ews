@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents an array of phone numbers and the identifiers of their source
@@ -21,7 +21,7 @@ class ArrayOfPhoneNumberAttributedValuesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\PhoneNumberAttributedValueType[]
+     * @var \mishanki\PhpEws\Type\PhoneNumberAttributedValueType[]
      */
     public $PhoneNumberAttributedValue = array();
 }

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetPasswordExpirationDateType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to get the password expiration date for an email account.

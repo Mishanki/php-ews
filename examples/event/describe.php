@@ -1,20 +1,20 @@
 <?php
 require_once '../../vendor/autoload.php';
 
-use \jamesiarmes\PhpEws\Client;
-use \jamesiarmes\PhpEws\Request\GetItemType;
+use \mishanki\PhpEws\Client;
+use \mishanki\PhpEws\Request\GetItemType;
 
-use \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfPathsToElementType;
-use \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfBaseItemIdsType;
+use \mishanki\PhpEws\ArrayType\NonEmptyArrayOfPathsToElementType;
+use \mishanki\PhpEws\ArrayType\NonEmptyArrayOfBaseItemIdsType;
 
-use \jamesiarmes\PhpEws\Enumeration\DefaultShapeNamesType;
-use \jamesiarmes\PhpEws\Enumeration\DistinguishedPropertySetType;
-use \jamesiarmes\PhpEws\Enumeration\MapiPropertyTypeType;
-use \jamesiarmes\PhpEws\Enumeration\ResponseClassType;
+use \mishanki\PhpEws\Enumeration\DefaultShapeNamesType;
+use \mishanki\PhpEws\Enumeration\DistinguishedPropertySetType;
+use \mishanki\PhpEws\Enumeration\MapiPropertyTypeType;
+use \mishanki\PhpEws\Enumeration\ResponseClassType;
 
-use \jamesiarmes\PhpEws\Type\ItemIdType;
-use \jamesiarmes\PhpEws\Type\ItemResponseShapeType;
-use \jamesiarmes\PhpEws\Type\PathToExtendedFieldType;
+use \mishanki\PhpEws\Type\ItemIdType;
+use \mishanki\PhpEws\Type\ItemResponseShapeType;
+use \mishanki\PhpEws\Type\PathToExtendedFieldType;
 
 // Replace this with the ids of actual events.
 $event_ids = array(

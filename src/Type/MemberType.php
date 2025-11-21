@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\MemberType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Represents a member of a distribution list.
@@ -32,7 +32,7 @@ class MemberType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $Mailbox;
 

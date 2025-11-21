@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetImItemListResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines a response to a GetImItemList request.
@@ -18,7 +18,7 @@ class GetImItemListResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\ImItemListType
+     * @var \mishanki\PhpEws\Type\ImItemListType
      */
     public $ImItemList;
 }

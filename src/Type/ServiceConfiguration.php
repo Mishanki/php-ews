@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ServiceConfiguration.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * This "base class" is available for ErrorCode / ErrorMessage elements if those

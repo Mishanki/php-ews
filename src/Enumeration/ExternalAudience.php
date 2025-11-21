@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ExternalAudience.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Identifies to whom external Out of Office (OOF) messages are sent..

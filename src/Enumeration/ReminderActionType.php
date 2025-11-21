@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ReminderActionType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the action to take on a reminder.

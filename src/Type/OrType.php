@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\OrType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a search expression that performs a logical OR on the search

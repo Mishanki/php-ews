@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Response\GetUserAvailabilityResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
-use \jamesiarmes\PhpEws\Response;
+use \mishanki\PhpEws\Response;
 
 /**
  * Defines the properties that define user availability information or suggested
@@ -21,7 +21,7 @@ class GetUserAvailabilityResponseType extends Response
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfFreeBusyResponse
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfFreeBusyResponse
      */
     public $FreeBusyResponseArray;
 
@@ -31,7 +31,7 @@ class GetUserAvailabilityResponseType extends Response
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SuggestionsResponseType
+     * @var \mishanki\PhpEws\Type\SuggestionsResponseType
      */
     public $SuggestionsResponse;
 }

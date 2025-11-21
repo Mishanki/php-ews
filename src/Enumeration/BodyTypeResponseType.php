@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\BodyTypeResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines how the body text is formatted in the response.

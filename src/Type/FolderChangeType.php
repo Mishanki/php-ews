@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\FolderChangeType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a collection of changes to be performed on a single folder.
@@ -20,7 +20,7 @@ class FolderChangeType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\DistinguishedFolderIdType
+     * @var \mishanki\PhpEws\Type\DistinguishedFolderIdType
      */
     public $DistinguishedFolderId;
 
@@ -29,7 +29,7 @@ class FolderChangeType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\FolderIdType
+     * @var \mishanki\PhpEws\Type\FolderIdType
      */
     public $FolderId;
 
@@ -39,7 +39,7 @@ class FolderChangeType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfFolderChangeDescriptionsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfFolderChangeDescriptionsType
      */
     public $Updates;
 }

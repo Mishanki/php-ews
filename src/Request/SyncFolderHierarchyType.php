@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\SyncFolderHierarchyType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to synchronize a folder hierarchy on a client.
@@ -18,7 +18,7 @@ class SyncFolderHierarchyType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\FolderResponseShapeType
+     * @var \mishanki\PhpEws\Type\FolderResponseShapeType
      */
     public $FolderShape;
 
@@ -29,7 +29,7 @@ class SyncFolderHierarchyType extends BaseRequestType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\TargetFolderIdType
+     * @var \mishanki\PhpEws\Type\TargetFolderIdType
      */
     public $SyncFolderId;
 

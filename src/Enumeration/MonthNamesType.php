@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\MonthNamesType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Describes the month when a yearly recurring item occurs.

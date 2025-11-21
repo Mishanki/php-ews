@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\AbsoluteMonthlyRecurrencePatternType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a monthly recurrence pattern.

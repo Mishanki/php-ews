@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\TrackingPropertyType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a name and value pair of strings that is used to create properties

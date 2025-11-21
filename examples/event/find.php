@@ -1,18 +1,18 @@
 <?php
 require_once '../../vendor/autoload.php';
 
-use \jamesiarmes\PhpEws\Client;
-use \jamesiarmes\PhpEws\Request\FindItemType;
+use \mishanki\PhpEws\Client;
+use \mishanki\PhpEws\Request\FindItemType;
 
-use \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType;
+use \mishanki\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType;
 
-use \jamesiarmes\PhpEws\Enumeration\DefaultShapeNamesType;
-use \jamesiarmes\PhpEws\Enumeration\DistinguishedFolderIdNameType;
-use \jamesiarmes\PhpEws\Enumeration\ResponseClassType;
+use \mishanki\PhpEws\Enumeration\DefaultShapeNamesType;
+use \mishanki\PhpEws\Enumeration\DistinguishedFolderIdNameType;
+use \mishanki\PhpEws\Enumeration\ResponseClassType;
 
-use \jamesiarmes\PhpEws\Type\CalendarViewType;
-use \jamesiarmes\PhpEws\Type\DistinguishedFolderIdType;
-use \jamesiarmes\PhpEws\Type\ItemResponseShapeType;
+use \mishanki\PhpEws\Type\CalendarViewType;
+use \mishanki\PhpEws\Type\DistinguishedFolderIdType;
+use \mishanki\PhpEws\Type\ItemResponseShapeType;
 
 // Replace with the date range you want to search in. As is, this will find all
 // events within the current calendar year.

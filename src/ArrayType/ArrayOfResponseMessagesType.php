@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfResponseMessagesType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents the response messages for an Exchange Web Services request.
@@ -20,7 +20,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\Response\ApplyConversationActionResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ApplyConversationActionResponseMessageType[]
      */
     public $ApplyConversationActionResponseMessage = array();
 
@@ -29,7 +29,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Response\ItemInfoResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ItemInfoResponseMessageType[]
      */
     public $ArchiveItemResponseMessage = array();
 
@@ -38,7 +38,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\Response\ConvertIdResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ConvertIdResponseMessageType[]
      */
     public $ConvertIdResponseMessage = array();
 
@@ -47,7 +47,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\FolderInfoResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\FolderInfoResponseMessageType[]
      */
     public $CopyFolderResponseMessage = array();
 
@@ -56,7 +56,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\ItemInfoResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ItemInfoResponseMessageType[]
      */
     public $CopyItemResponseMessage = array();
 
@@ -65,7 +65,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\AttachmentInfoResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\AttachmentInfoResponseMessageType[]
      */
     public $CreateAttachmentResponseMessage = array();
 
@@ -74,7 +74,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\FolderInfoResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\FolderInfoResponseMessageType[]
      */
     public $CreateFolderResponseMessage = array();
 
@@ -83,7 +83,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\ItemInfoResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ItemInfoResponseMessageType[]
      */
     public $CreateItemResponseMessage = array();
 
@@ -92,7 +92,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\FolderInfoResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\FolderInfoResponseMessageType[]
      */
     public $CreateManagedFolderResponseMessage = array();
 
@@ -101,7 +101,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Response\ResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ResponseMessageType[]
      */
     public $CreateUserConfigurationResponseMessage = array();
 
@@ -110,7 +110,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\DeleteAttachmentResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\DeleteAttachmentResponseMessageType[]
      */
     public $DeleteAttachmentResponseMessage = array();
 
@@ -119,7 +119,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\ResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ResponseMessageType[]
      */
     public $DeleteFolderResponseMessage = array();
 
@@ -128,7 +128,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\ResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ResponseMessageType[]
      */
     public $DeleteItemResponseMessage = array();
 
@@ -137,7 +137,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Response\ResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ResponseMessageType[]
      */
     public $DeleteUserConfigurationResponseMessage = array();
 
@@ -146,7 +146,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Response\ResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ResponseMessageType[]
      */
     public $EmptyFolderResponseMessage = array();
 
@@ -155,7 +155,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\ExpandDLResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ExpandDLResponseMessageType[]
      */
     public $ExpandDLResponseMessage = array();
 
@@ -164,7 +164,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\Response\ExportItemsResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ExportItemsResponseMessageType[]
      */
     public $ExportItemsResponseMessage = array();
 
@@ -173,7 +173,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\FindFolderResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\FindFolderResponseMessageType[]
      */
     public $FindFolderResponseMessage = array();
 
@@ -182,7 +182,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\FindItemResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\FindItemResponseMessageType[]
      */
     public $FindItemResponseMessage = array();
 
@@ -192,7 +192,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Response\FindMailboxStatisticsByKeywordsResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\FindMailboxStatisticsByKeywordsResponseMessageType[]
      */
     public $FindMailboxStatisticsByKeywordsResponseMessage = array();
 
@@ -201,7 +201,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\AttachmentInfoResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\AttachmentInfoResponseMessageType[]
      */
     public $GetAttachmentResponseMessage = array();
 
@@ -210,7 +210,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Response\GetClientAccessTokenResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\GetClientAccessTokenResponseMessageType[]
      */
     public $GetClientAccessTokenResponseMessage = array();
 
@@ -219,7 +219,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Response\GetConversationItemsResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\GetConversationItemsResponseMessageType[]
      */
     public $GetConversationItemsResponseMessage = array();
 
@@ -228,7 +228,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\GetEventsResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\GetEventsResponseMessageType[]
      */
     public $GetEventsResponseMessage = array();
 
@@ -237,7 +237,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\FolderInfoResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\FolderInfoResponseMessageType[]
      */
     public $GetFolderResponseMessage = array();
 
@@ -246,7 +246,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\ItemInfoResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ItemInfoResponseMessageType[]
      */
     public $GetItemResponseMessage = array();
 
@@ -255,7 +255,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Response\GetRemindersResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\GetRemindersResponseMessageType[]
      */
     public $GetRemindersResponse = array();
 
@@ -264,7 +264,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Response\GetRoomListsResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\GetRoomListsResponseMessageType[]
      */
     public $GetRoomListsResponse = array();
 
@@ -273,7 +273,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Response\GetRoomsResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\GetRoomsResponseMessageType[]
      */
     public $GetRoomsResponse = array();
 
@@ -282,7 +282,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Response\GetServerTimeZonesResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\GetServerTimeZonesResponseMessageType[]
      */
     public $GetServerTimeZonesResponseMessage = array();
 
@@ -291,7 +291,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Response\GetSharingFolderResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\GetSharingFolderResponseMessageType[]
      */
     public $GetSharingFolderResponseMessage = array();
 
@@ -300,7 +300,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Response\GetSharingMetadataResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\GetSharingMetadataResponseMessageType[]
      */
     public $GetSharingMetadataResponseMessage = array();
 
@@ -309,7 +309,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\Response\GetStreamingEventsResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\GetStreamingEventsResponseMessageType[]
      */
     public $GetStreamingEventsResponseMessage = array();
 
@@ -318,7 +318,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Response\GetUserConfigurationResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\GetUserConfigurationResponseMessageType[]
      */
     public $GetUserConfigurationResponseMessage = array();
 
@@ -327,7 +327,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Response\GetUserPhotoResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\GetUserPhotoResponseMessageType[]
      */
     public $GetUserPhotoResponseMessage = array();
 
@@ -336,7 +336,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Response\ResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ResponseMessageType[]
      */
     public $MarkAllItemsAsReadResponseMessage = array();
 
@@ -345,7 +345,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Response\MarkAsJunkResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\MarkAsJunkResponseMessageType[]
      */
     public $MarkAsJunkResponseMessage = array();
 
@@ -354,7 +354,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\FolderInfoResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\FolderInfoResponseMessageType[]
      */
     public $MoveFolderResponseMessage = array();
 
@@ -363,7 +363,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\ItemInfoResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ItemInfoResponseMessageType[]
      */
     public $MoveItemResponseMessage = array();
 
@@ -372,7 +372,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Response\PerformReminderActionResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\PerformReminderActionResponseMessageType[]
      */
     public $PerformReminderActionResponse = array();
 
@@ -381,7 +381,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Response\RefreshSharingFolderResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\RefreshSharingFolderResponseMessageType[]
      */
     public $RefreshSharingFolderResponseMessage = array();
 
@@ -390,7 +390,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\ResolveNamesResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ResolveNamesResponseMessageType[]
      */
     public $ResolveNamesResponseMessage = array();
 
@@ -399,7 +399,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Response\SearchMailboxesResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\SearchMailboxesResponseMessageType[]
      */
     public $SearchMailboxesResponseMessage = array();
 
@@ -408,7 +408,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\ResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ResponseMessageType[]
      */
     public $SendItemResponseMessage = array();
 
@@ -417,7 +417,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\SendNotificationResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\SendNotificationResponseMessageType[]
      */
     public $SendNotificationResponseMessage = array();
 
@@ -426,7 +426,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Response\SetHoldOnMailboxesResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\SetHoldOnMailboxesResponseMessageType[]
      */
     public $SetHoldOnMailboxesResponseMessage = array();
 
@@ -435,7 +435,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\SubscribeResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\SubscribeResponseMessageType[]
      */
     public $SubscribeResponseMessage = array();
 
@@ -444,7 +444,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\SyncFolderHierarchyResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\SyncFolderHierarchyResponseMessageType[]
      */
     public $SyncFolderHierarchyResponseMessage = array();
 
@@ -453,7 +453,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\SyncFolderItemsResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\SyncFolderItemsResponseMessageType[]
      */
     public $SyncFolderItemsResponseMessage = array();
 
@@ -462,7 +462,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\ResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ResponseMessageType[]
      */
     public $UnsubscribeResponseMessage = array();
 
@@ -471,7 +471,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\FolderInfoResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\FolderInfoResponseMessageType[]
      */
     public $UpdateFolderResponseMessage = array();
 
@@ -480,7 +480,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\UpdateItemResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\UpdateItemResponseMessageType[]
      */
     public $UpdateItemResponseMessage = array();
 
@@ -489,7 +489,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Response\ResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ResponseMessageType[]
      */
     public $UpdateUserConfigurationResponseMessage = array();
 
@@ -498,7 +498,7 @@ class ArrayOfResponseMessagesType extends ArrayType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\Response\UploadItemsResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\UploadItemsResponseMessageType[]
      */
     public $UploadItemsResponseMessage = array();
 }

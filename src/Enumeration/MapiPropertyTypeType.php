@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\MapiPropertyTypeType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents the property type of a property tag.

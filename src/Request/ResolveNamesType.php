@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\ResolveNamesType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to resolve ambiguous names.
@@ -42,7 +42,7 @@ class ResolveNamesType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType
      */
     public $ParentFolderIds;
 

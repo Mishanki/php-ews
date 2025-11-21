@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\RoomType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a meeting room.

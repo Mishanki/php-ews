@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\NumberedRecurrenceRangeType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Describes the start date and the number of occurrences of a recurring item.

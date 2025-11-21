@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\AvailabilityProxyRequestType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines whether a proxy request is a cross-site or a cross-forest request.

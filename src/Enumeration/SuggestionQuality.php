@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\SuggestionQuality.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents the quality of the day for containing quality suggested meeting

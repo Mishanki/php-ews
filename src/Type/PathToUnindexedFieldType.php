@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\PathToUnindexedFieldType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Identifies frequently referenced properties by URI.

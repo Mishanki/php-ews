@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ChangeDescriptionType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Base class for changes to individual properties.
@@ -19,7 +19,7 @@ abstract class ChangeDescriptionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\PathToExtendedFieldType
+     * @var \mishanki\PhpEws\Type\PathToExtendedFieldType
      */
     public $ExtendedFieldURI;
 
@@ -28,7 +28,7 @@ abstract class ChangeDescriptionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\PathToUnindexedFieldType
+     * @var \mishanki\PhpEws\Type\PathToUnindexedFieldType
      */
     public $FieldURI;
 
@@ -37,7 +37,7 @@ abstract class ChangeDescriptionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\PathToIndexedFieldType
+     * @var \mishanki\PhpEws\Type\PathToIndexedFieldType
      */
     public $IndexedFieldURI;
 }

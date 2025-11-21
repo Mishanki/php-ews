@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\EmptyFolderResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines a response to an EmptyFolder Operation request.

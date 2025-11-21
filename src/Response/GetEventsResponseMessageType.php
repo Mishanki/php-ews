@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetEventsResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the status and result of a single GetEvents operation request.
@@ -18,7 +18,7 @@ class GetEventsResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\NotificationType
+     * @var \mishanki\PhpEws\Type\NotificationType
      */
     public $Notification;
 }

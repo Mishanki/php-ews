@@ -5,22 +5,22 @@
  */
 require_once '../../vendor/autoload.php';
 
-use \jamesiarmes\PhpEws\Client;
-use \jamesiarmes\PhpEws\Request\CreateItemType;
+use \mishanki\PhpEws\Client;
+use \mishanki\PhpEws\Request\CreateItemType;
 
-use \jamesiarmes\PhpEws\ArrayType\ArrayOfRecipientsType;
-use \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAllItemsType;
-use \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAttachmentsType;
+use \mishanki\PhpEws\ArrayType\ArrayOfRecipientsType;
+use \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAllItemsType;
+use \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAttachmentsType;
 
-use \jamesiarmes\PhpEws\Enumeration\BodyTypeType;
-use \jamesiarmes\PhpEws\Enumeration\MessageDispositionType;
-use \jamesiarmes\PhpEws\Enumeration\ResponseClassType;
+use \mishanki\PhpEws\Enumeration\BodyTypeType;
+use \mishanki\PhpEws\Enumeration\MessageDispositionType;
+use \mishanki\PhpEws\Enumeration\ResponseClassType;
 
-use \jamesiarmes\PhpEws\Type\BodyType;
-use \jamesiarmes\PhpEws\Type\EmailAddressType;
-use \jamesiarmes\PhpEws\Type\FileAttachmentType;
-use \jamesiarmes\PhpEws\Type\MessageType;
-use \jamesiarmes\PhpEws\Type\SingleRecipientType;
+use \mishanki\PhpEws\Type\BodyType;
+use \mishanki\PhpEws\Type\EmailAddressType;
+use \mishanki\PhpEws\Type\FileAttachmentType;
+use \mishanki\PhpEws\Type\MessageType;
+use \mishanki\PhpEws\Type\SingleRecipientType;
 
 // Replace with the path to the image file to be attached and the recipient
 // information.

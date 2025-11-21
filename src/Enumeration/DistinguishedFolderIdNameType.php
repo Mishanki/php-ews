@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\DistinguishedFolderIdNameType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents default calendar ids.

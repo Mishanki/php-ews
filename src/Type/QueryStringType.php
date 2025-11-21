@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\QueryStringType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a mailbox query string based on Advanced Query Syntax (AQS).

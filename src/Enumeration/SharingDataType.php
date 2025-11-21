@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\SharingDataType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Describes the type of data that is shared by a shared folder.

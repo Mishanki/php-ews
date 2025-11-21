@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfFailedSearchMailboxesType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines an array of mailboxes that failed on search.
@@ -19,7 +19,7 @@ class ArrayOfFailedSearchMailboxesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\FailedSearchMailboxType[]
+     * @var \mishanki\PhpEws\Type\FailedSearchMailboxType[]
      */
     public $FailedMailbox = array();
 }

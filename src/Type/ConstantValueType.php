@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ConstantValueType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Identifies a constant value in a restriction.

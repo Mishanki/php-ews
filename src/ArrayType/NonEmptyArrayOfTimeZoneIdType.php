@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfTimeZoneIdType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents an array of time zone definition identifiers.

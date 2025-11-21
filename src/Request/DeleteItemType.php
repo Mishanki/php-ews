@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\DeleteItemType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to delete an item from a mailbox in the Exchange store.
@@ -49,7 +49,7 @@ class DeleteItemType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfBaseItemIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfBaseItemIdsType
      */
     public $ItemIds;
 

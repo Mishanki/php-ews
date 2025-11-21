@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\AcceptSharingInvitationType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Used to accept an invitation that allows access to another user’s calendar or

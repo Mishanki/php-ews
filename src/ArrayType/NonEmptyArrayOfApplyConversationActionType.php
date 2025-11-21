@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfApplyConversationActionType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines a request to apply actions to items in a conversation.
@@ -19,7 +19,7 @@ class NonEmptyArrayOfApplyConversationActionType extends ArrayType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\ConversationActionType[]
+     * @var \mishanki\PhpEws\Type\ConversationActionType[]
      */
     public $ConversationAction = array();
 }

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\NoEndRecurrenceRangeType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Describes the start date of an item recurrence pattern that does not have a

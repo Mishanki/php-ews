@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\UninstallAppType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to uninstall an app by its identifier.

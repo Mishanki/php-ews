@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ContactSourceType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Describes whether the contact is located in the Exchange store or Active

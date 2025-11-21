@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\AndType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a search expression that allows you to perform a Boolean AND

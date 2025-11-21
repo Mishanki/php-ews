@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\SendNotificationResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the status and result of a single SendNotification operation
@@ -19,7 +19,7 @@ class SendNotificationResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\NotificationType
+     * @var \mishanki\PhpEws\Type\NotificationType
      */
     public $Notification;
 }

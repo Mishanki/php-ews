@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\AddressListIdType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines the identifier of an address list.

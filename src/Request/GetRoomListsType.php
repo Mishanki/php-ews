@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetRoomListsType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Represents a request for a list of email addresses that represent a list of

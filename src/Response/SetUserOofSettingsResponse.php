@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Response\SetUserOofSettingsResponse.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
-use \jamesiarmes\PhpEws\Response;
+use \mishanki\PhpEws\Response;
 
 /**
  * Defines the result of a SetUserOofSettingsRequest message attempt.
@@ -19,7 +19,7 @@ class SetUserOofSettingsResponse extends Response
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\ResponseMessageType
+     * @var \mishanki\PhpEws\Response\ResponseMessageType
      */
     public $ResponseMessage;
 }

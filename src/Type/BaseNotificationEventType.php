@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\BaseNotificationEventType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a notification that no new activity has occurred in the mailbox.

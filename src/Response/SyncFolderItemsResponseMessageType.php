@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\SyncFolderItemsResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the status and result of a single SyncFolderItems operation
@@ -20,7 +20,7 @@ class SyncFolderItemsResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SyncFolderItemsChangesType
+     * @var \mishanki\PhpEws\Type\SyncFolderItemsChangesType
      */
     public $Changes;
 

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\UninstallAppResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines the response to an UninstallApp request.

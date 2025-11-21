@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfPeopleType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines an array of persona data.
@@ -19,7 +19,7 @@ class ArrayOfPeopleType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\PersonaType[]
+     * @var \mishanki\PhpEws\Type\PersonaType[]
      */
     public $Persona = array();
 }

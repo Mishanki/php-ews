@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\FileAsMappingType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines how to construct what is displayed for a contact.

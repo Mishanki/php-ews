@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\RulePredicatesType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Identifies the conditions that, when fulfilled, will trigger the rule actions
@@ -21,7 +21,7 @@ class RulePredicatesType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringsType
      */
     public $Categories;
 
@@ -31,7 +31,7 @@ class RulePredicatesType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringsType
      */
     public $ContainsBodyStrings;
 
@@ -41,7 +41,7 @@ class RulePredicatesType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringsType
      */
     public $ContainsHeaderStrings;
 
@@ -52,7 +52,7 @@ class RulePredicatesType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringsType
      */
     public $ContainsRecipientStrings;
 
@@ -62,7 +62,7 @@ class RulePredicatesType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringsType
      */
     public $ContainsSenderStrings;
 
@@ -72,7 +72,7 @@ class RulePredicatesType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringsType
      */
     public $ContainsSubjectOrBodyStrings;
 
@@ -82,7 +82,7 @@ class RulePredicatesType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringsType
      */
     public $ContainsSubjectStrings;
 
@@ -104,7 +104,7 @@ class RulePredicatesType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfEmailAddressesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfEmailAddressesType
      */
     public $FromAddresses;
 
@@ -114,7 +114,7 @@ class RulePredicatesType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringsType
      */
     public $FromConnectedAccounts;
 
@@ -256,7 +256,7 @@ class RulePredicatesType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringsType
      */
     public $ItemClasses;
 
@@ -266,7 +266,7 @@ class RulePredicatesType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringsType
      */
     public $MessageClassifications;
 
@@ -321,7 +321,7 @@ class RulePredicatesType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfEmailAddressesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfEmailAddressesType
      */
     public $SentToAddresses;
 
@@ -353,7 +353,7 @@ class RulePredicatesType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\RulePredicateDateRangeType
+     * @var \mishanki\PhpEws\Type\RulePredicateDateRangeType
      */
     public $WithinDateRange;
 
@@ -363,7 +363,7 @@ class RulePredicatesType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\RulePredicateSizeRangeType
+     * @var \mishanki\PhpEws\Type\RulePredicateSizeRangeType
      */
     public $WithinSizeRange;
 }

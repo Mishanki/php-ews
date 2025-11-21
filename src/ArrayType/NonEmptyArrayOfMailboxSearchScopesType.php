@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfMailboxSearchScopesType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines a list of one or more mailboxes and associated search scopes for a
@@ -20,7 +20,7 @@ class NonEmptyArrayOfMailboxSearchScopesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\MailboxSearchScopeType[]
+     * @var \mishanki\PhpEws\Type\MailboxSearchScopeType[]
      */
     public $MailboxSearchScope = array();
 }

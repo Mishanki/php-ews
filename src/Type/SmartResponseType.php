@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\SmartResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Base class for smart responses that include new body content.
@@ -17,7 +17,7 @@ class SmartResponseType extends SmartResponseBaseType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\BodyType
+     * @var \mishanki\PhpEws\Type\BodyType
      */
     public $NewBodyContent;
 }

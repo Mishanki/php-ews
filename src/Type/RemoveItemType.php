@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\RemoveItemType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a response object that is used to remove a meeting item when a

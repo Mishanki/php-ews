@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\HoldStatusType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the hold status for a mailbox.

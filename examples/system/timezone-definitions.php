@@ -1,12 +1,12 @@
 <?php
 require_once '../../vendor/autoload.php';
 
-use \jamesiarmes\PhpEws\Client;
-use \jamesiarmes\PhpEws\Request\GetServerTimeZonesType;
+use \mishanki\PhpEws\Client;
+use \mishanki\PhpEws\Request\GetServerTimeZonesType;
 
-use \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfTimeZoneIdType;
+use \mishanki\PhpEws\ArrayType\NonEmptyArrayOfTimeZoneIdType;
 
-use \jamesiarmes\PhpEws\Enumeration\ResponseClassType;
+use \mishanki\PhpEws\Enumeration\ResponseClassType;
 
 // Replace with timezone ids to get the definition for. An empty array will
 // result in all timezones being returned.

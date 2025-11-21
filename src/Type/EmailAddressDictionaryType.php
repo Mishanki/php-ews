@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\EmailAddressDictionaryType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a collection of e-mail addresses for a contact.
@@ -19,7 +19,7 @@ class EmailAddressDictionaryType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressDictionaryEntryType[]
+     * @var \mishanki\PhpEws\Type\EmailAddressDictionaryEntryType[]
      */
     public $Entry;
 }

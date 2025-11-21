@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\FindPeopleResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines the response to a FindPeople request.
@@ -35,7 +35,7 @@ class FindPeopleResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPeopleType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPeopleType
      */
     public $People;
 

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetAppMarketplaceUrl.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to retrieve the URL for the app marketplace.

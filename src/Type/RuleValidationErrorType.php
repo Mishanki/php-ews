@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\RuleValidationErrorType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a single validation error on a particular rule property value,

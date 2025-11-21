@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetStreamingEventsResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents a response to a GetStreamingEvents element request.

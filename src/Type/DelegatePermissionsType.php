@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\DelegatePermissionsType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Contains the delegate permission-level settings for a user.

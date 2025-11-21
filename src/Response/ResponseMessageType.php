@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Response\ResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
-use \jamesiarmes\PhpEws\Response;
+use \mishanki\PhpEws\Response;
 
 /**
  * Represents the status and result of a request.

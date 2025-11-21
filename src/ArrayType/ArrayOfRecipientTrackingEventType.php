@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfRecipientTrackingEventType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents a collection of one or more events for a message.
@@ -19,7 +19,7 @@ class ArrayOfRecipientTrackingEventType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\RecipientTrackingEventType[]
+     * @var \mishanki\PhpEws\Type\RecipientTrackingEventType[]
      */
     public $RecipientTrackingEvent = array();
 }

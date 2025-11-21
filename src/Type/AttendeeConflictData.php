@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\AttendeeConflictData.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents an attendee that has conflicting data.

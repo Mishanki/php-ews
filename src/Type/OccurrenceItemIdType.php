@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\OccurrenceItemIdType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Identifies a single occurrence of a recurring item.

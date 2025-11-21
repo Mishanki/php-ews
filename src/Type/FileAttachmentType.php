@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\FileAttachmentType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a file that is attached to an item in the Exchange store.

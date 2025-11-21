@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ConversationResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines a single conversation.
@@ -28,7 +28,7 @@ class ConversationResponseType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemIdType
+     * @var \mishanki\PhpEws\Type\ItemIdType
      */
     public $ConversationId;
 
@@ -37,7 +37,7 @@ class ConversationResponseType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfConversationNodesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfConversationNodesType
      */
     public $ConversationNodes;
 

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetNonIndexableItemDetailsResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines the response to a GetNonIndexableItemDetails request.
@@ -17,7 +17,7 @@ class GetNonIndexableItemDetailsResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\NonIndexableItemDetailResultType
+     * @var \mishanki\PhpEws\Type\NonIndexableItemDetailResultType
      */
     public $NonIndexableItemDetailsResult;
 }

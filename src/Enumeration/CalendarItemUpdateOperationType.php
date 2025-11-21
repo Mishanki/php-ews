@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\CalendarItemUpdateOperationType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines how meeting updates are communicated after a calendar item is

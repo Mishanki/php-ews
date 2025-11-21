@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetUserRetentionPolicyTagsType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines the request to get the retention tags associated with the user.

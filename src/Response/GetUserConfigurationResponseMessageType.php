@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetUserConfigurationResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents a response that returns a user configuration object.
@@ -17,7 +17,7 @@ class GetUserConfigurationResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\UserConfigurationType
+     * @var \mishanki\PhpEws\Type\UserConfigurationType
      */
     public $UserConfiguration;
 }

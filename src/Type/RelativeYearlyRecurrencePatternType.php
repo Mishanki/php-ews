@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\RelativeYearlyRecurrencePatternType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Describes a relative yearly recurrence pattern.

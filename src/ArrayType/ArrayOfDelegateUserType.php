@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfDelegateUserType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Contains the identities of delegates to add to or update in a mailbox.
@@ -19,7 +19,7 @@ class ArrayOfDelegateUserType extends ArrayType
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\DelegateUserType[]
+     * @var \mishanki\PhpEws\Type\DelegateUserType[]
      */
     public $DelegateUser = array();
 }

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\PhoneCallStateType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the current state for a phone call.

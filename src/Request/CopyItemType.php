@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\CopyItemType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to copy an item in a mailbox in the Exchange store.

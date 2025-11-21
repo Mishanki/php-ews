@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\PostReplyItemType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a reply to a post item.
@@ -17,7 +17,7 @@ class PostReplyItemType extends PostReplyItemBaseType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\BodyType
+     * @var \mishanki\PhpEws\Type\BodyType
      */
     public $NewBodyContent;
 }

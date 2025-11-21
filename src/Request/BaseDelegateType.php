@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\BaseDelegateType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Base class for delegate requests.
@@ -17,7 +17,7 @@ abstract class BaseDelegateType extends BaseRequestType
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $Mailbox;
 }

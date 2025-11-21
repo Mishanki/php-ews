@@ -8,19 +8,19 @@
  */
 require_once '../../vendor/autoload.php';
 
-use \jamesiarmes\PhpEws\Client;
-use \jamesiarmes\PhpEws\Request\UpdateUserConfigurationType;
+use \mishanki\PhpEws\Client;
+use \mishanki\PhpEws\Request\UpdateUserConfigurationType;
 
-use \jamesiarmes\PhpEws\Enumeration\DistinguishedFolderIdNameType;
-use \jamesiarmes\PhpEws\Enumeration\ResponseClassType;
-use \jamesiarmes\PhpEws\Enumeration\UserConfigurationDictionaryObjectTypesType;
+use \mishanki\PhpEws\Enumeration\DistinguishedFolderIdNameType;
+use \mishanki\PhpEws\Enumeration\ResponseClassType;
+use \mishanki\PhpEws\Enumeration\UserConfigurationDictionaryObjectTypesType;
 
-use \jamesiarmes\PhpEws\Type\DistinguishedFolderIdType;
-use \jamesiarmes\PhpEws\Type\UserConfigurationDictionaryEntryType;
-use \jamesiarmes\PhpEws\Type\UserConfigurationDictionaryObjectType;
-use \jamesiarmes\PhpEws\Type\UserConfigurationDictionaryType;
-use \jamesiarmes\PhpEws\Type\UserConfigurationNameType;
-use \jamesiarmes\PhpEws\Type\UserConfigurationType;
+use \mishanki\PhpEws\Type\DistinguishedFolderIdType;
+use \mishanki\PhpEws\Type\UserConfigurationDictionaryEntryType;
+use \mishanki\PhpEws\Type\UserConfigurationDictionaryObjectType;
+use \mishanki\PhpEws\Type\UserConfigurationDictionaryType;
+use \mishanki\PhpEws\Type\UserConfigurationNameType;
+use \mishanki\PhpEws\Type\UserConfigurationType;
 
 // Update these values with those you would like to set. Although an options
 // type may be boolean, the value should still be a string 'true' or 'false'.

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\DistinguishedUserType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Identifies Anonymous and Default user accounts for delegate access.

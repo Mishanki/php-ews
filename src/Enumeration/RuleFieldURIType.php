@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\RuleFieldURIType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the URI to the rule field that caused a validation error.

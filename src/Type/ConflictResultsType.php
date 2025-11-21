@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ConflictResultsType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Indicates the number of conflicts in an UpdateItem Operation response.

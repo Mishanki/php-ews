@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ManagedFolderInformationType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Compound property for Managed Folder related information for Managed Folders.

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfResolutionType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines an array of resolutions for an ambiguous name.
@@ -61,7 +61,7 @@ class ArrayOfResolutionType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ResolutionType[]
+     * @var \mishanki\PhpEws\Type\ResolutionType[]
      */
     public $Resolution = array();
 

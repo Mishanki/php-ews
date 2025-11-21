@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetRemindersResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the response to a GetReminders request.
@@ -17,7 +17,7 @@ class GetRemindersResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRemindersType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRemindersType
      */
     public $Reminders;
 }

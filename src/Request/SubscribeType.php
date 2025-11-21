@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\SubscribeType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines the properties used to create subscriptions.
@@ -17,7 +17,7 @@ class SubscribeType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\PullSubscriptionRequestType
+     * @var \mishanki\PhpEws\Type\PullSubscriptionRequestType
      */
     public $PullSubscriptionRequest;
 
@@ -26,7 +26,7 @@ class SubscribeType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\PushSubscriptionRequestType
+     * @var \mishanki\PhpEws\Type\PushSubscriptionRequestType
      */
     public $PushSubscriptionRequest;
 
@@ -35,7 +35,7 @@ class SubscribeType extends BaseRequestType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\StreamingSubscriptionRequest
+     * @var \mishanki\PhpEws\Type\StreamingSubscriptionRequest
      */
     public $StreamingSubscriptionRequest;
 }

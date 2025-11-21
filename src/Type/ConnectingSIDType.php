@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ConnectingSIDType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents an account to impersonate when you are using the

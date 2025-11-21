@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\RemoveDelegateType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to remove delegates from a mailbox.
@@ -17,7 +17,7 @@ class RemoveDelegateType extends BaseDelegateType
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfUserIdType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfUserIdType
      */
     public $UserIds;
 }

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\SyncFolderHierarchyDeleteType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Identifies a single folder to delete in the local client store.
@@ -19,7 +19,7 @@ class SyncFolderHierarchyDeleteType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\FolderIdType
+     * @var \mishanki\PhpEws\Type\FolderIdType
      */
     public $FolderId;
 }

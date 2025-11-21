@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Enumeration.
  */
 
-namespace jamesiarmes\PhpEws;
+namespace mishanki\PhpEws;
 
 /**
  * Base class for Exchange Web Service Enumerations.

@@ -5,15 +5,15 @@
  */
 require_once '../../vendor/autoload.php';
 
-use \jamesiarmes\PhpEws\Client;
-use \jamesiarmes\PhpEws\Request\GetUserConfigurationType;
+use \mishanki\PhpEws\Client;
+use \mishanki\PhpEws\Request\GetUserConfigurationType;
 
-use \jamesiarmes\PhpEws\Enumeration\DistinguishedFolderIdNameType;
-use \jamesiarmes\PhpEws\Enumeration\ResponseClassType;
-use \jamesiarmes\PhpEws\Enumeration\UserConfigurationPropertyType;
+use \mishanki\PhpEws\Enumeration\DistinguishedFolderIdNameType;
+use \mishanki\PhpEws\Enumeration\ResponseClassType;
+use \mishanki\PhpEws\Enumeration\UserConfigurationPropertyType;
 
-use \jamesiarmes\PhpEws\Type\DistinguishedFolderIdType;
-use \jamesiarmes\PhpEws\Type\UserConfigurationNameType;
+use \mishanki\PhpEws\Type\DistinguishedFolderIdType;
+use \mishanki\PhpEws\Type\UserConfigurationNameType;
 
 // Define the index for background and text colors for each category. You'd
 // probably want to do this in a method somewhere, but PHP CS complains about it

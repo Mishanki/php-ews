@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\DeleteUserConfigurationType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Represents a request to delete a user configuration object.
@@ -17,7 +17,7 @@ class DeleteUserConfigurationType extends BaseRequestType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\UserConfigurationNameType
+     * @var \mishanki\PhpEws\Type\UserConfigurationNameType
      */
     public $UserConfigurationName;
 }

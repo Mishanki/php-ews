@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\DictionaryURIType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Identifies the dictionary that contains the member to return.

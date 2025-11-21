@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\TasksFolderType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a Tasks folder that is contained in a mailbox.

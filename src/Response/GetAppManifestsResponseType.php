@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetAppManifestsResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines the response for a GetAppManifests operation request.
@@ -18,7 +18,7 @@ class GetAppManifestsResponseType extends ResponseMessageType
      *
      * @since Exchange 2013 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfAppsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfAppsType
      */
     public $Apps;
 
@@ -28,7 +28,7 @@ class GetAppManifestsResponseType extends ResponseMessageType
      *
      * @since Exchange 2013 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfAppManifestsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfAppManifestsType
      */
     public $Manifests;
 }

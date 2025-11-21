@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\EmptyFolderType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to empty a folder in a mailbox in the Exchange store.
@@ -43,7 +43,7 @@ class EmptyFolderType extends BaseRequestType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType
      */
     public $FolderIds;
 }

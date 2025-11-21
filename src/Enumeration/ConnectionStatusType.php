@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ConnectionStatusType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Provides a text description of the status of a streaming subscription.

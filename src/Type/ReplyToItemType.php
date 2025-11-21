@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\ReplyToItemType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a reply to the sender of an item in the Exchange store.

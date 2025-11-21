@@ -6,21 +6,21 @@
  */
 require_once '../../vendor/autoload.php';
 
-use \jamesiarmes\PhpEws\Client;
-use \jamesiarmes\PhpEws\Request\UpdateItemType;
+use \mishanki\PhpEws\Client;
+use \mishanki\PhpEws\Request\UpdateItemType;
 
-use \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfItemChangeDescriptionsType;
+use \mishanki\PhpEws\ArrayType\NonEmptyArrayOfItemChangeDescriptionsType;
 
-use \jamesiarmes\PhpEws\Enumeration\CalendarItemUpdateOperationType;
-use \jamesiarmes\PhpEws\Enumeration\ConflictResolutionType;
-use \jamesiarmes\PhpEws\Enumeration\ResponseClassType;
-use \jamesiarmes\PhpEws\Enumeration\UnindexedFieldURIType;
+use \mishanki\PhpEws\Enumeration\CalendarItemUpdateOperationType;
+use \mishanki\PhpEws\Enumeration\ConflictResolutionType;
+use \mishanki\PhpEws\Enumeration\ResponseClassType;
+use \mishanki\PhpEws\Enumeration\UnindexedFieldURIType;
 
-use \jamesiarmes\PhpEws\Type\CalendarItemType;
-use \jamesiarmes\PhpEws\Type\ItemChangeType;
-use \jamesiarmes\PhpEws\Type\ItemIdType;
-use \jamesiarmes\PhpEws\Type\PathToUnindexedFieldType;
-use \jamesiarmes\PhpEws\Type\SetItemFieldType;
+use \mishanki\PhpEws\Type\CalendarItemType;
+use \mishanki\PhpEws\Type\ItemChangeType;
+use \mishanki\PhpEws\Type\ItemIdType;
+use \mishanki\PhpEws\Type\PathToUnindexedFieldType;
+use \mishanki\PhpEws\Type\SetItemFieldType;
 
 // Replace with the events to be updated along with their new start and end
 // times.

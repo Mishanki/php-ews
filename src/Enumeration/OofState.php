@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\OofState.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents a user's Out of Office (OOF) state.

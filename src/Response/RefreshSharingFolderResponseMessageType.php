@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\RefreshSharingFolderResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the status and result of a single RefreshSharingFolder operation

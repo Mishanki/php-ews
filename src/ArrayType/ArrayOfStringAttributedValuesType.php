@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents an array of names and the identifiers of their source attributions
@@ -21,7 +21,7 @@ class ArrayOfStringAttributedValuesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\StringAttributedValueType[]
+     * @var \mishanki\PhpEws\Type\StringAttributedValueType[]
      */
     public $StringAttributedValue = array();
 }

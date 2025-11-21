@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\MarkAsJunkType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines the request to move an item to the junk mail folder and to add the
@@ -30,7 +30,7 @@ class MarkAsJunkType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfBaseItemIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfBaseItemIdsType
      */
     public $ItemIds;
 

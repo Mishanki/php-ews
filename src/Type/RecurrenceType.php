@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\RecurrenceType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Defines the recurrence pattern for calendar items and meeting requests.
@@ -22,7 +22,7 @@ class RecurrenceType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\AbsoluteMonthlyRecurrencePatternType
+     * @var \mishanki\PhpEws\Type\AbsoluteMonthlyRecurrencePatternType
      */
     public $AbsoluteMonthlyRecurrence;
 
@@ -31,7 +31,7 @@ class RecurrenceType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\AbsoluteYearlyRecurrencePatternType
+     * @var \mishanki\PhpEws\Type\AbsoluteYearlyRecurrencePatternType
      */
     public $AbsoluteYearlyRecurrence;
 
@@ -41,7 +41,7 @@ class RecurrenceType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\DailyRecurrencePatternType
+     * @var \mishanki\PhpEws\Type\DailyRecurrencePatternType
      */
     public $DailyRecurrence;
 
@@ -53,7 +53,7 @@ class RecurrenceType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\EndDateRecurrenceRangeType
+     * @var \mishanki\PhpEws\Type\EndDateRecurrenceRangeType
      */
     public $EndDateRecurrence;
 
@@ -65,7 +65,7 @@ class RecurrenceType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\NoEndRecurrenceRangeType
+     * @var \mishanki\PhpEws\Type\NoEndRecurrenceRangeType
      */
     public $NoEndRecurrence;
 
@@ -78,7 +78,7 @@ class RecurrenceType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\NumberedRecurrenceRangeType
+     * @var \mishanki\PhpEws\Type\NumberedRecurrenceRangeType
      */
     public $NumberedRecurrence;
 
@@ -88,7 +88,7 @@ class RecurrenceType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\RelativeMonthlyRecurrencePatternType
+     * @var \mishanki\PhpEws\Type\RelativeMonthlyRecurrencePatternType
      */
     public $RelativeMonthlyRecurrence;
 
@@ -97,7 +97,7 @@ class RecurrenceType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\RelativeYearlyRecurrencePatternType
+     * @var \mishanki\PhpEws\Type\RelativeYearlyRecurrencePatternType
      */
     public $RelativeYearlyRecurrence;
 
@@ -107,7 +107,7 @@ class RecurrenceType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\WeeklyRecurrencePatternType
+     * @var \mishanki\PhpEws\Type\WeeklyRecurrencePatternType
      */
     public $WeeklyRecurrence;
 }

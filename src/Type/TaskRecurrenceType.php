@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\TaskRecurrenceType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Defines the recurrence pattern for recurring tasks.
@@ -21,7 +21,7 @@ class TaskRecurrenceType extends RecurrenceType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\DailyRegeneratingPatternType
+     * @var \mishanki\PhpEws\Type\DailyRegeneratingPatternType
      */
     public $DailyRegeneration;
 
@@ -31,7 +31,7 @@ class TaskRecurrenceType extends RecurrenceType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\MonthlyRegeneratingPatternType
+     * @var \mishanki\PhpEws\Type\MonthlyRegeneratingPatternType
      */
     public $MonthlyRegeneration;
 
@@ -41,7 +41,7 @@ class TaskRecurrenceType extends RecurrenceType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\WeeklyRegeneratingPatternType
+     * @var \mishanki\PhpEws\Type\WeeklyRegeneratingPatternType
      */
     public $WeeklyRegeneration;
 
@@ -51,7 +51,7 @@ class TaskRecurrenceType extends RecurrenceType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\YearlyRegeneratingPatternType
+     * @var \mishanki\PhpEws\Type\YearlyRegeneratingPatternType
      */
     public $YearlyRegeneration;
 }

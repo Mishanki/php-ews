@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\FolderType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Defines a folder to create, get, find, synchronize, or update.
@@ -17,7 +17,7 @@ class FolderType extends BaseFolderType
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\PermissionSetType
+     * @var \mishanki\PhpEws\Type\PermissionSetType
      */
     public $PermissionSet;
 

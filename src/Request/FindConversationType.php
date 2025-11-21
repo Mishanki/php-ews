@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\FindConversationType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to find conversations in a mailbox.
@@ -18,7 +18,7 @@ class FindConversationType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\ConversationShape
+     * @var \mishanki\PhpEws\Type\ConversationShape
      */
     public $ConversationShape;
 
@@ -27,7 +27,7 @@ class FindConversationType extends BaseRequestType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\IndexedPageViewType
+     * @var \mishanki\PhpEws\Type\IndexedPageViewType
      */
     public $IndexedPageItemView;
 
@@ -49,7 +49,7 @@ class FindConversationType extends BaseRequestType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\TargetFolderIdType
+     * @var \mishanki\PhpEws\Type\TargetFolderIdType
      */
     public $ParentFolderId;
 
@@ -58,7 +58,7 @@ class FindConversationType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\QueryStringType
+     * @var \mishanki\PhpEws\Type\QueryStringType
      */
     public $QueryString;
 
@@ -69,7 +69,7 @@ class FindConversationType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\SeekToConditionPageViewType
+     * @var \mishanki\PhpEws\Type\SeekToConditionPageViewType
      */
     public $SeekToConditionPageItemView;
 
@@ -81,7 +81,7 @@ class FindConversationType extends BaseRequestType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfFieldOrdersType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfFieldOrdersType
      */
     public $SortOrder;
 

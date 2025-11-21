@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\IntervalRecurrencePatternBaseType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Base class for recurrence patterns with an interval.

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\UserConfigurationDictionaryType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Defines a set of dictionary property entries for a user configuration object.
@@ -19,7 +19,7 @@ class UserConfigurationDictionaryType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\UserConfigurationDictionaryEntryType[]
+     * @var \mishanki\PhpEws\Type\UserConfigurationDictionaryEntryType[]
      */
     public $DictionaryEntry = array();
 }

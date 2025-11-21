@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ImAddressDictionaryEntryType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents an instant messaging (IM) address for a contact.

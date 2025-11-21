@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\IndexBasePointType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines whether a page of items or conversations will start from the

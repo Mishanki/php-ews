@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\MimeContentType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents the native Multipurpose Internet Mail Extensions (MIME) stream of

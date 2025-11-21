@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetMessageTrackingReportRequestType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Represents the request for the GetMessageTrackingReport Operation to retrieve
@@ -46,7 +46,7 @@ class GetMessageTrackingReportRequestType extends BaseRequestType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $RecipientFilter;
 
@@ -90,7 +90,7 @@ class GetMessageTrackingReportRequestType extends BaseRequestType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfTrackingPropertiesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfTrackingPropertiesType
      */
     public $Properties;
 }

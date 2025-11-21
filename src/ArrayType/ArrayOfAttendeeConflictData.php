@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfAttendeeConflictData.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines an array of conflict data.
@@ -22,7 +22,7 @@ class ArrayOfAttendeeConflictData extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\GroupAttendeeConflictData[]
+     * @var \mishanki\PhpEws\Type\GroupAttendeeConflictData[]
      */
     public $GroupAttendeeConflictData = array();
 
@@ -33,7 +33,7 @@ class ArrayOfAttendeeConflictData extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\IndividualAttendeeConflictData[]
+     * @var \mishanki\PhpEws\Type\IndividualAttendeeConflictData[]
      */
     public $IndividualAttendeeConflictData = array();
 
@@ -43,7 +43,7 @@ class ArrayOfAttendeeConflictData extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\TooBigGroupAttendeeConflictData[]
+     * @var \mishanki\PhpEws\Type\TooBigGroupAttendeeConflictData[]
      */
     public $TooBigGroupAttendeeConflictData = array();
 
@@ -53,7 +53,7 @@ class ArrayOfAttendeeConflictData extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\UnknownAttendeeConflictData[]
+     * @var \mishanki\PhpEws\Type\UnknownAttendeeConflictData[]
      */
     public $UnknownAttendeeConflictData = array();
 }

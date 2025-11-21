@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\FieldOrderType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a single field by which to sort results and indicates the
@@ -20,7 +20,7 @@ class FieldOrderType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\PathToExtendedFieldType
+     * @var \mishanki\PhpEws\Type\PathToExtendedFieldType
      */
     public $ExtendedFieldURI;
 
@@ -29,7 +29,7 @@ class FieldOrderType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\PathToUnindexedFieldType
+     * @var \mishanki\PhpEws\Type\PathToUnindexedFieldType
      */
     public $FieldURI;
 
@@ -38,7 +38,7 @@ class FieldOrderType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\PathToIndexedFieldType
+     * @var \mishanki\PhpEws\Type\PathToIndexedFieldType
      */
     public $IndexedFieldURI;
 

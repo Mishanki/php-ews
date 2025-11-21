@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\BaseMoveCopyFolderType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Base class for folder move and copy requests.
@@ -17,7 +17,7 @@ class BaseMoveCopyFolderType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType
      */
     public $FolderIds;
 
@@ -26,7 +26,7 @@ class BaseMoveCopyFolderType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\TargetFolderIdType
+     * @var \mishanki\PhpEws\Type\TargetFolderIdType
      */
     public $ToFolderId;
 }

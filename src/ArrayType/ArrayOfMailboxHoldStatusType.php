@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfMailboxHoldStatusType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines a list of one or more mailbox hold statuses.
@@ -19,7 +19,7 @@ class ArrayOfMailboxHoldStatusType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\MailboxHoldStatusType[]
+     * @var \mishanki\PhpEws\Type\MailboxHoldStatusType[]
      */
     public $MailboxHoldStatus = array();
 }

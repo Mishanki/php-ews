@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\SerializableTimeZoneTime.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents an offset from the time relative to Coordinated Universal Time

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\RecurringMasterItemIdType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Defines a  recurrence master item by identifying the identifiers of one of

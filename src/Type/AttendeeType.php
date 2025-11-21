@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\AttendeeType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents attendees and resources for a meeting.
@@ -30,7 +30,7 @@ class AttendeeType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $Mailbox;
 

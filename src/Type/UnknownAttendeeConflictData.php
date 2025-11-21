@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\UnknownAttendeeConflictData.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents an unresolvable attendee or an attendee that is not a user,

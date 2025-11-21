@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfUserMailboxesType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents an array of mailboxes.
@@ -19,7 +19,7 @@ class ArrayOfUserMailboxesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\UserMailboxType[]
+     * @var \mishanki\PhpEws\Type\UserMailboxType[]
      */
     public $UserMailbox = array();
 }

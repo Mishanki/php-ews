@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\ApplyConversationActionType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to apply actions to items in a conversation.
@@ -17,7 +17,7 @@ class ApplyConversationActionType extends BaseRequestType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfApplyConversationActionType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfApplyConversationActionType
      */
     public $ConversationActions;
 }

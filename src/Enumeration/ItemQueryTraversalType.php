@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ItemQueryTraversalType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Types of sub-tree traversal for deletion and enumeration.

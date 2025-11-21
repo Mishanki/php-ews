@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ConversationNodeSortOrder.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the sort order used for the result of a GetConversationItems request.

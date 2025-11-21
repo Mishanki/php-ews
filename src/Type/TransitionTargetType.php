@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\TransitionTargetType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Specifies the target of the time zone transition.

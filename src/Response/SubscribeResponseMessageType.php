@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\SubscribeResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the status and result of a single Subscribe Operation request.

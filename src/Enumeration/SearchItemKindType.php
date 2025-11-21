@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\SearchItemKindType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the type of item to search for.

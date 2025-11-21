@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\UnsubscribeType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines the properties used to unsubscribe from a subscription.

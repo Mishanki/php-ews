@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ProtectionRuleType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a single protection rule.
@@ -20,7 +20,7 @@ class ProtectionRuleType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\ProtectionRuleActionType
+     * @var \mishanki\PhpEws\Type\ProtectionRuleActionType
      */
     public $Action;
 
@@ -30,7 +30,7 @@ class ProtectionRuleType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\ProtectionRuleConditionType
+     * @var \mishanki\PhpEws\Type\ProtectionRuleConditionType
      */
     public $Condition;
 

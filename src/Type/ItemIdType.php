@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\ItemIdType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Contains the unique identifier and change key of an item in the Exchange

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\ResponseObjectCoreType;
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Internal abstract base type for reply objects.

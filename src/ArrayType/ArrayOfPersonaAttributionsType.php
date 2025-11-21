@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfPersonaAttributionsType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Specifies an array of attribution information for one or more of the contacts
@@ -20,7 +20,7 @@ class ArrayOfPersonaAttributionsType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\PersonaAttributionType[]
+     * @var \mishanki\PhpEws\Type\PersonaAttributionType[]
      */
     public $Attribution = array();
 }

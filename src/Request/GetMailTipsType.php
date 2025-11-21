@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetMailTipsType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Represents the recipients and types of mail tips to retrieve.
@@ -28,7 +28,7 @@ class GetMailTipsType extends BaseRequestType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRecipientsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRecipientsType
      */
     public $Recipients;
 
@@ -37,7 +37,7 @@ class GetMailTipsType extends BaseRequestType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $SendingAs;
 }

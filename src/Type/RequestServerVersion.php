@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\RequestServerVersion.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Defines the Microsoft Exchange Server version of a request.

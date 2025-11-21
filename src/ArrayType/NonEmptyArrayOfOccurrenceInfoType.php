@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfOccurrenceInfoType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents an array of recurring calendar item occurrences that have been
@@ -20,7 +20,7 @@ class NonEmptyArrayOfOccurrenceInfoType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\OccurrenceInfoType[]
+     * @var \mishanki\PhpEws\Type\OccurrenceInfoType[]
      */
     public $Occurrence = array();
 }

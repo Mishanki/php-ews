@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\FindItemParentType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents the results of a search of a single root folder during a FindItem
@@ -33,7 +33,7 @@ class FindItemParentType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfGroupedItemsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfGroupedItemsType
      */
     public $Groups;
 
@@ -63,7 +63,7 @@ class FindItemParentType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRealItemsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRealItemsType
      */
     public $Items;
 

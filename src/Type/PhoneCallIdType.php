@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\PhoneCallIdType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents the identifier of a phone call.

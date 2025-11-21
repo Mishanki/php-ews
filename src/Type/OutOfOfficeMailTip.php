@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\OutOfOfficeMailTip.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents the response message and a duration time for sending the response
@@ -21,7 +21,7 @@ class OutOfOfficeMailTip extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\Duration
+     * @var \mishanki\PhpEws\Type\Duration
      */
     public $Duration;
 
@@ -31,7 +31,7 @@ class OutOfOfficeMailTip extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\ReplyBody
+     * @var \mishanki\PhpEws\Type\ReplyBody
      */
     public $ReplyBody;
 }

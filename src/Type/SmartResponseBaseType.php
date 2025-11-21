@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\SmartResponseBaseType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Base class for smart responses.
@@ -23,7 +23,7 @@ class SmartResponseBaseType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRecipientsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRecipientsType
      */
     public $BccRecipients;
 
@@ -32,7 +32,7 @@ class SmartResponseBaseType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\BodyType
+     * @var \mishanki\PhpEws\Type\BodyType
      */
     public $Body;
 
@@ -42,7 +42,7 @@ class SmartResponseBaseType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRecipientsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRecipientsType
      */
     public $CcRecipients;
 
@@ -51,7 +51,7 @@ class SmartResponseBaseType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SingleRecipientType
+     * @var \mishanki\PhpEws\Type\SingleRecipientType
      */
     public $From;
 
@@ -78,7 +78,7 @@ class SmartResponseBaseType extends Type
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\SingleRecipientType
+     * @var \mishanki\PhpEws\Type\SingleRecipientType
      */
     public $ReceivedBy;
 
@@ -87,7 +87,7 @@ class SmartResponseBaseType extends Type
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\SingleRecipientType
+     * @var \mishanki\PhpEws\Type\SingleRecipientType
      */
     public $ReceivedRepresenting;
 
@@ -96,7 +96,7 @@ class SmartResponseBaseType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemIdType
+     * @var \mishanki\PhpEws\Type\ItemIdType
      */
     public $ReferenceItemId;
 
@@ -116,7 +116,7 @@ class SmartResponseBaseType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRecipientsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRecipientsType
      */
     public $ToRecipients;
 }

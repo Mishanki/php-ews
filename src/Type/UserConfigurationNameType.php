@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\UserConfigurationNameType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents the name of a user configuration object. The user configuration

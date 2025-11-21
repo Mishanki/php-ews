@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfFindMessageTrackingSearchResultType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents a list of records that match the search criteria.
@@ -20,7 +20,7 @@ class ArrayOfFindMessageTrackingSearchResultType extends ArrayType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\FindMessageTrackingSearchResultType[]
+     * @var \mishanki\PhpEws\Type\FindMessageTrackingSearchResultType[]
      */
     public $MessageTrackingSearchResult = array();
 }

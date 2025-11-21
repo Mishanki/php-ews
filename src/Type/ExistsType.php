@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\ExistsType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a search expression that returns true if the supplied property

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\PhoneNumberKeyType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents the key for a phone number.

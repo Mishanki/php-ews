@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\TwoOperandExpressionType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Base class for search expressions with two operands.
@@ -18,7 +18,7 @@ abstract class TwoOperandExpressionType extends SearchExpressionType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\FieldURIOrConstantType
+     * @var \mishanki\PhpEws\Type\FieldURIOrConstantType
      */
     public $FieldURIOrConstant;
 }

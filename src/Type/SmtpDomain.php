@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\SmtpDomain.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a single SMTP domain.

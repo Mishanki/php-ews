@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\SetRuleOperationType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents an operation to update an existing rule.
@@ -17,7 +17,7 @@ class SetRuleOperationType extends RuleOperationType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\RuleType
+     * @var \mishanki\PhpEws\Type\RuleType
      */
     public $Rule;
 }

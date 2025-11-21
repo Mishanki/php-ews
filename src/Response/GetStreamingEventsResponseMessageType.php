@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetStreamingEventsResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the status and result of a single GetStreamingEvents operation
@@ -29,7 +29,7 @@ class GetStreamingEventsResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfSubscriptionIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfSubscriptionIdsType
      */
     public $ErrorSubscriptionIds;
 
@@ -39,7 +39,7 @@ class GetStreamingEventsResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfNotificationsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfNotificationsType
      */
     public $Notifications;
 }

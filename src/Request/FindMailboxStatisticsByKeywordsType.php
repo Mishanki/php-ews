@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\FindMailboxStatisticsByKeywordsType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to search for mailbox statistics by keyword.
@@ -47,7 +47,7 @@ class FindMailboxStatisticsByKeywordsType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringsType
      */
     public $Keywords;
 
@@ -65,7 +65,7 @@ class FindMailboxStatisticsByKeywordsType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfUserMailboxesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfUserMailboxesType
      */
     public $Mailboxes;
 
@@ -74,7 +74,7 @@ class FindMailboxStatisticsByKeywordsType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfSearchItemKindsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfSearchItemKindsType
      */
     public $MessageTypes;
 
@@ -83,7 +83,7 @@ class FindMailboxStatisticsByKeywordsType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfSmtpAddressType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfSmtpAddressType
      */
     public $Recipients;
 
@@ -101,7 +101,7 @@ class FindMailboxStatisticsByKeywordsType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfSmtpAddressType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfSmtpAddressType
      */
     public $Senders;
 

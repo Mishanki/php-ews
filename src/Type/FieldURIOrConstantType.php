@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\FieldURIOrConstantType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents either a property or a constant value to be used when comparing
@@ -18,7 +18,7 @@ class FieldURIOrConstantType extends SearchExpressionType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ConstantValueType
+     * @var \mishanki\PhpEws\Type\ConstantValueType
      */
     public $Constant;
 }

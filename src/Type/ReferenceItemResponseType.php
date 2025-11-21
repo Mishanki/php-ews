@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\ReferenceItemResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Base class for responding to items with a reference.

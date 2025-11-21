@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetSharingFolderResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the status and result of a single GetSharingFolder operation
@@ -18,7 +18,7 @@ class GetSharingFolderResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\FolderIdType
+     * @var \mishanki\PhpEws\Type\FolderIdType
      */
     public $SharingFolderId;
 }

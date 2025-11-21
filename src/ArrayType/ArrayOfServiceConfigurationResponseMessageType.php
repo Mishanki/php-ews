@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfServiceConfigurationResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents an array of service configuration response messages.
@@ -21,7 +21,7 @@ class ArrayOfServiceConfigurationResponseMessageType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Response\ServiceConfigurationResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\ServiceConfigurationResponseMessageType[]
      */
     public $ServiceConfigurationResponseMessageType = array();
 }

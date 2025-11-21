@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\EndDateRecurrenceRangeType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Describes the start date and the end date of an item recurrence pattern.

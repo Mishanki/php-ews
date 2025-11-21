@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\WeeklyRegeneratingPatternType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Describes the frequency, in weeks, in which a task is regenerated.

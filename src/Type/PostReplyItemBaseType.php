@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\PostReplyItemBaseType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Base class for posting item replies.

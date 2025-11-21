@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\FreeBusyResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents the free/busy information for a single mailbox user.
@@ -19,7 +19,7 @@ class FreeBusyResponseType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\FreeBusyView
+     * @var \mishanki\PhpEws\Type\FreeBusyView
      */
     public $FreeBusyView;
 
@@ -28,7 +28,7 @@ class FreeBusyResponseType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\ResponseMessageType
+     * @var \mishanki\PhpEws\Response\ResponseMessageType
      */
     public $ResponseMessage;
 }

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\CalendarFolderType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a folder that primarily contains calendar items.
@@ -17,7 +17,7 @@ class CalendarFolderType extends BaseFolderType
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\CalendarPermissionSetType
+     * @var \mishanki\PhpEws\Type\CalendarPermissionSetType
      */
     public $PermissionSet;
 

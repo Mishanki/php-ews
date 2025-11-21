@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfSearchableMailboxesType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines an array of mailboxes that can be searched.
@@ -19,7 +19,7 @@ class ArrayOfSearchableMailboxesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\SearchableMailboxType[]
+     * @var \mishanki\PhpEws\Type\SearchableMailboxType[]
      */
     public $SearchableMailbox = array();
 }

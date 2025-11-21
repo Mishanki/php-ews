@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\IndividualAttendeeConflictData.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a user's or contact's free/busy status for a time window that

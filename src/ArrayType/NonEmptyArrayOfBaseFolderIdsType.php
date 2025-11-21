@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents the collection of folders that will be mined to determine the
@@ -21,7 +21,7 @@ class NonEmptyArrayOfBaseFolderIdsType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\DistinguishedFolderIdType[]
+     * @var \mishanki\PhpEws\Type\DistinguishedFolderIdType[]
      */
     public $DistinguishedFolderId = array();
 
@@ -30,7 +30,7 @@ class NonEmptyArrayOfBaseFolderIdsType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\FolderIdType[]
+     * @var \mishanki\PhpEws\Type\FolderIdType[]
      */
     public $FolderId = array();
 }

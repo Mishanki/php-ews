@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\RuleActionsType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents the set of actions that are available to be taken on a message
@@ -20,7 +20,7 @@ class RuleActionsType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringsType
      */
     public $AssignCategories;
 
@@ -29,7 +29,7 @@ class RuleActionsType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\TargetFolderIdType
+     * @var \mishanki\PhpEws\Type\TargetFolderIdType
      */
     public $CopyToFolder;
 
@@ -48,7 +48,7 @@ class RuleActionsType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfEmailAddressesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfEmailAddressesType
      */
     public $ForwardAsAttachmentToRecipients;
 
@@ -57,7 +57,7 @@ class RuleActionsType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfEmailAddressesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfEmailAddressesType
      */
     public $ForwardToRecipients;
 
@@ -86,7 +86,7 @@ class RuleActionsType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\TargetFolderIdType
+     * @var \mishanki\PhpEws\Type\TargetFolderIdType
      */
     public $MoveToFolder;
 
@@ -105,7 +105,7 @@ class RuleActionsType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfEmailAddressesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfEmailAddressesType
      */
     public $RedirectToRecipients;
 
@@ -115,7 +115,7 @@ class RuleActionsType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfEmailAddressesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfEmailAddressesType
      */
     public $SendSMSAlertToRecipients;
 
@@ -125,7 +125,7 @@ class RuleActionsType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemIdType
+     * @var \mishanki\PhpEws\Type\ItemIdType
      */
     public $ServerReplyWithMessage;
 

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\PhysicalAddressDictionaryEntryType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Describes a single physical address for a contact item.

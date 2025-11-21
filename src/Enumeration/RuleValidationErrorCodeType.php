@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\RuleValidationErrorCodeType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents a rule validation error code that describes what failed validation

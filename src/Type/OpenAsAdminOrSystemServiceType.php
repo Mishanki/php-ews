@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\OpenAsAdminOrSystemServiceType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * For internal use only. Not used by clients.

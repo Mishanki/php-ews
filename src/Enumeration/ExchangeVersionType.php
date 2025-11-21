@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ExchangeVersionType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the versioning information that identifies the schema version to

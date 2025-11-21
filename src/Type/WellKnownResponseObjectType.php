@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\WellKnownResponseObjectType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Base class fot meeting request replies.

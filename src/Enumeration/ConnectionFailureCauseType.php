@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\EnumerationConnectionFailureCauseType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Specifies the reason for a disconnection from a telephone call.

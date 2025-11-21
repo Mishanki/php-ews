@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ImItemListType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines a list of instant messaging groups and instant messaging contacts.
@@ -19,7 +19,7 @@ class ImItemListType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfImGroupType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfImGroupType
      */
     public $Groups;
 
@@ -28,7 +28,7 @@ class ImItemListType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPeopleType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPeopleType
      */
     public $Personas;
 }

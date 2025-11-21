@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\FindItemType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to find items in a mailbox.
@@ -19,7 +19,7 @@ class FindItemType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\CalendarViewType
+     * @var \mishanki\PhpEws\Type\CalendarViewType
      */
     public $CalendarView;
 
@@ -30,7 +30,7 @@ class FindItemType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ContactsViewType
+     * @var \mishanki\PhpEws\Type\ContactsViewType
      */
     public $ContactsView;
 
@@ -41,7 +41,7 @@ class FindItemType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\DistinguishedGroupByType
+     * @var \mishanki\PhpEws\Type\DistinguishedGroupByType
      */
     public $DistinguishedGroupBy;
 
@@ -56,7 +56,7 @@ class FindItemType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\FractionalPageViewType
+     * @var \mishanki\PhpEws\Type\FractionalPageViewType
      */
     public $FractionalPageItemView;
 
@@ -67,7 +67,7 @@ class FindItemType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\GroupByType
+     * @var \mishanki\PhpEws\Type\GroupByType
      */
     public $GroupBy;
 
@@ -78,7 +78,7 @@ class FindItemType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\IndexedPageViewType
+     * @var \mishanki\PhpEws\Type\IndexedPageViewType
      */
     public $IndexedPageItemView;
 
@@ -88,7 +88,7 @@ class FindItemType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemResponseShapeType
+     * @var \mishanki\PhpEws\Type\ItemResponseShapeType
      */
     public $ItemShape;
 
@@ -97,7 +97,7 @@ class FindItemType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType
      */
     public $ParentFolderIds;
 
@@ -106,7 +106,7 @@ class FindItemType extends BaseRequestType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\QueryStringType
+     * @var \mishanki\PhpEws\Type\QueryStringType
      */
     public $QueryString;
 
@@ -118,7 +118,7 @@ class FindItemType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\RestrictionType
+     * @var \mishanki\PhpEws\Type\RestrictionType
      */
     public $Restriction;
 
@@ -129,7 +129,7 @@ class FindItemType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfFieldOrdersType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfFieldOrdersType
      */
     public $SortOrder;
 

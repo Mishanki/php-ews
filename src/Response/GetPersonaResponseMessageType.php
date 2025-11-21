@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetPersonaResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines the response for a GetPersona request.
@@ -17,7 +17,7 @@ class GetPersonaResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\PersonaType
+     * @var \mishanki\PhpEws\Type\PersonaType
      */
     public $Persona;
 }

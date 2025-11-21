@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\DeleteAttachmentType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Represents a request to delete an attachment from the Exchange store.
@@ -18,7 +18,7 @@ class DeleteAttachmentType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfRequestAttachmentIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfRequestAttachmentIdsType
      */
     public $AttachmentIds;
 }

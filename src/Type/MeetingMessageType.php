@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\MeetingMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a meeting in the Exchange store.
@@ -17,7 +17,7 @@ class MeetingMessageType extends MessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemIdType
+     * @var \mishanki\PhpEws\Type\ItemIdType
      */
     public $AssociatedCalendarItemId;
 

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\AddImGroupType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to add a new instant messaging group.

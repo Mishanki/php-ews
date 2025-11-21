@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\UserIdType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Identifies a delegate user or a user who has folder access permissions.

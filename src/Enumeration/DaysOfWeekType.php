@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\DaysOfWeekType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
 /**
  * Represents days of the week that are used in item recurrence patterns.

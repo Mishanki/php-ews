@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\SyncFolderItemsScopeType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines whether just items or items and folder associated information are

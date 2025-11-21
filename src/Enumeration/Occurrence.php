@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\Occurrence.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents the occurrence of the day of the week in a month.

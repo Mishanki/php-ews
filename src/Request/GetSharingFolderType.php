@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetSharingFolderType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to get the local folder identifier of a specified shared

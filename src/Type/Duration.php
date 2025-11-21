@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\Duration.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a time span.

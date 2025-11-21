@@ -1,25 +1,25 @@
 <?php
 require_once '../../vendor/autoload.php';
 
-use \jamesiarmes\PhpEws\Client;
-use \jamesiarmes\PhpEws\Request\UpdateItemType;
+use \mishanki\PhpEws\Client;
+use \mishanki\PhpEws\Request\UpdateItemType;
 
-use \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfItemChangeDescriptionsType;
+use \mishanki\PhpEws\ArrayType\NonEmptyArrayOfItemChangeDescriptionsType;
 
-use \jamesiarmes\PhpEws\Enumeration\ConflictResolutionType;
-use \jamesiarmes\PhpEws\Enumeration\DictionaryURIType;
-use \jamesiarmes\PhpEws\Enumeration\EmailAddressKeyType;
-use \jamesiarmes\PhpEws\Enumeration\ResponseClassType;
+use \mishanki\PhpEws\Enumeration\ConflictResolutionType;
+use \mishanki\PhpEws\Enumeration\DictionaryURIType;
+use \mishanki\PhpEws\Enumeration\EmailAddressKeyType;
+use \mishanki\PhpEws\Enumeration\ResponseClassType;
 
-use \jamesiarmes\PhpEws\Type\ContactItemType;
-use \jamesiarmes\PhpEws\Type\DeleteItemFieldType;
-use \jamesiarmes\PhpEws\Type\EmailAddressDictionaryEntryType;
-use \jamesiarmes\PhpEws\Type\EmailAddressDictionaryType;
-use \jamesiarmes\PhpEws\Type\ItemChangeType;
-use \jamesiarmes\PhpEws\Type\ItemIdType;
-use \jamesiarmes\PhpEws\Type\PathToIndexedFieldType;
-use \jamesiarmes\PhpEws\Type\PathToUnindexedFieldType;
-use \jamesiarmes\PhpEws\Type\SetItemFieldType;
+use \mishanki\PhpEws\Type\ContactItemType;
+use \mishanki\PhpEws\Type\DeleteItemFieldType;
+use \mishanki\PhpEws\Type\EmailAddressDictionaryEntryType;
+use \mishanki\PhpEws\Type\EmailAddressDictionaryType;
+use \mishanki\PhpEws\Type\ItemChangeType;
+use \mishanki\PhpEws\Type\ItemIdType;
+use \mishanki\PhpEws\Type\PathToIndexedFieldType;
+use \mishanki\PhpEws\Type\PathToUnindexedFieldType;
+use \mishanki\PhpEws\Type\SetItemFieldType;
 
 $contact_updates = array(
     array(

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\PermissionLevelType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents the permission level that a user has on a folder.

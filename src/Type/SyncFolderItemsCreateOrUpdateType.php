@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\SyncFolderItemsCreateOrUpdateType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Identifies a single item to create in the local client store.
@@ -19,7 +19,7 @@ class SyncFolderItemsCreateOrUpdateType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\CalendarItemType
+     * @var \mishanki\PhpEws\Type\CalendarItemType
      */
     public $CalendarItem;
 
@@ -28,7 +28,7 @@ class SyncFolderItemsCreateOrUpdateType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ContactItemType
+     * @var \mishanki\PhpEws\Type\ContactItemType
      */
     public $Contact;
 
@@ -37,7 +37,7 @@ class SyncFolderItemsCreateOrUpdateType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\DistributionListType
+     * @var \mishanki\PhpEws\Type\DistributionListType
      */
     public $DistributionList;
 
@@ -46,7 +46,7 @@ class SyncFolderItemsCreateOrUpdateType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemType
+     * @var \mishanki\PhpEws\Type\ItemType
      */
     public $Item;
 
@@ -55,7 +55,7 @@ class SyncFolderItemsCreateOrUpdateType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\MeetingCancellationMessageType
+     * @var \mishanki\PhpEws\Type\MeetingCancellationMessageType
      */
     public $MeetingCancellation;
 
@@ -64,7 +64,7 @@ class SyncFolderItemsCreateOrUpdateType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\MeetingMessageType
+     * @var \mishanki\PhpEws\Type\MeetingMessageType
      */
     public $MeetingMessage;
 
@@ -73,7 +73,7 @@ class SyncFolderItemsCreateOrUpdateType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\MeetingRequestMessageType
+     * @var \mishanki\PhpEws\Type\MeetingRequestMessageType
      */
     public $MeetingRequest;
 
@@ -82,7 +82,7 @@ class SyncFolderItemsCreateOrUpdateType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\MeetingResponseMessageType
+     * @var \mishanki\PhpEws\Type\MeetingResponseMessageType
      */
     public $MeetingResponse;
 
@@ -91,7 +91,7 @@ class SyncFolderItemsCreateOrUpdateType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\MessageType
+     * @var \mishanki\PhpEws\Type\MessageType
      */
     public $Message;
 
@@ -100,7 +100,7 @@ class SyncFolderItemsCreateOrUpdateType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\PostItemType
+     * @var \mishanki\PhpEws\Type\PostItemType
      */
     public $PostItem;
 
@@ -109,7 +109,7 @@ class SyncFolderItemsCreateOrUpdateType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\TaskType
+     * @var \mishanki\PhpEws\Type\TaskType
      */
     public $Task;
 }

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Response\GetUserOofSettingsResponse.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
-use \jamesiarmes\PhpEws\Response;
+use \mishanki\PhpEws\Response;
 
 /**
  * Represents the response message and the Out of Office (OOF) settings for a
@@ -31,7 +31,7 @@ class GetUserOofSettingsResponse extends Response
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\UserOofSettings
+     * @var \mishanki\PhpEws\Type\UserOofSettings
      */
     public $OofSettings;
 
@@ -40,7 +40,7 @@ class GetUserOofSettingsResponse extends Response
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\ResponseMessageType
+     * @var \mishanki\PhpEws\Response\ResponseMessageType
      */
     public $ResponseMessage;
 }

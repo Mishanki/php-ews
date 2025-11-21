@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\MailTipsResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents mail tips settings.
@@ -17,7 +17,7 @@ class MailTipsResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\MailTips
+     * @var \mishanki\PhpEws\Type\MailTips
      */
     public $MailTips;
 }

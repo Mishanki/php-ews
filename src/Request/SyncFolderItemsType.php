@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\SyncFolderItemsType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to synchronize items in an Exchange store folder.
@@ -19,7 +19,7 @@ class SyncFolderItemsType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfBaseItemIdsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfBaseItemIdsType
      */
     public $Ignore;
 
@@ -31,7 +31,7 @@ class SyncFolderItemsType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemResponseShapeType
+     * @var \mishanki\PhpEws\Type\ItemResponseShapeType
      */
     public $ItemShape;
 
@@ -54,7 +54,7 @@ class SyncFolderItemsType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\TargetFolderIdType
+     * @var \mishanki\PhpEws\Type\TargetFolderIdType
      */
     public $SyncFolderId;
 

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\SearchMailboxesResultType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines the result of a SearchMailboxes request.
@@ -19,7 +19,7 @@ class SearchMailboxesResultType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfMailboxQueriesType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfMailboxQueriesType
      */
     public $SearchQueries;
 
@@ -75,7 +75,7 @@ class SearchMailboxesResultType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfKeywordStatisticsSearchResultsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfKeywordStatisticsSearchResultsType
      */
     public $KeywordStats;
 
@@ -84,7 +84,7 @@ class SearchMailboxesResultType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfSearchPreviewItemsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfSearchPreviewItemsType
      */
     public $Items;
 
@@ -93,7 +93,7 @@ class SearchMailboxesResultType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfFailedSearchMailboxesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfFailedSearchMailboxesType
      */
     public $FailedMailboxes;
 
@@ -102,7 +102,7 @@ class SearchMailboxesResultType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfSearchRefinerItemsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfSearchRefinerItemsType
      */
     public $Refiners;
 
@@ -111,7 +111,7 @@ class SearchMailboxesResultType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfMailboxStatisticsItemsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfMailboxStatisticsItemsType
      */
     public $MailboxStats;
 }

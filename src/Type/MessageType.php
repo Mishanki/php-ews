@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\MessageType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a Microsoft Exchange e-mail message.
@@ -18,7 +18,7 @@ class MessageType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRecipientsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRecipientsType
      */
     public $BccRecipients;
 
@@ -28,7 +28,7 @@ class MessageType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRecipientsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRecipientsType
      */
     public $CcRecipients;
 
@@ -58,7 +58,7 @@ class MessageType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SingleRecipientType
+     * @var \mishanki\PhpEws\Type\SingleRecipientType
      */
     public $From;
 
@@ -122,7 +122,7 @@ class MessageType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRecipientsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRecipientsType
      */
     public $ReplyTo;
 
@@ -131,7 +131,7 @@ class MessageType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SingleRecipientType
+     * @var \mishanki\PhpEws\Type\SingleRecipientType
      */
     public $Sender;
 
@@ -140,7 +140,7 @@ class MessageType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRecipientsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRecipientsType
      */
     public $ToRecipients;
 }

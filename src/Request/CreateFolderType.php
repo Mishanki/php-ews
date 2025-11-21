@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\CreateFolderType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to create a folder in the Exchange store.
@@ -17,7 +17,7 @@ class CreateFolderType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfFoldersType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfFoldersType
      */
     public $Folders;
 
@@ -26,7 +26,7 @@ class CreateFolderType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\TargetFolderIdType
+     * @var \mishanki\PhpEws\Type\TargetFolderIdType
      */
     public $ParentFolderId;
 }

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetDiscoverySearchConfigurationResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines the response to a GetDiscoverySearchConfiguration request.
@@ -17,7 +17,7 @@ class GetDiscoverySearchConfigurationResponseMessageType extends ResponseMessage
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfDiscoverySearchConfigurationType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfDiscoverySearchConfigurationType
      */
     public $DiscoverySearchConfigurations;
 }

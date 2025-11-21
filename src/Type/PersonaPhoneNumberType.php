@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\PersonaPhoneNumberType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a phone number and type information and is associated with a set

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\UpdateItemType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to update an item in a mailbox.
@@ -31,7 +31,7 @@ class UpdateItemType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfItemChangesType[]
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfItemChangesType[]
      */
     public $ItemChanges;
 
@@ -56,7 +56,7 @@ class UpdateItemType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\TargetFolderIdType
+     * @var \mishanki\PhpEws\Type\TargetFolderIdType
      */
     public $SavedItemFolderId;
 

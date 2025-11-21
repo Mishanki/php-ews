@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfExtendedFieldURIs.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines the extended properties used for a request.
@@ -19,7 +19,7 @@ class NonEmptyArrayOfExtendedFieldURIs extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\PathToExtendedFieldType[]
+     * @var \mishanki\PhpEws\Type\PathToExtendedFieldType[]
      */
     public $ExtendedProperty = array();
 }

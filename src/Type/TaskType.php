@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\TaskType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a task in the Exchange store.
@@ -56,7 +56,7 @@ class TaskType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringsType
      */
     public $Companies;
 
@@ -76,7 +76,7 @@ class TaskType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringsType
      */
     public $Contacts;
 
@@ -195,7 +195,7 @@ class TaskType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\RecurrenceType
+     * @var \mishanki\PhpEws\Type\RecurrenceType
      */
     public $Recurrence;
 

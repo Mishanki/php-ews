@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\WeeklyRecurrencePatternType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Describes a weekly recurrence pattern.

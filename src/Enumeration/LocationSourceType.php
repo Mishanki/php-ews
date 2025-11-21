@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\LocationSourceType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Specifies information about the origin of an associated postal address, for

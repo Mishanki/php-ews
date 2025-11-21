@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfRestrictedGroupIdentifiersType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents a collection of restricted groups from a user's token.
@@ -20,7 +20,7 @@ class NonEmptyArrayOfRestrictedGroupIdentifiersType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SidAndAttributesType[]
+     * @var \mishanki\PhpEws\Type\SidAndAttributesType[]
      */
     public $RestrictedGroupIdentifier = array();
 }

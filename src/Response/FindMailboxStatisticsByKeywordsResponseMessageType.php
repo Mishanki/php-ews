@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\FindMailboxStatisticsByKeywordsResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the response message for a FindMailboxStatisticsByKeywords
@@ -18,7 +18,7 @@ class FindMailboxStatisticsByKeywordsResponseMessageType extends ResponseMessage
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\MailboxStatisticsSearchResultType
+     * @var \mishanki\PhpEws\Type\MailboxStatisticsSearchResultType
      */
     public $MailboxStatisticsSearchResult;
 }

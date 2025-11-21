@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\DayOfWeekIndexType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the type of a calendar item.

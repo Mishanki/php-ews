@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\MultipleOperandBooleanExpressionType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Base class for derived elements that represent a restriction formed by two or
@@ -21,7 +21,7 @@ abstract class MultipleOperandBooleanExpressionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\AndType
+     * @var \mishanki\PhpEws\Type\AndType
      */
     public $And;
 
@@ -31,7 +31,7 @@ abstract class MultipleOperandBooleanExpressionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ContainsExpressionType
+     * @var \mishanki\PhpEws\Type\ContainsExpressionType
      */
     public $Contains;
 
@@ -40,7 +40,7 @@ abstract class MultipleOperandBooleanExpressionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ExcludesType
+     * @var \mishanki\PhpEws\Type\ExcludesType
      */
     public $Excludes;
 
@@ -50,7 +50,7 @@ abstract class MultipleOperandBooleanExpressionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ExistsType
+     * @var \mishanki\PhpEws\Type\ExistsType
      */
     public $Exists;
 
@@ -61,7 +61,7 @@ abstract class MultipleOperandBooleanExpressionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\IsEqualToType
+     * @var \mishanki\PhpEws\Type\IsEqualToType
      */
     public $IsEqualTo;
 
@@ -72,7 +72,7 @@ abstract class MultipleOperandBooleanExpressionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\IsGreaterThanType
+     * @var \mishanki\PhpEws\Type\IsGreaterThanType
      */
     public $IsGreaterThan;
 
@@ -83,7 +83,7 @@ abstract class MultipleOperandBooleanExpressionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\IsGreaterThanOrEqualToType
+     * @var \mishanki\PhpEws\Type\IsGreaterThanOrEqualToType
      */
     public $IsGreaterThanOrEqualTo;
 
@@ -94,7 +94,7 @@ abstract class MultipleOperandBooleanExpressionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\IsLessThanType
+     * @var \mishanki\PhpEws\Type\IsLessThanType
      */
     public $IsLessThan;
 
@@ -105,7 +105,7 @@ abstract class MultipleOperandBooleanExpressionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\IsLessThanOrEqualToType
+     * @var \mishanki\PhpEws\Type\IsLessThanOrEqualToType
      */
     public $IsLessThanOrEqualTo;
 
@@ -116,7 +116,7 @@ abstract class MultipleOperandBooleanExpressionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\IsNotEqualToType
+     * @var \mishanki\PhpEws\Type\IsNotEqualToType
      */
     public $IsNotEqualTo;
 
@@ -126,7 +126,7 @@ abstract class MultipleOperandBooleanExpressionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\NotType
+     * @var \mishanki\PhpEws\Type\NotType
      */
     public $Not;
 
@@ -137,7 +137,7 @@ abstract class MultipleOperandBooleanExpressionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\OrType
+     * @var \mishanki\PhpEws\Type\OrType
      */
     public $Or;
 }

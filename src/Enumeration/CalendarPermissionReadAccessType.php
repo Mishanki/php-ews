@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\CalendarPermissionReadAccessType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
 /**
  * Indicates whether a user has permission to read items within a Calendar

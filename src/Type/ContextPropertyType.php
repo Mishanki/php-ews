@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ContextPropertyType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines the context for an item.

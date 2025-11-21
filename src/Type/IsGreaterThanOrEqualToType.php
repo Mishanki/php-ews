@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\IsGreaterThanOrEqualToType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a search expression that compares a property with either a

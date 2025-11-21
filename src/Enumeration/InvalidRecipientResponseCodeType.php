@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\InvalidRecipientResponseCodeType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Provides information about why a recipient is invalid.

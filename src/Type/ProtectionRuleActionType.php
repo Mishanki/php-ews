@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ProtectionRuleActionType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Identifies what action must be executed if the condition part of a rule
@@ -25,7 +25,7 @@ class ProtectionRuleActionType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\ProtectionRuleArgumentType
+     * @var \mishanki\PhpEws\Type\ProtectionRuleArgumentType
      */
     public $Argument;
 

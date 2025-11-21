@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ImGroupType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines an instant messaging group.
@@ -29,7 +29,7 @@ class ImGroupType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemIdType
+     * @var \mishanki\PhpEws\Type\ItemIdType
      */
     public $ExchangeStoreId;
 
@@ -38,7 +38,7 @@ class ImGroupType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfExtendedPropertyType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfExtendedPropertyType
      */
     public $ExtendedProperties;
 
@@ -57,7 +57,7 @@ class ImGroupType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfItemIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfItemIdsType
      */
     public $MemberCorrelationKey;
 

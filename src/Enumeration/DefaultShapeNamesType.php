@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\DefaultShapeNamesType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the set of properties to return in an item or folder response.

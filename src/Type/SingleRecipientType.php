@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\SingleRecipientType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Identifies the delegate in a delegate access scenario.
@@ -19,7 +19,7 @@ class SingleRecipientType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $Mailbox;
 }

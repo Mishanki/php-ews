@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\FreeBusyViewType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents the type of free/busy information returned in the response.

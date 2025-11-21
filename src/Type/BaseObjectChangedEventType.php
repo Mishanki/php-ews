@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\BaseObjectChangedEventType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents an event in which an item or folder is created.
@@ -17,7 +17,7 @@ class BaseObjectChangedEventType extends BaseNotificationEventType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\FolderIdType
+     * @var \mishanki\PhpEws\Type\FolderIdType
      */
     public $FolderId;
 
@@ -26,7 +26,7 @@ class BaseObjectChangedEventType extends BaseNotificationEventType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemIdType
+     * @var \mishanki\PhpEws\Type\ItemIdType
      */
     public $ItemId;
 
@@ -35,7 +35,7 @@ class BaseObjectChangedEventType extends BaseNotificationEventType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\FolderIdType
+     * @var \mishanki\PhpEws\Type\FolderIdType
      */
     public $ParentFolderId;
 

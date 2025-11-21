@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\UpdateDelegateType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to update delegates in a mailbox.
@@ -18,7 +18,7 @@ class UpdateDelegateType extends BaseDelegateType
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfDelegateUserType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfDelegateUserType
      */
     public $DelegateUsers;
 

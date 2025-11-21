@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfExtendedAttributesType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Internal use only.
@@ -19,7 +19,7 @@ class ArrayOfExtendedAttributesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\ExtendedAttributeType[]
+     * @var \mishanki\PhpEws\Type\ExtendedAttributeType[]
      */
     public $ExtendedAttribute = array();
 }

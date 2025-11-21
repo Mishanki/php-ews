@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\BasePermissionType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Base class for permission types.
@@ -86,7 +86,7 @@ abstract class BasePermissionType extends Type
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\UserIdType
+     * @var \mishanki\PhpEws\Type\UserIdType
      */
     public $UserId;
 }

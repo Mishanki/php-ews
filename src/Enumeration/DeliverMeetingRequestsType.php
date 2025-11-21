@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\DeliverMeetingRequestsType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines how meeting requests are handled between the delegate and the

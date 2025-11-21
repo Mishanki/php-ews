@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfTransitionsType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents an array of time zone transitions.
@@ -20,7 +20,7 @@ class ArrayOfTransitionsType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\AbsoluteDateTransitionType[]
+     * @var \mishanki\PhpEws\Type\AbsoluteDateTransitionType[]
      */
     public $AbsoluteDateTransition = array();
 
@@ -38,7 +38,7 @@ class ArrayOfTransitionsType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\RecurringDateTransitionType[]
+     * @var \mishanki\PhpEws\Type\RecurringDateTransitionType[]
      */
     public $RecurringDateTransition = array();
 
@@ -47,7 +47,7 @@ class ArrayOfTransitionsType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\RecurringDayTransitionType[]
+     * @var \mishanki\PhpEws\Type\RecurringDayTransitionType[]
      */
     public $RecurringDayTransition = array();
 }

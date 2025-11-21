@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\DailyRecurrencePatternType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Describes the frequency, in days, in which a calendar item or a task recurs.

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfInternetHeadersType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents a collection of some of the Internet message headers that are
@@ -21,7 +21,7 @@ class NonEmptyArrayOfInternetHeadersType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\InternetHeaderType[]
+     * @var \mishanki\PhpEws\Type\InternetHeaderType[]
      */
     public $InternetMessageHeader = array();
 }

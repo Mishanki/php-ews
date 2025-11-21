@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\ConvertIdResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents a response to a ConvertId request.

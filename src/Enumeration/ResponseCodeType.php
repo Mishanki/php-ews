@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ResponseCodeType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Provides status information about a request.

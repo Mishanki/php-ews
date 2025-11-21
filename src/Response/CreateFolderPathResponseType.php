@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\CreateFolderPathResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Response to a request to create a folder path.

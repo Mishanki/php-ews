@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\PermissionType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Defines the access that a user has to a folder.

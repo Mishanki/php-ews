@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\HoldActionType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the type of action for a mailbox hold.

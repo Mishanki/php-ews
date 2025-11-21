@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\SuggestionsResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents response status information and suggestion data for requested
@@ -20,7 +20,7 @@ class SuggestionsResponseType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Response\ResponseMessageType
+     * @var \mishanki\PhpEws\Response\ResponseMessageType
      */
     public $ResponseMessage;
 
@@ -29,7 +29,7 @@ class SuggestionsResponseType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfSuggestionDayResult
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfSuggestionDayResult
      */
     public $SuggestionDayResultArray;
 }

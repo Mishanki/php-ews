@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ImportanceChoicesType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Describes the importance of an item or the aggregated importance of all items

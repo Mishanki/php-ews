@@ -39,7 +39,7 @@ make a request, you need to instantiate a new `\jamesiarmes\PhpEws\Client`
 object:
 
 ```php
-use \jamesiarmes\PhpEws\Client;
+use \mishanki\PhpEws\Client;
 
 $ews = new Client($server, $username, $password, $version);
 ```

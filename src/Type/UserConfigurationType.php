@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\UserConfigurationType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Defines a single user configuration object.
@@ -31,7 +31,7 @@ class UserConfigurationType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\UserConfigurationDictionaryType
+     * @var \mishanki\PhpEws\Type\UserConfigurationDictionaryType
      */
     public $Dictionary;
 
@@ -40,7 +40,7 @@ class UserConfigurationType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemIdType
+     * @var \mishanki\PhpEws\Type\ItemIdType
      */
     public $ItemId;
 
@@ -51,7 +51,7 @@ class UserConfigurationType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\UserConfigurationNameType
+     * @var \mishanki\PhpEws\Type\UserConfigurationNameType
      */
     public $UserConfigurationName;
 

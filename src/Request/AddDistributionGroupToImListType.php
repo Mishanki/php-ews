@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\AddDistributionGroupToImListType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to add a distribution list to an instant message list.

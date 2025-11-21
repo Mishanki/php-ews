@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\StringAttributedValueType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents an attribute associated with a persona element.
@@ -19,7 +19,7 @@ class StringAttributedValueType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfValueAttributionsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfValueAttributionsType
      */
     public $Attributions;
 

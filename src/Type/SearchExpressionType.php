@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\SearchExpressionType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents the substituted element within a restriction.
@@ -21,7 +21,7 @@ abstract class SearchExpressionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\PathToExtendedFieldType
+     * @var \mishanki\PhpEws\Type\PathToExtendedFieldType
      */
     public $ExtendedFieldURI;
 
@@ -30,7 +30,7 @@ abstract class SearchExpressionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\PathToUnindexedFieldType
+     * @var \mishanki\PhpEws\Type\PathToUnindexedFieldType
      */
     public $FieldURI;
 
@@ -39,7 +39,7 @@ abstract class SearchExpressionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\PathToIndexedFieldType
+     * @var \mishanki\PhpEws\Type\PathToIndexedFieldType
      */
     public $IndexedFieldURI;
 }

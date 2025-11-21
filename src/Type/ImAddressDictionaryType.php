@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ImAddressDictionaryType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a collection of instant messaging addresses for a contact.
@@ -19,7 +19,7 @@ class ImAddressDictionaryType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ImAddressDictionaryEntryType
+     * @var \mishanki\PhpEws\Type\ImAddressDictionaryEntryType
      */
     public $Entry;
 }

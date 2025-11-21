@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\SearchMailboxesType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a SearchMailboxes request.
@@ -67,7 +67,7 @@ class SearchMailboxesType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\PreviewItemResponseShapeType
+     * @var \mishanki\PhpEws\Type\PreviewItemResponseShapeType
      */
     public $PreviewItemResponseShape;
 
@@ -89,7 +89,7 @@ class SearchMailboxesType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfMailboxQueriesType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfMailboxQueriesType
      */
     public $SearchQueries;
 
@@ -98,7 +98,7 @@ class SearchMailboxesType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\FieldOrderType
+     * @var \mishanki\PhpEws\Type\FieldOrderType
      */
     public $SortBy;
 }

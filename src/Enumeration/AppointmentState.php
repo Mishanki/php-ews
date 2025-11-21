@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\AppointmentState.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Specifies the status of the appointment.

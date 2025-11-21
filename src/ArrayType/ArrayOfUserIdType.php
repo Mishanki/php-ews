@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfUserIdType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines an array of delegate users to get or remove from a principal's
@@ -20,7 +20,7 @@ class ArrayOfUserIdType extends ArrayType
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\UserIdType[]
+     * @var \mishanki\PhpEws\Type\UserIdType[]
      */
     public $UserId = array();
 }

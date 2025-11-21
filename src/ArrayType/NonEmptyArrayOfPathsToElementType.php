@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfPathsToElementType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines additional properties for use in GetItem, UpdateItem, CreateItem,
@@ -20,7 +20,7 @@ class NonEmptyArrayOfPathsToElementType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\PathToExtendedFieldType[]
+     * @var \mishanki\PhpEws\Type\PathToExtendedFieldType[]
      */
     public $ExtendedFieldURI = array();
 
@@ -29,7 +29,7 @@ class NonEmptyArrayOfPathsToElementType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\PathToUnindexedFieldType[]
+     * @var \mishanki\PhpEws\Type\PathToUnindexedFieldType[]
      */
     public $FieldURI = array();
 
@@ -38,7 +38,7 @@ class NonEmptyArrayOfPathsToElementType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\PathToIndexedFieldType[]
+     * @var \mishanki\PhpEws\Type\PathToIndexedFieldType[]
      */
     public $IndexedFieldURI = array();
 }

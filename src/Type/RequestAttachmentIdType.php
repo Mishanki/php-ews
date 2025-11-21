@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\RequestAttachmentIdType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Identifies a single attachment.

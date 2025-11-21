@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\SetFolderFieldType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents an update that sets the value for a single property on a folder in
@@ -18,7 +18,7 @@ class SetFolderFieldType extends FolderChangeDescriptionType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\CalendarFolderType
+     * @var \mishanki\PhpEws\Type\CalendarFolderType
      */
     public $CalendarFolder;
 
@@ -27,7 +27,7 @@ class SetFolderFieldType extends FolderChangeDescriptionType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ContactsFolderType
+     * @var \mishanki\PhpEws\Type\ContactsFolderType
      */
     public $ContactsFolder;
 
@@ -36,7 +36,7 @@ class SetFolderFieldType extends FolderChangeDescriptionType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\FolderType
+     * @var \mishanki\PhpEws\Type\FolderType
      */
     public $Folder;
 
@@ -45,7 +45,7 @@ class SetFolderFieldType extends FolderChangeDescriptionType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SearchFolderType
+     * @var \mishanki\PhpEws\Type\SearchFolderType
      */
     public $SearchFolder;
 
@@ -54,7 +54,7 @@ class SetFolderFieldType extends FolderChangeDescriptionType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\TasksFolderType
+     * @var \mishanki\PhpEws\Type\TasksFolderType
      */
     public $TasksFolder;
 }

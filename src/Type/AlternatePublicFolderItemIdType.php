@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\AlternatePublicFolderItemIdType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Describes a public folder item identifier to convert to another identifier

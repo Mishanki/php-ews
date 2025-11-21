@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\SerializedSecurityContextType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Defines token serialization in server-to-server authentication.
@@ -20,7 +20,7 @@ class SerializedSecurityContextType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfGroupIdentifiersType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfGroupIdentifiersType
      */
     public $GroupSids;
 
@@ -38,7 +38,7 @@ class SerializedSecurityContextType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfRestrictedGroupIdentifiersType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfRestrictedGroupIdentifiersType
      */
     public $RestrictedGroupSids;
 

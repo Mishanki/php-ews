@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\RulePredicateDateRangeType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Specifies the date range within which incoming messages have to have been

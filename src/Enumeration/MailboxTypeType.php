@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\MailboxTypeType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents the type of mailbox that is represented by an e-mail address.

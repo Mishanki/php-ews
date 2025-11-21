@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfEncryptedSharedFolderDataType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents a collection of data structures that a client can use to authorize
@@ -21,7 +21,7 @@ class ArrayOfEncryptedSharedFolderDataType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\EncryptedSharedFolderDataType[]
+     * @var \mishanki\PhpEws\Type\EncryptedSharedFolderDataType[]
      */
     public $EncryptedSharedFolderData = array();
 }

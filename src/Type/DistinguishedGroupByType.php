@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\DistinguishedGroupByType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents standard groupings for FindItem queries.

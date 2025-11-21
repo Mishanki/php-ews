@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\SuggestionDayResult.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a single day that contains suggested meeting times.
@@ -42,7 +42,7 @@ class SuggestionDayResult extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfSuggestion
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfSuggestion
      */
     public $SuggestionArray;
 }

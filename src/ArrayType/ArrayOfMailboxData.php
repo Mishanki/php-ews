@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfMailboxData.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents a list of mailboxes to query for availability information.
@@ -20,7 +20,7 @@ class ArrayOfMailboxData extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\MailboxData[]
+     * @var \mishanki\PhpEws\Type\MailboxData[]
      */
     public $MailboxData = array();
 }

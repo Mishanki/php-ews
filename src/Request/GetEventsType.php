@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetEventsType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Represents the operation used by pull clients to request notifications from

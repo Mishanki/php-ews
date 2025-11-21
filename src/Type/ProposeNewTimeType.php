@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\ProposeNewTimeType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a response object that indicates that a meeting attendee can

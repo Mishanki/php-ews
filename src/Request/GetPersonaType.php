@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetPersonaType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to get a persona.
@@ -17,7 +17,7 @@ class GetPersonaType extends BaseRequestType
      *
      * @since Exchange 2016
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfPathsToElementType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfPathsToElementType
      *
      * @todo Update once documentation exists.
      */
@@ -28,7 +28,7 @@ class GetPersonaType extends BaseRequestType
      *
      * @since Exchange 2016
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      *
      * @todo Update once documentation exists.
      */
@@ -50,7 +50,7 @@ class GetPersonaType extends BaseRequestType
      *
      * @since Exchange 2016
      *
-     * @var \jamesiarmes\PhpEws\Type\TargetFolderIdType
+     * @var \mishanki\PhpEws\Type\TargetFolderIdType
      *
      * @todo Update once documentation exists.
      */
@@ -61,7 +61,7 @@ class GetPersonaType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemIdType
+     * @var \mishanki\PhpEws\Type\ItemIdType
      */
     public $PersonaId;
 }

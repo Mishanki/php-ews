@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\MailboxHoldResultType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines the result of the mailbox hold request request.
@@ -28,7 +28,7 @@ class MailboxHoldResultType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfMailboxHoldStatusType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfMailboxHoldStatusType
      */
     public $MailboxHoldStatuses;
 

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\DelegateUserType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Identifies a single delegate to add or update in a mailbox or a delegate
@@ -20,7 +20,7 @@ class DelegateUserType extends Type
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\DelegatePermissionsType
+     * @var \mishanki\PhpEws\Type\DelegatePermissionsType
      */
     public $DelegatePermissions;
 
@@ -39,7 +39,7 @@ class DelegateUserType extends Type
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\UserIdType
+     * @var \mishanki\PhpEws\Type\UserIdType
      */
     public $UserId;
 

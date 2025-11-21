@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\UserPhotoSizeType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the size of a user's photo being requested.

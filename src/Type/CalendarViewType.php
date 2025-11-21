@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\CalendarViewType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Defines a FindItem operation as returning calendar items in a set as they

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfResponseObjectsType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents a collection of all the response objects that are associated with
@@ -20,7 +20,7 @@ class NonEmptyArrayOfResponseObjectsType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\AcceptItemType[]
+     * @var \mishanki\PhpEws\Type\AcceptItemType[]
      */
     public $AcceptItem = array();
 
@@ -30,7 +30,7 @@ class NonEmptyArrayOfResponseObjectsType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\AcceptSharingInvitationType[]
+     * @var \mishanki\PhpEws\Type\AcceptSharingInvitationType[]
      */
     public $AcceptSharingInvitation = array();
 
@@ -39,7 +39,7 @@ class NonEmptyArrayOfResponseObjectsType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\CalendarItemType[]
+     * @var \mishanki\PhpEws\Type\CalendarItemType[]
      */
     public $CancelCalendarItem = array();
 
@@ -48,7 +48,7 @@ class NonEmptyArrayOfResponseObjectsType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\DeclineItemType[]
+     * @var \mishanki\PhpEws\Type\DeclineItemType[]
      */
     public $DeclineItem = array();
 
@@ -57,7 +57,7 @@ class NonEmptyArrayOfResponseObjectsType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ForwardItemType[]
+     * @var \mishanki\PhpEws\Type\ForwardItemType[]
      */
     public $ForwardItem = array();
 
@@ -66,7 +66,7 @@ class NonEmptyArrayOfResponseObjectsType extends ArrayType
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\PostReplyItemType[]
+     * @var \mishanki\PhpEws\Type\PostReplyItemType[]
      */
     public $PostReplyItem = array();
 
@@ -76,7 +76,7 @@ class NonEmptyArrayOfResponseObjectsType extends ArrayType
      *
      * @since Exchange 2013 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\ProposeNewTimeType[]
+     * @var \mishanki\PhpEws\Type\ProposeNewTimeType[]
      */
     public $ProposeNewTime = array();
 
@@ -85,7 +85,7 @@ class NonEmptyArrayOfResponseObjectsType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\RemoveItemType[]
+     * @var \mishanki\PhpEws\Type\RemoveItemType[]
      */
     public $RemoveItem = array();
 
@@ -95,7 +95,7 @@ class NonEmptyArrayOfResponseObjectsType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ReplyAllToItemType[]
+     * @var \mishanki\PhpEws\Type\ReplyAllToItemType[]
      */
     public $ReplyAllToItem = array();
 
@@ -104,7 +104,7 @@ class NonEmptyArrayOfResponseObjectsType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ReplyToItemType[]
+     * @var \mishanki\PhpEws\Type\ReplyToItemType[]
      */
     public $ReplyToItem = array();
 
@@ -113,7 +113,7 @@ class NonEmptyArrayOfResponseObjectsType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SuppressReadReceiptType[]
+     * @var \mishanki\PhpEws\Type\SuppressReadReceiptType[]
      */
     public $SuppressReadReceipt = array();
 
@@ -122,7 +122,7 @@ class NonEmptyArrayOfResponseObjectsType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\TentativelyAcceptItemType[]
+     * @var \mishanki\PhpEws\Type\TentativelyAcceptItemType[]
      */
     public $TentativelyAcceptItem = array();
 }

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Autodiscover.
  */
 
-namespace jamesiarmes\PhpEws;
+namespace mishanki\PhpEws;
 
 /**
  * Exchange Web Services Autodiscover implementation

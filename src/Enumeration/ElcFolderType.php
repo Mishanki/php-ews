@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ElcFolderType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the type of folder used in a retention policy.

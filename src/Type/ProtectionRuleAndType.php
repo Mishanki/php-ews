@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ProtectionRuleAndType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Specifies that all child elements must match to evaluate to true.
@@ -29,7 +29,7 @@ class ProtectionRuleAndType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\ProtectionRuleAndType
+     * @var \mishanki\PhpEws\Type\ProtectionRuleAndType
      */
     public $And;
 
@@ -40,7 +40,7 @@ class ProtectionRuleAndType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\ProtectionRuleRecipientIsType
+     * @var \mishanki\PhpEws\Type\ProtectionRuleRecipientIsType
      */
     public $RecipientIs;
 
@@ -50,7 +50,7 @@ class ProtectionRuleAndType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\ProtectionRuleSenderDepartmentsType
+     * @var \mishanki\PhpEws\Type\ProtectionRuleSenderDepartmentsType
      */
     public $SenderDepartments;
 

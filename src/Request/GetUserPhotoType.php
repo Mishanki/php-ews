@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetUserPhotoType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines the request to get a user’s photo.

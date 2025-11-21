@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\PerformReminderActionResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines the response to a PerformReminderAction request.
@@ -17,7 +17,7 @@ class PerformReminderActionResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfItemIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfItemIdsType
      */
     public $UpdatedItemIds;
 }

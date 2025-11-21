@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\PerformReminderActionType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to perform a reminder action.
@@ -17,7 +17,7 @@ class PerformReminderActionType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfReminderItemActionType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfReminderItemActionType
      */
     public $ReminderItemActions;
 }

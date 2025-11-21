@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\SmtpDomainList.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Identifies a list of internal SMTP domains of the organization.
@@ -19,7 +19,7 @@ class SmtpDomainList extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\SmtpDomain
+     * @var \mishanki\PhpEws\Type\SmtpDomain
      */
     public $Domain;
 }

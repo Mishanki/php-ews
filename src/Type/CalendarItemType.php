@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\CalendarItemType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents an Exchange calendar item.
@@ -27,7 +27,7 @@ class CalendarItemType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAllItemsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAllItemsType
      */
     public $AdjacentMeetings;
 
@@ -110,7 +110,7 @@ class CalendarItemType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAllItemsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAllItemsType
      */
     public $ConflictingMeetings;
 
@@ -133,7 +133,7 @@ class CalendarItemType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfDeletedOccurrencesType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfDeletedOccurrencesType
      */
     public $DeletedOccurrences;
 
@@ -164,7 +164,7 @@ class CalendarItemType extends ItemType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\TimeZoneDefinitionType
+     * @var \mishanki\PhpEws\Type\TimeZoneDefinitionType
      */
     public $EndTimeZone;
 
@@ -175,7 +175,7 @@ class CalendarItemType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\TimeZoneDefinitionType
+     * @var \mishanki\PhpEws\Type\TimeZoneDefinitionType
      */
     public $FirstOccurrence;
 
@@ -243,7 +243,7 @@ class CalendarItemType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\OccurrenceInfoType
+     * @var \mishanki\PhpEws\Type\OccurrenceInfoType
      */
     public $LastOccurrence;
 
@@ -281,7 +281,7 @@ class CalendarItemType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\TimeZoneType
+     * @var \mishanki\PhpEws\Type\TimeZoneType
      */
     public $MeetingTimeZone;
 
@@ -303,7 +303,7 @@ class CalendarItemType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfOccurrenceInfoType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfOccurrenceInfoType
      */
     public $ModifiedOccurrences;
 
@@ -332,7 +332,7 @@ class CalendarItemType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAttendeesType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAttendeesType
      */
     public $OptionalAttendees;
 
@@ -341,7 +341,7 @@ class CalendarItemType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SingleRecipientType
+     * @var \mishanki\PhpEws\Type\SingleRecipientType
      */
     public $Organizer;
 
@@ -363,7 +363,7 @@ class CalendarItemType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\RecurrenceType
+     * @var \mishanki\PhpEws\Type\RecurrenceType
      */
     public $Recurrence;
 
@@ -383,7 +383,7 @@ class CalendarItemType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAttendeesType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAttendeesType
      */
     public $RequiredAttendees;
 
@@ -392,7 +392,7 @@ class CalendarItemType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAttendeesType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAttendeesType
      */
     public $Resources;
 
@@ -414,7 +414,7 @@ class CalendarItemType extends ItemType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\TimeZoneDefinitionType
+     * @var \mishanki\PhpEws\Type\TimeZoneDefinitionType
      */
     public $StartTimeZone;
 

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\IndexedPageViewType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Describes how paged conversation or item information is returned for a

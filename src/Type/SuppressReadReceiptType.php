@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\SuppressReadReceiptType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Used to suppress read receipts.

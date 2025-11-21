@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\SeekToConditionPageViewType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Defines the condition that is used to identify the end of a search, the
@@ -47,7 +47,7 @@ class SeekToConditionPageViewType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\RestrictionType
+     * @var \mishanki\PhpEws\Type\RestrictionType
      */
     public $Condition;
 }

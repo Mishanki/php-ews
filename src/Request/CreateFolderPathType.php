@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\CreateFolderPathType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Represents a request to create a folder path.
@@ -17,7 +17,7 @@ class CreateFolderPathType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\TargetFolderIdType
+     * @var \mishanki\PhpEws\Type\TargetFolderIdType
      */
     public $ParentFolderId;
 
@@ -27,7 +27,7 @@ class CreateFolderPathType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfFoldersType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfFoldersType
      */
     public $RelativeFolderPath;
 }

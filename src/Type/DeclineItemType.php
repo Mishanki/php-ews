@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\DeclineItemType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a Decline reply to a meeting request.

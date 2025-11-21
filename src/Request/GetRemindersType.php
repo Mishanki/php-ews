@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetRemindersType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to get reminders.

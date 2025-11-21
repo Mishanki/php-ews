@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ExceptionPropertyURIType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines a property of an occurrence of a recurring item.

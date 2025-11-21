@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\CalendarItemCreateOrDeleteOperationType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Describes how meeting requests are handled after they are created.

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\ContainsExpressionType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a search expression that determines whether a given property
@@ -18,7 +18,7 @@ class ContainsExpressionType extends SearchExpressionType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ConstantValueType
+     * @var \mishanki\PhpEws\Type\ConstantValueType
      */
     public $Constant;
 

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\ExcludesType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a bitwise mask of a specified property and a supplied value.
@@ -21,7 +21,7 @@ class ExcludesType extends SearchExpressionType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ExcludesValueType
+     * @var \mishanki\PhpEws\Type\ExcludesValueType
      */
     public $Bitmask;
 }

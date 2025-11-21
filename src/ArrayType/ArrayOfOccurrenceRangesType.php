@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfOccurrenceRangesType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines an array of recurrence ranges.
@@ -20,7 +20,7 @@ class ArrayOfOccurrenceRangesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\OccurrencesRangeType[]
+     * @var \mishanki\PhpEws\Type\OccurrencesRangeType[]
      */
     public $Range = array();
 }

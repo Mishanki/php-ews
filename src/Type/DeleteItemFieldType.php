@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\DeleteItemFieldType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents an operation to delete a given property from an item during an

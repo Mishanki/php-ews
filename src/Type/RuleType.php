@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\RuleType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a single rule in a user's mailbox.
@@ -20,7 +20,7 @@ class RuleType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\RuleActionsType
+     * @var \mishanki\PhpEws\Type\RuleActionsType
      */
     public $Actions;
 
@@ -30,7 +30,7 @@ class RuleType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\RulePredicatesType
+     * @var \mishanki\PhpEws\Type\RulePredicatesType
      */
     public $Conditions;
 
@@ -49,7 +49,7 @@ class RuleType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\RulePredicatesType
+     * @var \mishanki\PhpEws\Type\RulePredicatesType
      */
     public $Exceptions;
 

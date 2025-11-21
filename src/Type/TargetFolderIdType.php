@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\TargetFolderIdType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Indicates the folder that is targeted for actions that use folders.
@@ -19,7 +19,7 @@ class TargetFolderIdType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\AddressListIdType
+     * @var \mishanki\PhpEws\Type\AddressListIdType
      */
     public $AddressListId;
 
@@ -28,7 +28,7 @@ class TargetFolderIdType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\DistinguishedFolderIdType
+     * @var \mishanki\PhpEws\Type\DistinguishedFolderIdType
      */
     public $DistinguishedFolderId;
 
@@ -37,7 +37,7 @@ class TargetFolderIdType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\FolderIdType
+     * @var \mishanki\PhpEws\Type\FolderIdType
      */
     public $FolderId;
 }

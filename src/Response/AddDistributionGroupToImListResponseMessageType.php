@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\AddDistributionGroupToImListResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines a response to a AddDistributionGroupToImList request.
@@ -17,7 +17,7 @@ class AddDistributionGroupToImListResponseMessageType extends ResponseMessageTyp
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\ImGroupType
+     * @var \mishanki\PhpEws\Type\ImGroupType
      */
     public $ImGroup;
 }

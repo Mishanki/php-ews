@@ -5,15 +5,15 @@
  */
 require_once '../../vendor/autoload.php';
 
-use \jamesiarmes\PhpEws\Client;
-use \jamesiarmes\PhpEws\Request\DeleteFolderType;
+use \mishanki\PhpEws\Client;
+use \mishanki\PhpEws\Request\DeleteFolderType;
 
-use \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType;
+use \mishanki\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType;
 
-use \jamesiarmes\PhpEws\Enumeration\DisposalType;
-use \jamesiarmes\PhpEws\Enumeration\ResponseClassType;
+use \mishanki\PhpEws\Enumeration\DisposalType;
+use \mishanki\PhpEws\Enumeration\ResponseClassType;
 
-use \jamesiarmes\PhpEws\Type\FolderIdType;
+use \mishanki\PhpEws\Type\FolderIdType;
 
 // Replace with ids of the folders to be deleted.
 $folder_ids = array(

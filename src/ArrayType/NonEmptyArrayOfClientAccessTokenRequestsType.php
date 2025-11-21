@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfClientAccessTokenRequestsType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines an array of token requests.
@@ -19,7 +19,7 @@ class NonEmptyArrayOfClientAccessTokenRequestsType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\ClientAccessTokenRequestType[]
+     * @var \mishanki\PhpEws\Type\ClientAccessTokenRequestType[]
      */
     public $TokenRequest = array();
 }

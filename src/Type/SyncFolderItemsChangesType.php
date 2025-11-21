@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\SyncFolderItemsChangesType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a sequence array of change types that represent the types of
@@ -21,7 +21,7 @@ class SyncFolderItemsChangesType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SyncFolderItemsCreateOrUpdateType[]
+     * @var \mishanki\PhpEws\Type\SyncFolderItemsCreateOrUpdateType[]
      */
     public $Create = array();
 
@@ -30,7 +30,7 @@ class SyncFolderItemsChangesType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SyncFolderItemsDeleteType[]
+     * @var \mishanki\PhpEws\Type\SyncFolderItemsDeleteType[]
      */
     public $Delete = array();
 
@@ -42,7 +42,7 @@ class SyncFolderItemsChangesType extends Type
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\SyncFolderItemsReadFlagType[]
+     * @var \mishanki\PhpEws\Type\SyncFolderItemsReadFlagType[]
      */
     public $ReadFlagChange = array();
 
@@ -51,7 +51,7 @@ class SyncFolderItemsChangesType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SyncFolderItemsCreateOrUpdateType[]
+     * @var \mishanki\PhpEws\Type\SyncFolderItemsCreateOrUpdateType[]
      */
     public $Update = array();
 }

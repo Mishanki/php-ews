@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\BodyType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Specifies the body of an item.

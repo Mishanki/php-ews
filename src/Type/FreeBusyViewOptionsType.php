@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\FreeBusyViewOptionsType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents the type of free/busy information returned in a response.
@@ -40,7 +40,7 @@ class FreeBusyViewOptionsType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\Duration
+     * @var \mishanki\PhpEws\Type\Duration
      */
     public $TimeWindow;
 }

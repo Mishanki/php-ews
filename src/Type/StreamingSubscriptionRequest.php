@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\StreamingSubscriptionRequest.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a subscription to a streaming event notification subscription.
@@ -20,7 +20,7 @@ class StreamingSubscriptionRequest extends Type
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfNotificationEventTypesType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfNotificationEventTypesType
      */
     public $EventTypes;
 
@@ -30,7 +30,7 @@ class StreamingSubscriptionRequest extends Type
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType
      */
     public $FolderIds;
 

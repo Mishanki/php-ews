@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ResolutionType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a single resolved entity.
@@ -19,7 +19,7 @@ class ResolutionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ContactItemType
+     * @var \mishanki\PhpEws\Type\ContactItemType
      */
     public $Contact;
 
@@ -28,7 +28,7 @@ class ResolutionType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $Mailbox;
 }

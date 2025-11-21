@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\EmailAddressType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Identifier for a fully resolved email address
@@ -35,7 +35,7 @@ class EmailAddressType extends BaseEmailAddressType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemIdType
+     * @var \mishanki\PhpEws\Type\ItemIdType
      */
     public $ItemId;
 

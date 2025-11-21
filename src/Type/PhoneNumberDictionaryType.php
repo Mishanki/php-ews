@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\PhoneNumberDictionaryType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a collection of telephone numbers for a contact.
@@ -19,7 +19,7 @@ class PhoneNumberDictionaryType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\PhoneNumberDictionaryEntryType[]
+     * @var \mishanki\PhpEws\Type\PhoneNumberDictionaryEntryType[]
      */
     public $Entry;
 }

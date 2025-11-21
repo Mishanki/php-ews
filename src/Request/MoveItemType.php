@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\MoveItemType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to move an item in the Exchange store.

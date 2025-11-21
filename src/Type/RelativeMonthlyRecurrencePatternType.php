@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\RelativeMonthlyRecurrencePatternType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Describes a relative monthly recurrence pattern.

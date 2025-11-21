@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ViewFilterType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the view filter type for a FindConversation operation.

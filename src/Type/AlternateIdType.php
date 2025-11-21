@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\AlternateIdType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Describes an identifier to convert in a request and the results of a

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfEmailAddressAttributedValuesType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines an array of EmailAddressAttributedValue values and the identifiers of
@@ -21,7 +21,7 @@ class ArrayOfEmailAddressAttributedValuesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressAttributedValueType[]
+     * @var \mishanki\PhpEws\Type\EmailAddressAttributedValueType[]
      */
     public $EmailAddressAttributedValue = array();
 }

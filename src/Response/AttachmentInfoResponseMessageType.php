@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\AttachmentInfoResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the status and result of a single CreateAttachment operation
@@ -19,7 +19,7 @@ class AttachmentInfoResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfAttachmentsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfAttachmentsType
      */
     public $Attachments;
 }

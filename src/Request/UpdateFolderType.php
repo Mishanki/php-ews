@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\UpdateFolderType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Represents the operation that is used to update properties for a specified
@@ -18,7 +18,7 @@ class UpdateFolderType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfFolderChangesType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfFolderChangesType
      */
     public $FolderChanges;
 }

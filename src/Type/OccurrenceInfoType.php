@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\OccurrenceInfoType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents an occurrence of a recurring calendar item.
@@ -32,7 +32,7 @@ class OccurrenceInfoType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemIdType
+     * @var \mishanki\PhpEws\Type\ItemIdType
      */
     public $ItemId;
 

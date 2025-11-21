@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\ResolveNamesResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines the status and result of a ResolveNames operation request.
@@ -17,7 +17,7 @@ class ResolveNamesResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfResolutionType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfResolutionType
      */
     public $ResolutionSet;
 }

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\MailTips.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents values for various types of mail tips.
@@ -84,7 +84,7 @@ class MailTips extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\OutOfOfficeMailTip
+     * @var \mishanki\PhpEws\Type\OutOfOfficeMailTip
      */
     public $OutOfOffice;
 
@@ -105,7 +105,7 @@ class MailTips extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $RecipientAddress;
 

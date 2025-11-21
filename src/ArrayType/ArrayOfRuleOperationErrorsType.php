@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfRuleOperationErrorsType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents an array of rule validation errors on each rule field that has an
@@ -20,7 +20,7 @@ class ArrayOfRuleOperationErrorsType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\RuleOperationErrorType[]
+     * @var \mishanki\PhpEws\Type\RuleOperationErrorType[]
      */
     public $RuleOperationError = array();
 }

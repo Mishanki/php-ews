@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\AcceptItemType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents an Accept reply to a meeting request.

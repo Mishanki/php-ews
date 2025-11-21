@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\BaseSubscriptionRequestType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Base class for subscription requests.
@@ -20,7 +20,7 @@ abstract class BaseSubscriptionRequestType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfNotificationEventTypesType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfNotificationEventTypesType
      */
     public $EventTypes;
 
@@ -30,7 +30,7 @@ abstract class BaseSubscriptionRequestType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType
      */
     public $FolderIds;
 

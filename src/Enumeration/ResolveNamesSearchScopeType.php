@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ResolveNamesSearchScopeType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the order and scope for a ResolveNames search.

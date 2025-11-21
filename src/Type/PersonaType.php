@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\PersonaType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines a set of persona data.
@@ -20,7 +20,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $AssistantNames;
 
@@ -30,7 +30,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $AssistantPhoneNumbers;
 
@@ -41,7 +41,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPersonaAttributionsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPersonaAttributionsType
      */
     public $Attributions;
 
@@ -51,7 +51,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $Birthdays;
 
@@ -60,7 +60,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfBodyContentAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfBodyContentAttributedValuesType
      */
     public $Bodies;
 
@@ -70,7 +70,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPostalAddressAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPostalAddressAttributedValuesType
      */
     public $BusinessAddresses;
 
@@ -80,7 +80,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $BusinessHomePages;
 
@@ -90,7 +90,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $BusinessPhoneNumbers;
 
@@ -100,7 +100,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $BusinessPhoneNumbers2;
 
@@ -110,7 +110,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $CallbackPhones;
 
@@ -120,7 +120,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $CarPhones;
 
@@ -130,7 +130,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringArrayAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringArrayAttributedValuesType
      */
     public $Children;
 
@@ -149,7 +149,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $CompanyNames;
 
@@ -188,7 +188,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $Departments;
 
@@ -272,7 +272,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $DisplayNamePrefixes;
 
@@ -282,7 +282,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $DisplayNames;
 
@@ -292,7 +292,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $EmailAddress;
 
@@ -301,7 +301,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfEmailAddressesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfEmailAddressesType
      */
     public $EmailAddresses;
 
@@ -311,7 +311,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfEmailAddressAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfEmailAddressAttributedValuesType
      */
     public $Emails1;
 
@@ -321,7 +321,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfEmailAddressAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfEmailAddressAttributedValuesType
      */
     public $Emails2;
 
@@ -331,7 +331,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfEmailAddressAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfEmailAddressAttributedValuesType
      */
     public $Emails3;
 
@@ -340,7 +340,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfExtendedPropertyAttributedValueType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfExtendedPropertyAttributedValueType
      */
     public $ExtendedProperties;
 
@@ -378,7 +378,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $FileAsIds;
 
@@ -388,7 +388,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $FileAses;
 
@@ -397,7 +397,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfFolderIdType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfFolderIdType
      */
     public $FolderIds;
 
@@ -417,7 +417,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $Generations;
 
@@ -436,7 +436,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $GivenNames;
 
@@ -446,7 +446,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $Hobbies;
 
@@ -456,7 +456,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPostalAddressAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPostalAddressAttributedValuesType
      */
     public $HomeAddresses;
 
@@ -484,7 +484,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $HomeFaxes;
 
@@ -494,7 +494,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $HomePhones;
 
@@ -504,7 +504,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $HomePhones2;
 
@@ -523,7 +523,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $ImAddresses;
 
@@ -533,7 +533,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $ImAddresses2;
 
@@ -543,7 +543,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $ImAddresses3;
 
@@ -553,7 +553,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $Initials;
 
@@ -572,7 +572,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $Locations;
 
@@ -582,7 +582,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $Managers;
 
@@ -601,7 +601,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $MiddleNames;
 
@@ -611,7 +611,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $MobilePhones;
 
@@ -621,7 +621,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $MobilePhones2;
 
@@ -640,7 +640,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $Nicknames;
 
@@ -650,7 +650,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $OfficeLocations;
 
@@ -660,7 +660,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $OrganizationMainPhones;
 
@@ -670,7 +670,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPostalAddressAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPostalAddressAttributedValuesType
      */
     public $OtherAddresses;
 
@@ -680,7 +680,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $OtherFaxes;
 
@@ -690,7 +690,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $OtherPhones2;
 
@@ -700,7 +700,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $OtherTelephones;
 
@@ -710,7 +710,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $Pagers;
 
@@ -719,7 +719,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemIdType
+     * @var \mishanki\PhpEws\Type\ItemIdType
      */
     public $PersonaId;
 
@@ -750,7 +750,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $PersonalHomePages;
 
@@ -759,7 +759,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\PersonaPhoneNumberType
+     * @var \mishanki\PhpEws\Type\PersonaPhoneNumberType
      */
     public $PhoneNumber;
 
@@ -769,7 +769,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $Professions;
 
@@ -779,7 +779,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $RadioPhones;
 
@@ -801,7 +801,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $Schools;
 
@@ -811,7 +811,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $SpouseNames;
 
@@ -830,7 +830,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $Surnames;
 
@@ -840,7 +840,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $TelexNumbers;
 
@@ -859,7 +859,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $Titles;
 
@@ -869,7 +869,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $TTYTDDPhoneNumbers;
 
@@ -879,7 +879,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $WeddingAnniversaries;
 
@@ -907,7 +907,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType
      */
     public $WorkFaxes;
 
@@ -926,7 +926,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $YomiCompanyNames;
 
@@ -946,7 +946,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $YomiFirstNames;
 
@@ -966,7 +966,7 @@ class PersonaType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringAttributedValuesType
      */
     public $YomiLastNames;
 }

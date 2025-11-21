@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ContainmentComparisonType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Determines whether a search ignores cases and spaces.

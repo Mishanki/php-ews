@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\ExportItemsResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the status and results of a request to export a single mailbox
@@ -18,7 +18,7 @@ class ExportItemsResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemIdType
+     * @var \mishanki\PhpEws\Type\ItemIdType
      */
     public $ItemId;
 

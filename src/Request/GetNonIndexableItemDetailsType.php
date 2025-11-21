@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetNonIndexableItemDetailsType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to retrieve non-indexable item details.
@@ -17,7 +17,7 @@ class GetNonIndexableItemDetailsType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayofLegacyDNsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayofLegacyDNsType
      */
     public $Mailboxes;
 

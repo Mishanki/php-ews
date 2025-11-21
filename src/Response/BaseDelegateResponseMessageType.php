@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\BaseDelegateResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Base class for delegate response messages.
@@ -18,7 +18,7 @@ abstract class BaseDelegateResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfDelegateUserResponseMessageType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfDelegateUserResponseMessageType
      */
     public $ResponseMessages;
 }

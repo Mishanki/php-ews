@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\PreviewItemResponseShapeType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines the requested property set to be returned in a discovery search.
@@ -19,7 +19,7 @@ class PreviewItemResponseShapeType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfPathsToElementType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfPathsToElementType
      */
     public $AdditionalProperties;
 

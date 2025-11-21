@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\InstallAppType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines the request to install an app.

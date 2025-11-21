@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\ItemChangeDescriptionType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Base class for changes to individual item properties.

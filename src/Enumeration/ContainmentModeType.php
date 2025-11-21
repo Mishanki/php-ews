@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ContainmentModeType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Identifies the boundaries of a search.

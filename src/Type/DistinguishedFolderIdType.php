@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\DistinguishedFolderIdType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Identifies folders that can be referenced by name.
@@ -45,7 +45,7 @@ class DistinguishedFolderIdType extends BaseFolderIdType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $Mailbox;
 }

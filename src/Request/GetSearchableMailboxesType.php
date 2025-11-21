@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetSearchableMailboxesType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to get a list of mailboxes that the client has permission

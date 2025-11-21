@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ExchangeImpersonationType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents the account to impersonate within a request.
@@ -20,7 +20,7 @@ class ExchangeImpersonationType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ConnectingSIDType
+     * @var \mishanki\PhpEws\Type\ConnectingSIDType
      */
     public $ConnectingSID;
 }

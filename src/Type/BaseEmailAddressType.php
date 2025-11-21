@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\BaseEmailAddressType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Base class for email address types.

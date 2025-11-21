@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\ConvertIdType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to convert item and folder identifiers between supported
@@ -32,7 +32,7 @@ class ConvertIdType extends BaseRequestType
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAlternateIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAlternateIdsType
      */
     public $SourceIds;
 }

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ConferenceType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the type of conferencing that is performed with a calendar item.

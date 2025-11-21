@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\GroupAttendeeConflictData.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents aggregate conflict information about the number of users who are

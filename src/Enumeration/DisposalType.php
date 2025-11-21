@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\DisposalType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Indicates how items are deleted.

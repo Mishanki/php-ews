@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\RootItemIdType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Identifies the root item of a deleted item.

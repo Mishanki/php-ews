@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\SetImGroupType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to change the display name of an instant messaging group.
@@ -17,7 +17,7 @@ class SetImGroupType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemIdType
+     * @var \mishanki\PhpEws\Type\ItemIdType
      */
     public $GroupId;
 

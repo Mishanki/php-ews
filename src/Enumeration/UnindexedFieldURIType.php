@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\UnindexedFieldURIType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines frequently referenced properties by URI.

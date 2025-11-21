@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ImAddressKeyType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents the key for an instant messenger address.

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\RetentionActionType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the action performed on items with the retention tag.

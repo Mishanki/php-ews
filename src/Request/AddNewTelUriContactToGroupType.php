@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\AddNewTelUriContactToGroupType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to add a contact to a group based on the contacts phone
@@ -18,7 +18,7 @@ class AddNewTelUriContactToGroupType extends BaseRequestType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemIdType
+     * @var \mishanki\PhpEws\Type\ItemIdType
      */
     public $GroupId;
 

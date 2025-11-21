@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\IdFormatType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Specifies the source format of the Id to be converted or the format of the Id

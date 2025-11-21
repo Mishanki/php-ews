@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\MembersListType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents the list of members for a distribution list.
@@ -22,7 +22,7 @@ class MembersListType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\MemberType[]
+     * @var \mishanki\PhpEws\Type\MemberType[]
      */
     public $Member = array();
 }

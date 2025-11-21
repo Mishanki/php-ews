@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetDiscoverySearchConfigurationType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to retrieve the eDiscovery search configuration.

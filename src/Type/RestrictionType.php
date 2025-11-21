@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\RestrictionType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents the restriction or query that is used to filter items or folders

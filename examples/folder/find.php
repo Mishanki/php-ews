@@ -5,24 +5,24 @@
  */
 require_once '../../vendor/autoload.php';
 
-use \jamesiarmes\PhpEws\Client;
-use \jamesiarmes\PhpEws\Request\FindFolderType;
+use \mishanki\PhpEws\Client;
+use \mishanki\PhpEws\Request\FindFolderType;
 
-use \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType;
+use \mishanki\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType;
 
-use \jamesiarmes\PhpEws\Enumeration\ContainmentComparisonType;
-use \jamesiarmes\PhpEws\Enumeration\ContainmentModeType;
-use \jamesiarmes\PhpEws\Enumeration\DefaultShapeNamesType;
-use \jamesiarmes\PhpEws\Enumeration\DistinguishedFolderIdNameType;
-use \jamesiarmes\PhpEws\Enumeration\FolderQueryTraversalType;
-use \jamesiarmes\PhpEws\Enumeration\ResponseClassType;
-use \jamesiarmes\PhpEws\Enumeration\UnindexedFieldURIType;
+use \mishanki\PhpEws\Enumeration\ContainmentComparisonType;
+use \mishanki\PhpEws\Enumeration\ContainmentModeType;
+use \mishanki\PhpEws\Enumeration\DefaultShapeNamesType;
+use \mishanki\PhpEws\Enumeration\DistinguishedFolderIdNameType;
+use \mishanki\PhpEws\Enumeration\FolderQueryTraversalType;
+use \mishanki\PhpEws\Enumeration\ResponseClassType;
+use \mishanki\PhpEws\Enumeration\UnindexedFieldURIType;
 
-use \jamesiarmes\PhpEws\Type\ConstantValueType;
-use \jamesiarmes\PhpEws\Type\DistinguishedFolderIdType;
-use \jamesiarmes\PhpEws\Type\FolderResponseShapeType;
-use \jamesiarmes\PhpEws\Type\PathToUnindexedFieldType;
-use \jamesiarmes\PhpEws\Type\RestrictionType;
+use \mishanki\PhpEws\Type\ConstantValueType;
+use \mishanki\PhpEws\Type\DistinguishedFolderIdType;
+use \mishanki\PhpEws\Type\FolderResponseShapeType;
+use \mishanki\PhpEws\Type\PathToUnindexedFieldType;
+use \mishanki\PhpEws\Type\RestrictionType;
 
 // Set connection information.
 $host = '';

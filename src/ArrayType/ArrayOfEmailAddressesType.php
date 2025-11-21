@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfEmailAddressesType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Specifies an array of all email addresses of an associated persona.
@@ -19,7 +19,7 @@ class ArrayOfEmailAddressesType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType[]
+     * @var \mishanki\PhpEws\Type\EmailAddressType[]
      */
     public $Address = array();
 }

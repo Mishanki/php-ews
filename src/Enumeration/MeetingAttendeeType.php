@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\MeetingAttendeeType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents the type of attendee that is identified in the Email element.

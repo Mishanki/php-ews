@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\RegeneratingPatternBaseType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Base class for regenerating patterns.

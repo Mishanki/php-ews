@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfTimeZoneDefinitionType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents an array of time zone definitions.
@@ -19,7 +19,7 @@ class ArrayOfTimeZoneDefinitionType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\TimeZoneDefinitionType[]
+     * @var \mishanki\PhpEws\Type\TimeZoneDefinitionType[]
      */
     public $TimeZoneDefinition = array();
 }

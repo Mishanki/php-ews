@@ -7,16 +7,16 @@
  */
 require_once '../../vendor/autoload.php';
 
-use \jamesiarmes\PhpEws\Client;
-use \jamesiarmes\PhpEws\Request\SyncFolderItemsType;
+use \mishanki\PhpEws\Client;
+use \mishanki\PhpEws\Request\SyncFolderItemsType;
 
-use \jamesiarmes\PhpEws\Enumeration\DefaultShapeNamesType;
-use \jamesiarmes\PhpEws\Enumeration\DistinguishedFolderIdNameType;
-use \jamesiarmes\PhpEws\Enumeration\ResponseClassType;
+use \mishanki\PhpEws\Enumeration\DefaultShapeNamesType;
+use \mishanki\PhpEws\Enumeration\DistinguishedFolderIdNameType;
+use \mishanki\PhpEws\Enumeration\ResponseClassType;
 
-use \jamesiarmes\PhpEws\Type\DistinguishedFolderIdType;
-use \jamesiarmes\PhpEws\Type\ItemResponseShapeType;
-use \jamesiarmes\PhpEws\Type\TargetFolderIdType;
+use \mishanki\PhpEws\Type\DistinguishedFolderIdType;
+use \mishanki\PhpEws\Type\ItemResponseShapeType;
+use \mishanki\PhpEws\Type\TargetFolderIdType;
 
 // Replace this with the previous sync state, unless this your first sync.
 $sync_state = null;

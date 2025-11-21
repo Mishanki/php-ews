@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfRuleValidationErrorsType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents an array of rule validation errors on each rule field that has an
@@ -21,7 +21,7 @@ class ArrayOfRuleValidationErrorsType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\RuleValidationErrorType[]
+     * @var \mishanki\PhpEws\Type\RuleValidationErrorType[]
      */
     public $Error = array();
 }

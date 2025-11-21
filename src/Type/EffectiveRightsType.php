@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\EffectiveRightsType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents the client's rights based on the permission settings for an item

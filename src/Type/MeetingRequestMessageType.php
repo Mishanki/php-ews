@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\MeetingRequestMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a meeting cancellation in the Exchange store.
@@ -27,7 +27,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAllItemsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAllItemsType
      */
     public $AdjacentMeetings;
 
@@ -106,7 +106,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAllItemsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAllItemsType
      */
     public $ConflictingMeetings;
 
@@ -117,7 +117,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfDeletedOccurrencesType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfDeletedOccurrencesType
      */
     public $DeletedOccurrences;
 
@@ -148,7 +148,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\TimeZoneDefinitionType
+     * @var \mishanki\PhpEws\Type\TimeZoneDefinitionType
      */
     public $EndTimeZone;
 
@@ -159,7 +159,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\OccurrenceInfoType
+     * @var \mishanki\PhpEws\Type\OccurrenceInfoType
      */
     public $FirstOccurrence;
 
@@ -230,7 +230,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\OccurrenceInfoType
+     * @var \mishanki\PhpEws\Type\OccurrenceInfoType
      */
     public $LastOccurrence;
 
@@ -279,7 +279,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\TimeZoneType
+     * @var \mishanki\PhpEws\Type\TimeZoneType
      */
     public $MeetingTimeZone;
 
@@ -301,7 +301,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfOccurrenceInfoType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfOccurrenceInfoType
      */
     public $ModifiedOccurrences;
 
@@ -330,7 +330,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAttendeesType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAttendeesType
      */
     public $OptionalAttendees;
 
@@ -339,7 +339,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SingleRecipientType
+     * @var \mishanki\PhpEws\Type\SingleRecipientType
      */
     public $Organizer;
 
@@ -359,7 +359,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\RecurrenceType
+     * @var \mishanki\PhpEws\Type\RecurrenceType
      */
     public $Recurrence;
 
@@ -368,7 +368,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAttendeesType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAttendeesType
      */
     public $RequiredAttendees;
 
@@ -377,7 +377,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAttendeesType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAttendeesType
      */
     public $Resources;
 
@@ -399,7 +399,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\TimeZoneDefinitionType
+     * @var \mishanki\PhpEws\Type\TimeZoneDefinitionType
      */
     public $StartTimeZone;
 

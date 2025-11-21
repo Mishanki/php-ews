@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetAttachmentType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to get an attachment from the Exchange store.
@@ -17,7 +17,7 @@ class GetAttachmentType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfRequestAttachmentIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfRequestAttachmentIdsType
      */
     public $AttachmentIds;
 
@@ -29,7 +29,7 @@ class GetAttachmentType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\AttachmentResponseShapeType
+     * @var \mishanki\PhpEws\Type\AttachmentResponseShapeType
      */
     public $AttachmentShape;
 }

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfBodyContentAttributedValuesType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines an array of BodyContentAttributedValue elements.
@@ -19,7 +19,7 @@ class ArrayOfBodyContentAttributedValuesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\BodyContentAttributedValueType[]
+     * @var \mishanki\PhpEws\Type\BodyContentAttributedValueType[]
      */
     public $BodyContentAttributedValue = array();
 }

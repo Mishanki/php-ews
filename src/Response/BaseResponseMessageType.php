@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Response\BaseResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
-use \jamesiarmes\PhpEws\Response;
+use \mishanki\PhpEws\Response;
 
 /**
  * Base class for responses.
@@ -19,7 +19,7 @@ class BaseResponseMessageType extends Response
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfResponseMessagesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfResponseMessagesType
      */
     public $ResponseMessages;
 }

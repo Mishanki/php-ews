@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetPhoneCallInformationType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Represents a request to get telephone call information.
@@ -17,7 +17,7 @@ class GetPhoneCallInformationType extends BaseRequestType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\PhoneCallIdType
+     * @var \mishanki\PhpEws\Type\PhoneCallIdType
      */
     public $PhoneCallId;
 }

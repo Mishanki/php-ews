@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\YearlyRegeneratingPatternType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Describes the frequency, in years, in which a task is regenerated.

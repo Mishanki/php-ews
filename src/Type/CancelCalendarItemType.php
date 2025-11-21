@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\CancelCalendarItemType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents the response object that is used to cancel a meeting.

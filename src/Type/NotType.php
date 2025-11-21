@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\NotType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a search expression that negates the Boolean value of the search

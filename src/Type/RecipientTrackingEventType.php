@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\RecipientTrackingEventType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents information for a single event for a recipient.
@@ -50,7 +50,7 @@ class RecipientTrackingEventType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringsType
      */
     public $EventData;
 
@@ -88,7 +88,7 @@ class RecipientTrackingEventType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfTrackingPropertiesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfTrackingPropertiesType
      */
     public $Properties;
 
@@ -97,7 +97,7 @@ class RecipientTrackingEventType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $Recipient;
 

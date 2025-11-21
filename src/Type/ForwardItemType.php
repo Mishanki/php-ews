@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\ForwardItemType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents an Exchange store item to forward to recipients.

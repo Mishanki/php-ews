@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\DeletedOccurrenceInfoType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a deleted occurrence of a recurring calendar item.

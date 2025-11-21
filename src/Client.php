@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Client.
  */
 
-namespace jamesiarmes\PhpEws;
+namespace mishanki\PhpEws;
 
-use \jamesiarmes\PhpNtlm\SoapClient;
+use \mishanki\PhpNtlm\SoapClient;
 
 /**
  * Base class of the Exchange Web Services application.
@@ -133,7 +133,7 @@ class Client
     /**
      * Exchange impersonation
      *
-     * @var \jamesiarmes\PhpEws\Type\ExchangeImpersonationType
+     * @var \mishanki\PhpEws\Type\ExchangeImpersonationType
      */
     protected $impersonation;
 

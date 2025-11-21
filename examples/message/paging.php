@@ -6,20 +6,20 @@
  */
 require_once '../../vendor/autoload.php';
 
-use \jamesiarmes\PhpEws\Client;
-use \jamesiarmes\PhpEws\Request\FindItemType;
+use \mishanki\PhpEws\Client;
+use \mishanki\PhpEws\Request\FindItemType;
 
-use \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType;
+use \mishanki\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType;
 
-use \jamesiarmes\PhpEws\Enumeration\DefaultShapeNamesType;
-use \jamesiarmes\PhpEws\Enumeration\DistinguishedFolderIdNameType;
-use \jamesiarmes\PhpEws\Enumeration\IndexBasePointType;
-use \jamesiarmes\PhpEws\Enumeration\ItemQueryTraversalType;
-use \jamesiarmes\PhpEws\Enumeration\ResponseClassType;
+use \mishanki\PhpEws\Enumeration\DefaultShapeNamesType;
+use \mishanki\PhpEws\Enumeration\DistinguishedFolderIdNameType;
+use \mishanki\PhpEws\Enumeration\IndexBasePointType;
+use \mishanki\PhpEws\Enumeration\ItemQueryTraversalType;
+use \mishanki\PhpEws\Enumeration\ResponseClassType;
 
-use \jamesiarmes\PhpEws\Type\DistinguishedFolderIdType;
-use \jamesiarmes\PhpEws\Type\IndexedPageViewType;
-use \jamesiarmes\PhpEws\Type\ItemResponseShapeType;
+use \mishanki\PhpEws\Type\DistinguishedFolderIdType;
+use \mishanki\PhpEws\Type\IndexedPageViewType;
+use \mishanki\PhpEws\Type\ItemResponseShapeType;
 
 // Replace this with the number of items you would like reurned for each page.
 $page_size = 10;

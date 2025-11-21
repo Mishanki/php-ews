@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetDelegateType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to get information about delegates to a mailbox.
@@ -27,7 +27,7 @@ class GetDelegateType extends BaseDelegateType
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfUserIdType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfUserIdType
      */
     public $UserIds;
 }

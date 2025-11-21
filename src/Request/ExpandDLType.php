@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\ExpandDLType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to expand a distribution list.
@@ -19,7 +19,7 @@ class ExpandDLType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $Mailbox;
 }

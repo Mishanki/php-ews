@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\MailboxSearchLocationType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines whether a search or fetch for a conversation should span either the

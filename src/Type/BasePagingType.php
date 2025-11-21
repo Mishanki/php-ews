@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\BasePagingType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Base class for defining how results should be paged.

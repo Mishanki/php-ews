@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\CreateActionType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the action for uploading an item into a mailbox.

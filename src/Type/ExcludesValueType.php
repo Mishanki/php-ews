@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ExcludesValueType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a hexadecimal or decimal mask to be used during an Excludes

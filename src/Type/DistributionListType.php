@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\DistributionListType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a distribution list.
@@ -47,7 +47,7 @@ class DistributionListType extends ItemType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\MembersListType
+     * @var \mishanki\PhpEws\Type\MembersListType
      */
     public $Members;
 }

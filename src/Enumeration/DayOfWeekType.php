@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\DayOfWeekType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents a day of the week.

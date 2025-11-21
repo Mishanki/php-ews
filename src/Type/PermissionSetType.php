@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\PermissionSetType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Contains all the permissions that are configured for a folder.
@@ -19,7 +19,7 @@ class PermissionSetType extends Type
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPermissionsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPermissionsType
      */
     public $Permissions;
 
@@ -29,7 +29,7 @@ class PermissionSetType extends Type
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfUnknownEntriesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfUnknownEntriesType
      */
     public $UnknownEntries;
 }

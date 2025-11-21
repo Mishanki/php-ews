@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\FolderChangeDescriptionType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Base class for changes to individual folder properties.

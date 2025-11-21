@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\PathToIndexedFieldType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Identifies individual members of a dictionary.

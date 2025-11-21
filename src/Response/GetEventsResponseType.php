@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetEventsResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents a response to a GetEvents request.

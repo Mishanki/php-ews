@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ServiceConfigurationType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Specifies the requested service configurations by name.

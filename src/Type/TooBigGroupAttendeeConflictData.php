@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\TooBigGroupAttendeeConflictData.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents an attendee that was resolved as a distribution list but the

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\AddNewImContactToGroupResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines a response to an AddNewImContactToGroup request.
@@ -17,7 +17,7 @@ class AddNewImContactToGroupResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\PersonaType
+     * @var \mishanki\PhpEws\Type\PersonaType
      */
     public $Persona;
 }

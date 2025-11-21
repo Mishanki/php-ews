@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\WorkingPeriod.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents the work week days and hours of the mailbox user.

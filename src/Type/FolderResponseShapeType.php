@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\FolderResponseShapeType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Defines the folder properties to include in a GetFolder, FindFolder, or
@@ -22,7 +22,7 @@ class FolderResponseShapeType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfPathsToElementType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfPathsToElementType
      */
     public $AdditionalProperties;
 

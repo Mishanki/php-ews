@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\StandardGroupByType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents the standard grouping and aggregating mechanisms for a grouped

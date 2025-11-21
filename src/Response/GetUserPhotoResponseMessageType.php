@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetUserPhotoResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines the response to a GetUserPhoto request.

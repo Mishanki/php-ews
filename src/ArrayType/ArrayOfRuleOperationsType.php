@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfRuleOperationsType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents an array of rule operations that can be performed on an Inbox.
@@ -19,7 +19,7 @@ class ArrayOfRuleOperationsType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\CreateRuleOperationType[]
+     * @var \mishanki\PhpEws\Type\CreateRuleOperationType[]
      */
     public $CreateRuleOperation = array();
 
@@ -28,7 +28,7 @@ class ArrayOfRuleOperationsType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\DeleteRuleOperationType[]
+     * @var \mishanki\PhpEws\Type\DeleteRuleOperationType[]
      */
     public $DeleteRuleOperation = array();
 
@@ -37,7 +37,7 @@ class ArrayOfRuleOperationsType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\SetRuleOperationType[]
+     * @var \mishanki\PhpEws\Type\SetRuleOperationType[]
      */
     public $SetRuleOperation = array();
 }

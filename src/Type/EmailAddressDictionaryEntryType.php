@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\EmailAddressDictionaryEntryType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a single e-mail address for a contact.

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\FlagStatusType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents the flagged status of an item.

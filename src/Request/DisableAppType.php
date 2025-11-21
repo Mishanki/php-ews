@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\DisableAppType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to disable an app.

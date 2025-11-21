@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\MeetingRequestTypeType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Describes the type of a meeting request.

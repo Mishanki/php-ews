@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\RulePredicateSizeRangeType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Specifies the minimum and maximum sizes that incoming messages must be in

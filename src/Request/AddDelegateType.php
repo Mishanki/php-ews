@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\AddDelegateType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to add delegates to a mailbox.
@@ -17,7 +17,7 @@ class AddDelegateType extends BaseDelegateType
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfDelegateUserType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfDelegateUserType
      */
     public $DelegateUsers;
 

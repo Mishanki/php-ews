@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetRoomsResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the response to a GetRooms operation request.
@@ -18,7 +18,7 @@ class GetRoomsResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRoomsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRoomsType
      */
     public $Rooms;
 }

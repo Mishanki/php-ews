@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfSuggestionDayResult.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents an array of meeting suggestions organized by date.
@@ -19,7 +19,7 @@ class ArrayOfSuggestionDayResult extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SuggestionDayResult[]
+     * @var \mishanki\PhpEws\Type\SuggestionDayResult[]
      */
     public $SuggestionDayResult = array();
 }

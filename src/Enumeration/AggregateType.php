@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\AggregateType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Indicates the maximum or minimum value of a property that is used for

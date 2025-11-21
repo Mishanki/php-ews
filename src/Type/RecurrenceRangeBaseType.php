@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\RecurrenceRangeBaseType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Base class for recurrence ranges,

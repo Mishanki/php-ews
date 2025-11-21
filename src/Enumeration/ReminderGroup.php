@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ReminderGroup.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines whether the reminder is for a calendar item or a task.

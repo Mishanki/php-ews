@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\PersonaPostalAddressType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines a postal address associated with a persona.

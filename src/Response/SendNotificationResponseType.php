@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\SendNotificationResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the push notifications that are sent by the computer that is

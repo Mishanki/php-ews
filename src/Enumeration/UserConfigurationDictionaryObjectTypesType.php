@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\UserConfigurationDictionaryObjectTypesType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines a dictionary object's type.

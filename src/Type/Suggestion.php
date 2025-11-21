@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\Suggestion.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a single meeting suggestion.
@@ -20,7 +20,7 @@ class Suggestion extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfAttendeeConflictData
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfAttendeeConflictData
      */
     public $AttendeeConflictDataArray;
 

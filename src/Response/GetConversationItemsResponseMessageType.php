@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetConversationItemsResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines the response message for a GetConversationItems request.
@@ -17,7 +17,7 @@ class GetConversationItemsResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\ConversationResponseType
+     * @var \mishanki\PhpEws\Type\ConversationResponseType
      */
     public $Conversation;
 }

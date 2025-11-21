@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\TentativelyAcceptItemType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a Tentative reply to a meeting request.

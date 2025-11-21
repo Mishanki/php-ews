@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\ServiceConfigurationResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents service configuration settings.
@@ -17,7 +17,7 @@ class ServiceConfigurationResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\MailTipsServiceConfiguration
+     * @var \mishanki\PhpEws\Type\MailTipsServiceConfiguration
      */
     public $MailTipsConfiguration;
 
@@ -27,7 +27,7 @@ class ServiceConfigurationResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\ProtectionRulesServiceConfiguration
+     * @var \mishanki\PhpEws\Type\ProtectionRulesServiceConfiguration
      */
     public $ProtectionRulesConfiguration;
 
@@ -37,7 +37,7 @@ class ServiceConfigurationResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\UnifiedMessageServiceConfiguration
+     * @var \mishanki\PhpEws\Type\UnifiedMessageServiceConfiguration
      */
     public $UnifiedMessagingConfiguration;
 }

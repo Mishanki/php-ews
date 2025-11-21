@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\UserConfigurationPropertyType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the property types to get in a GetUserConfiguration operation.

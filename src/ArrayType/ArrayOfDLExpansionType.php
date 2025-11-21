@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfDLExpansionType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents an array of mailboxes that are contained in a distribution list.
@@ -51,7 +51,7 @@ class ArrayOfDLExpansionType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType[]
+     * @var \mishanki\PhpEws\Type\EmailAddressType[]
      */
     public $Mailbox = array();
 

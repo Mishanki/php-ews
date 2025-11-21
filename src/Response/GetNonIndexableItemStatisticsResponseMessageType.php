@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetNonIndexableItemStatisticsResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines the response to a GetNonIndexableItemStatistics request.
@@ -17,7 +17,7 @@ class GetNonIndexableItemStatisticsResponseMessageType extends ResponseMessageTy
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfNonIndexableItemStatisticsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfNonIndexableItemStatisticsType
      */
     public $NonIndexableItemStatistics;
 }

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\MessageDispositionType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Describes how an e-mail message will be handled after it is created.

@@ -8,7 +8,7 @@
  * Last updated on: 2018-11-30 04:32:49 UTC
  */
 
-namespace jamesiarmes\PhpEws;
+namespace mishanki\PhpEws;
 
 /**
  * Mapping of complex types to class implementations.

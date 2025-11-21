@@ -7,15 +7,15 @@
 
 require_once '../../vendor/autoload.php';
 
-use \jamesiarmes\PhpEws\Client;
-use \jamesiarmes\PhpEws\Request\CreateAttachmentType;
+use \mishanki\PhpEws\Client;
+use \mishanki\PhpEws\Request\CreateAttachmentType;
 
-use \jamesiarmes\PhpEws\Enumeration\ResponseClassType;
+use \mishanki\PhpEws\Enumeration\ResponseClassType;
 
-use \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAttachmentsType;
+use \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAttachmentsType;
 
-use \jamesiarmes\PhpEws\Type\FileAttachmentType;
-use \jamesiarmes\PhpEws\Type\ItemIdType;
+use \mishanki\PhpEws\Type\FileAttachmentType;
+use \mishanki\PhpEws\Type\ItemIdType;
 
 // Replace with the id of the created message and path to the file to be attach.
 $message_id = 'AAMkADk0N2E4OTQxLWRlOTYtNGUxZC05NzE1LTU4ZmI5NGVkZTZmYQBGAAAAAADeofKHfJ96S5ndHNLg9VfeBwAr1MfeoTJdQ7jgaw/bSgljAAAAAAEPAAAr1MfeoTJdQ7jgaw/bSgljAABueQnrAAA=';

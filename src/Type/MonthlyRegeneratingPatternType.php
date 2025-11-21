@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\MonthlyRegeneratingPatternType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Describes the frequency, in months, of which task is regenerated.

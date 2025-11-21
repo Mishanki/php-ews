@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\PathToExtendedFieldType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents an extended property.

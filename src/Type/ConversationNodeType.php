@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ConversationNodeType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines a node in a conversation.
@@ -28,7 +28,7 @@ class ConversationNodeType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAllItemsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAllItemsType
      */
     public $Items;
 

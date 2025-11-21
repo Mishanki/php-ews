@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\LegacyFreeBusyType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents the intended status for a calendar item that is associated with a

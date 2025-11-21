@@ -7,18 +7,18 @@
  */
 require_once '../../vendor/autoload.php';
 
-use \jamesiarmes\PhpEws\Client;
-use \jamesiarmes\PhpEws\Request\CreateItemType;
+use \mishanki\PhpEws\Client;
+use \mishanki\PhpEws\Request\CreateItemType;
 
-use \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAllItemsType;
+use \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAllItemsType;
 
-use jamesiarmes\PhpEws\Enumeration\BodyTypeType;
-use jamesiarmes\PhpEws\Enumeration\MessageDispositionType;
-use jamesiarmes\PhpEws\Enumeration\ResponseClassType;
+use mishanki\PhpEws\Enumeration\BodyTypeType;
+use mishanki\PhpEws\Enumeration\MessageDispositionType;
+use mishanki\PhpEws\Enumeration\ResponseClassType;
 
-use \jamesiarmes\PhpEws\Type\BodyType;
-use \jamesiarmes\PhpEws\Type\ItemIdType;
-use \jamesiarmes\PhpEws\Type\ReplyAllToItemType;
+use \mishanki\PhpEws\Type\BodyType;
+use \mishanki\PhpEws\Type\ItemIdType;
+use \mishanki\PhpEws\Type\ReplyAllToItemType;
 
 // Replace with the id and change key of the message to reply all to.
 $id = 'AAMkADk0N2E4OTQxLWRlOTYtNGUxZC05NzE1LTU4ZmI5NGVkZTZmYQBGAAAAAADeofKHfJ96S5ndHNLg9VfeBwAr1MfeoTJdQ7jgaw/bSgljAAAAAAEMAAAr1MfeoTJdQ7jgaw/bSgljAABaFXCUAAA=';

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\UploadItemsResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents a response to a single UploadItems request.

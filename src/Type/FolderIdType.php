@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\FolderIdType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents the identifier of the parent folder that contains the item or

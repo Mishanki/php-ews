@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\UpdateFolderResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines the response to an UpdateFolder request.

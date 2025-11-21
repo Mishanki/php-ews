@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfExtendedPropertyType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * An array of additional properties.
@@ -19,7 +19,7 @@ class NonEmptyArrayOfExtendedPropertyType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\ExtendedPropertyType[]
+     * @var \mishanki\PhpEws\Type\ExtendedPropertyType[]
      */
     public $ExtendedProperty = array();
 }

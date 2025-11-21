@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\SubscribeResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines a response to a Subscribe request.

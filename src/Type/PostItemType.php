@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\PostItemType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a post item in the Exchange store.
@@ -40,7 +40,7 @@ class PostItemType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SingleRecipientType
+     * @var \mishanki\PhpEws\Type\SingleRecipientType
      */
     public $From;
 
@@ -91,7 +91,7 @@ class PostItemType extends ItemType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SingleRecipientType
+     * @var \mishanki\PhpEws\Type\SingleRecipientType
      */
     public $Sender;
 }

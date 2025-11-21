@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\CalendarEvent.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a unique calendar item occurrence.
@@ -60,7 +60,7 @@ class CalendarEvent extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\CalendarEventDetails
+     * @var \mishanki\PhpEws\Type\CalendarEventDetails
      */
     public $CalendarEventDetails;
 }

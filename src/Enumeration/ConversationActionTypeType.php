@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ConversationActionTypeType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Contains the action to perform on a conversation specified by a

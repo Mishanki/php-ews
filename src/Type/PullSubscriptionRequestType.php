@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\PullSubscriptionRequestType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a subscription to a pull-based event notification subscription.

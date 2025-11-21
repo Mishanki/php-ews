@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\BodyContentAttributedValueType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines the body content of an item.
@@ -21,7 +21,7 @@ class BodyContentAttributedValueType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfPersonaAttributionsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfPersonaAttributionsType
      */
     public $Attributions;
 

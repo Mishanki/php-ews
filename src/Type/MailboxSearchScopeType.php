@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\MailboxSearchScopeType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines a mailbox and a search scope for a discovery search.
@@ -19,7 +19,7 @@ class MailboxSearchScopeType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfExtendedAttributesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfExtendedAttributesType
      */
     public $ExtendedAttributes;
 

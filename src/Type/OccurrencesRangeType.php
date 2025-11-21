@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\OccurrencesRangeType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines a range of calendar item occurrences for a repeating calendar item.

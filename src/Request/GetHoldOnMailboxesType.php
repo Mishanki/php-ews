@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetHoldOnMailboxesType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to get the hold status for a mailbox.

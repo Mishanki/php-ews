@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfAttachmentsType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use jamesiarmes\PhpEws\ArrayType;
+use mishanki\PhpEws\ArrayType;
 
 /**
  * Contains the items or files that are attached to an item in the Exchange
@@ -22,7 +22,7 @@ class ArrayOfAttachmentsType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\FileAttachmentType[]
+     * @var \mishanki\PhpEws\Type\FileAttachmentType[]
      */
     public $FileAttachment;
 
@@ -31,7 +31,7 @@ class ArrayOfAttachmentsType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemAttachmentType[]
+     * @var \mishanki\PhpEws\Type\ItemAttachmentType[]
      */
     public $ItemAttachment;
 }

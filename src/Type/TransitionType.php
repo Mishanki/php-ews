@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\TransitionType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Represents a time zone transition.
@@ -22,7 +22,7 @@ class TransitionType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\TransitionTargetType
+     * @var \mishanki\PhpEws\Type\TransitionTargetType
      */
     public $To;
 }

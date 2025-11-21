@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\ApplyConversationActionResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the status and results of an ApplyConversationAction operation

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\MailboxStatisticsItemType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines statistics for a mailbox.

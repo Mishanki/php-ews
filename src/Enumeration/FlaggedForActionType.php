@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\FlaggedForActionType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Specifies the flag for action value that must appear on incoming messages in

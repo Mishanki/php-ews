@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\ItemInfoResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the status and result of a single item operation request.
@@ -17,7 +17,7 @@ class ItemInfoResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRealItemsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRealItemsType
      */
     public $Items;
 }

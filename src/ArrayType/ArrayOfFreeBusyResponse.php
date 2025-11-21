@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfFreeBusyResponse.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents the requested users' availability information and the response
@@ -21,7 +21,7 @@ class ArrayOfFreeBusyResponse extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\FreeBusyResponseType[]
+     * @var \mishanki\PhpEws\Type\FreeBusyResponseType[]
      */
     public $FreeBusyResponse = array();
 }

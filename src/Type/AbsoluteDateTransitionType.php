@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\AbsoluteDateTransitionType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a time zone transition that occurs on a specific date and at a
@@ -30,7 +30,7 @@ class AbsoluteDateTransitionType extends TransitionType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\TransitionTargetType
+     * @var \mishanki\PhpEws\Type\TransitionTargetType
      */
     public $To;
 }

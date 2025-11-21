@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\RecurringDateTransitionType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a time zone transition that occurs on a specific date each year.

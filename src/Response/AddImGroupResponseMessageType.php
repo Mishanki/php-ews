@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\AddImGroupResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines a response to an AddImGroup request.
@@ -17,7 +17,7 @@ class AddImGroupResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\ImGroupType
+     * @var \mishanki\PhpEws\Type\ImGroupType
      */
     public $ImGroup;
 }

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\InternetHeaderType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents the Internet message header for a given header within a headers

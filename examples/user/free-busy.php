@@ -5,18 +5,18 @@
  */
 require_once '../../vendor/autoload.php';
 
-use \jamesiarmes\PhpEws\Client;
-use \jamesiarmes\PhpEws\Request\GetUserAvailabilityRequestType;
+use \mishanki\PhpEws\Client;
+use \mishanki\PhpEws\Request\GetUserAvailabilityRequestType;
 
-use \jamesiarmes\PhpEws\ArrayType\ArrayOfMailboxData;
+use \mishanki\PhpEws\ArrayType\ArrayOfMailboxData;
 
-use \jamesiarmes\PhpEws\Enumeration\FreeBusyViewType;
-use \jamesiarmes\PhpEws\Enumeration\ResponseClassType;
+use \mishanki\PhpEws\Enumeration\FreeBusyViewType;
+use \mishanki\PhpEws\Enumeration\ResponseClassType;
 
-use \jamesiarmes\PhpEws\Type\Duration;
-use \jamesiarmes\PhpEws\Type\EmailAddressType;
-use \jamesiarmes\PhpEws\Type\FreeBusyViewOptionsType;
-use \jamesiarmes\PhpEws\Type\MailboxData;
+use \mishanki\PhpEws\Type\Duration;
+use \mishanki\PhpEws\Type\EmailAddressType;
+use \mishanki\PhpEws\Type\FreeBusyViewOptionsType;
+use \mishanki\PhpEws\Type\MailboxData;
 
 // Replace with the email of the user and date range you wish to get the
 // availability for.

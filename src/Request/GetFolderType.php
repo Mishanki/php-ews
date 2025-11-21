@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\GetFolderType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to get a folder from a mailbox in the Exchange store.
@@ -18,7 +18,7 @@ class GetFolderType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType
      */
     public $FolderIds;
 
@@ -28,7 +28,7 @@ class GetFolderType extends BaseRequestType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\FolderResponseShapeType
+     * @var \mishanki\PhpEws\Type\FolderResponseShapeType
      */
     public $FolderShape;
 }

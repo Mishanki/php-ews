@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\ProtectionRuleConditionType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Identifies a condition that must be satisfied for the action part of a rule
@@ -33,7 +33,7 @@ class ProtectionRuleConditionType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\ProtectionRuleAndType
+     * @var \mishanki\PhpEws\Type\ProtectionRuleAndType
      */
     public $And;
 
@@ -44,7 +44,7 @@ class ProtectionRuleConditionType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\ProtectionRuleRecipientIsType
+     * @var \mishanki\PhpEws\Type\ProtectionRuleRecipientIsType
      */
     public $RecipientIs;
 
@@ -54,7 +54,7 @@ class ProtectionRuleConditionType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\ProtectionRuleSenderDepartmentsType
+     * @var \mishanki\PhpEws\Type\ProtectionRuleSenderDepartmentsType
      */
     public $SenderDepartments;
 

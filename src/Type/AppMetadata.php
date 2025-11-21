@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\AppMetadata.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines metadata about a mail app.

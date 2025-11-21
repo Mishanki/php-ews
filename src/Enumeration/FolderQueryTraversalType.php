@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\FolderQueryTraversalType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the type of sub-tree traversal for an operation.

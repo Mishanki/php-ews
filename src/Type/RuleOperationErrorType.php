@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\RuleOperationErrorType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a rule operation error.
@@ -30,7 +30,7 @@ class RuleOperationErrorType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRuleValidationErrorsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRuleValidationErrorsType
      */
     public $ValidationErrors;
 }

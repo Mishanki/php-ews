@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\FreeBusyView.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents availability information for a specific user.
@@ -20,7 +20,7 @@ class FreeBusyView extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfCalendarEvent
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfCalendarEvent
      */
     public $CalendarEventArray;
 
@@ -51,7 +51,7 @@ class FreeBusyView extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\WorkingHours
+     * @var \mishanki\PhpEws\Type\WorkingHours
      */
     public $WorkingHours;
 }

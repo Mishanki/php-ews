@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\ContactsFolderType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a contacts folder that is contained in a mailbox.
@@ -17,7 +17,7 @@ class ContactsFolderType extends BaseFolderType
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\PermissionSetType
+     * @var \mishanki\PhpEws\Type\PermissionSetType
      */
     public $PermissionSet;
 

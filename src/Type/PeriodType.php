@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\PeriodType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Defines the name, time offset, and unique identifier for a specific stage of

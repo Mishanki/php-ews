@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\FindFolderParentType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents the results of a search of a single root folder during a
@@ -32,7 +32,7 @@ class FindFolderParentType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfFoldersType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfFoldersType
      */
     public $Folders;
 

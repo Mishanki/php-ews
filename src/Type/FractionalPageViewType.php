@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\FractionalPageViewType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Describes where the paged view starts and the maximum number of folders

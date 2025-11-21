@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\TimeZoneContextType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Defines the time zone definition that is to be used as the default when
@@ -21,7 +21,7 @@ class TimeZoneContextType extends Type
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\TimeZoneDefinitionType
+     * @var \mishanki\PhpEws\Type\TimeZoneDefinitionType
      */
     public $TimeZoneDefinition;
 }

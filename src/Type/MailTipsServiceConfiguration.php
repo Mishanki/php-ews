@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\MailTipsServiceConfiguration.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents service configuration information for the mail tips service.
@@ -19,7 +19,7 @@ class MailTipsServiceConfiguration extends ServiceConfiguration
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\SmtpDomainList
+     * @var \mishanki\PhpEws\Type\SmtpDomainList
      */
     public $InternalDomains;
 

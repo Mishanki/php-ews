@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\SensitivityChoicesType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Indicates the sensitivity level of an item.

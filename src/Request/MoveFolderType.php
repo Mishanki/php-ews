@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\MoveFolderType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Defines a request to move a folder in the Exchange store.

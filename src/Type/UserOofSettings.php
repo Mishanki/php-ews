@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\UserOofSettings.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Defines the Out of Office (OOF) settings.
@@ -23,7 +23,7 @@ class UserOofSettings extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\Duration
+     * @var \mishanki\PhpEws\Type\Duration
      */
     public $Duration;
 
@@ -44,7 +44,7 @@ class UserOofSettings extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ReplyBody
+     * @var \mishanki\PhpEws\Type\ReplyBody
      */
     public $ExternalReply;
 
@@ -54,7 +54,7 @@ class UserOofSettings extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ReplyBody
+     * @var \mishanki\PhpEws\Type\ReplyBody
      */
     public $InternalReply;
 

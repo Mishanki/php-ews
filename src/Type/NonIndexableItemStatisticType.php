@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\NonIndexableItemStatisticType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines a single statistic for an item that could not be indexed.

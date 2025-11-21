@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\ContactsViewType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Defines a search for contact items based on alphabetical display names.

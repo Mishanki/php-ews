@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\CreateRuleOperationType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents an operation to create a new Inbox rule.
@@ -17,7 +17,7 @@ class CreateRuleOperationType extends RuleOperationType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\RuleType
+     * @var \mishanki\PhpEws\Type\RuleType
      */
     public $Rule;
 }

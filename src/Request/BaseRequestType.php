@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Request\BaseRequestType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
-use \jamesiarmes\PhpEws\Request;
+use \mishanki\PhpEws\Request;
 
 /**
  * Base class for requests.

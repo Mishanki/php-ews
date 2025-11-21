@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\ArrayType.
  */
 
-namespace jamesiarmes\PhpEws;
+namespace mishanki\PhpEws;
 
 /**
  * Base class for Exchange Web Service requests.

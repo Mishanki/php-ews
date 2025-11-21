@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfSearchPreviewItemsType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines a list of items available for preview.
@@ -19,7 +19,7 @@ class ArrayOfSearchPreviewItemsType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\SearchPreviewItemType[]
+     * @var \mishanki\PhpEws\Type\SearchPreviewItemType[]
      */
     public $SearchPreviewItem = array();
 }

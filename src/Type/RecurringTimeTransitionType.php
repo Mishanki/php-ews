@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\RecurringTimeTransitionType;
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Base class for recurring time transitions.

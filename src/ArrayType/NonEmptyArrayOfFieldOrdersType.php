@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfFieldOrdersType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines how items are sorted in a FindItem or FindConversation request.
@@ -24,7 +24,7 @@ class NonEmptyArrayOfFieldOrdersType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\FieldOrderType[]
+     * @var \mishanki\PhpEws\Type\FieldOrderType[]
      */
     public $FieldOrder = array();
 }

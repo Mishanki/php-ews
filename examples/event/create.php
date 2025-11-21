@@ -1,21 +1,21 @@
 <?php
 require_once '../../vendor/autoload.php';
 
-use \jamesiarmes\PhpEws\Client;
-use \jamesiarmes\PhpEws\Request\CreateItemType;
+use \mishanki\PhpEws\Client;
+use \mishanki\PhpEws\Request\CreateItemType;
 
-use \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAllItemsType;
-use \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfAttendeesType;
+use \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAllItemsType;
+use \mishanki\PhpEws\ArrayType\NonEmptyArrayOfAttendeesType;
 
-use \jamesiarmes\PhpEws\Enumeration\BodyTypeType;
-use \jamesiarmes\PhpEws\Enumeration\CalendarItemCreateOrDeleteOperationType;
-use \jamesiarmes\PhpEws\Enumeration\ResponseClassType;
-use \jamesiarmes\PhpEws\Enumeration\RoutingType;
+use \mishanki\PhpEws\Enumeration\BodyTypeType;
+use \mishanki\PhpEws\Enumeration\CalendarItemCreateOrDeleteOperationType;
+use \mishanki\PhpEws\Enumeration\ResponseClassType;
+use \mishanki\PhpEws\Enumeration\RoutingType;
 
-use \jamesiarmes\PhpEws\Type\AttendeeType;
-use \jamesiarmes\PhpEws\Type\BodyType;
-use \jamesiarmes\PhpEws\Type\CalendarItemType;
-use \jamesiarmes\PhpEws\Type\EmailAddressType;
+use \mishanki\PhpEws\Type\AttendeeType;
+use \mishanki\PhpEws\Type\BodyType;
+use \mishanki\PhpEws\Type\CalendarItemType;
+use \mishanki\PhpEws\Type\EmailAddressType;
 
 // Replace this with your desired start/end times and guests.
 $start = new DateTime('tomorrow 4:00pm');

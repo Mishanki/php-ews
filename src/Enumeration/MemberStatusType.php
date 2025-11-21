@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\MemberStatusType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Represents the status of a distribution list member on the server.

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetServiceConfigurationResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines a response to a GetServiceConfiguration request.
@@ -17,7 +17,7 @@ class GetServiceConfigurationResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfServiceConfigurationResponseMessageType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfServiceConfigurationResponseMessageType
      */
     public $ResponseMessages;
 }

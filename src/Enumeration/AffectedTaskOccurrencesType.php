@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\AffectedTaskOccurrencesType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines whether a task instance or a task master is deleted by a DeleteItem

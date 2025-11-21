@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfPostalAddressAttributedValuesType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines an array of business addresses and the identifiers of their source
@@ -21,7 +21,7 @@ class ArrayOfPostalAddressAttributedValuesType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\PostalAddressAttributedValueType[]
+     * @var \mishanki\PhpEws\Type\PostalAddressAttributedValueType[]
      */
     public $PostalAddressAttributedValue = array();
 }

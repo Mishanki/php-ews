@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ConversationQueryTraversalType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the type of traversal to use for a folder.

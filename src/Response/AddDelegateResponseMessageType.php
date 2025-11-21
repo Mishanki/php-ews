@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\AddDelegateResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Contains the status and result of an AddDelegate Operation request.

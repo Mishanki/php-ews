@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfMailboxStatisticsItemsType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines a list of one or more mailbox stats.
@@ -19,7 +19,7 @@ class ArrayOfMailboxStatisticsItemsType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\MailboxStatisticsItemType[]
+     * @var \mishanki\PhpEws\Type\MailboxStatisticsItemType[]
      */
     public $MailboxStat = array();
 }

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\PermissionActionType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Indicates which items in a folder a user has permission to perform an action

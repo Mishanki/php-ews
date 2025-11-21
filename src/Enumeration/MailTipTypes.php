@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\MailTipTypes.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Defines the types of mail tips requested from the service.

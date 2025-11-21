@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\DateTimePrecisionType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Specifies the precision for returned date/time values.

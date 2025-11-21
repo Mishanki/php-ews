@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\MessageTrackingReportType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a single message that is returned in a GetMessageTrackingReport
@@ -20,7 +20,7 @@ class MessageTrackingReportType extends Type
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfEmailAddressesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfEmailAddressesType
      */
     public $OriginalRecipients;
 
@@ -29,7 +29,7 @@ class MessageTrackingReportType extends Type
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfTrackingPropertiesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfTrackingPropertiesType
      */
     public $Properties;
 
@@ -38,7 +38,7 @@ class MessageTrackingReportType extends Type
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $PurportedSender;
 
@@ -47,7 +47,7 @@ class MessageTrackingReportType extends Type
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRecipientTrackingEventType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRecipientTrackingEventType
      */
     public $RecipientTrackingEvents;
 
@@ -56,7 +56,7 @@ class MessageTrackingReportType extends Type
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $Sender;
 

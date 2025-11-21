@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\ConvertIdResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the status and result of a ConvertId operation request.
@@ -17,7 +17,7 @@ class ConvertIdResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2007 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\AlternateIdType
+     * @var \mishanki\PhpEws\Type\AlternateIdType
      */
     public $AlternateId;
 }

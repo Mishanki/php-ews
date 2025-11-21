@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\DiscoverySearchConfigurationType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines a configuration for eDiscovery search.
@@ -67,7 +67,7 @@ class DiscoverySearchConfigurationType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfSearchableMailboxesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfSearchableMailboxesType
      */
     public $SearchableMailboxes;
 }

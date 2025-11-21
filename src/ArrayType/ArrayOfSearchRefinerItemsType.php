@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfSearchRefinerItemsType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Defines a list of one or more refiners.
@@ -19,7 +19,7 @@ class ArrayOfSearchRefinerItemsType extends ArrayType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\SearchRefinerItemType[]
+     * @var \mishanki\PhpEws\Type\SearchRefinerItemType[]
      */
     public $Refiner = array();
 }

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Enumeration\ResponseTypeType.
  */
 
-namespace jamesiarmes\PhpEws\Enumeration;
+namespace mishanki\PhpEws\Enumeration;
 
-use \jamesiarmes\PhpEws\Enumeration;
+use \mishanki\PhpEws\Enumeration;
 
 /**
  * Identifies the type of a response that is received.

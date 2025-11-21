@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetMessageTrackingReportResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the response for the GetMessageTrackingReport operation.
@@ -18,7 +18,7 @@ class GetMessageTrackingReportResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\MessageTrackingReportType
+     * @var \mishanki\PhpEws\Type\MessageTrackingReportType
      */
     public $MessageTrackingReport;
 
@@ -28,7 +28,7 @@ class GetMessageTrackingReportResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfStringsType
      */
     public $Diagnostics;
 
@@ -38,7 +38,7 @@ class GetMessageTrackingReportResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfArraysOfTrackingPropertiesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfArraysOfTrackingPropertiesType
      */
     public $Errors;
 
@@ -47,7 +47,7 @@ class GetMessageTrackingReportResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfTrackingPropertiesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfTrackingPropertiesType
      */
     public $Properties;
 }

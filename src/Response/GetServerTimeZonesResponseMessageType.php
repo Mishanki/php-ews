@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetServerTimeZonesResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the status and result of a single GetServerTimeZones operation
@@ -18,7 +18,7 @@ class GetServerTimeZonesResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfTimeZoneDefinitionType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfTimeZoneDefinitionType
      */
     public $TimeZoneDefinitions;
 }

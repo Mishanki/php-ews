@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\MailboxData.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents an individual mailbox user and options for the type of data to be
@@ -33,7 +33,7 @@ class MailboxData extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $Email;
 

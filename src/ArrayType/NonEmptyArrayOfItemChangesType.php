@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfItemChangesType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents an array of ItemChange elements that identify items and the
@@ -20,7 +20,7 @@ class NonEmptyArrayOfItemChangesType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemChangeType[]
+     * @var \mishanki\PhpEws\Type\ItemChangeType[]
      */
     public $ItemChange = array();
 }

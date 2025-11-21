@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfRequestAttachmentIdsType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents an array of attachment identifiers.
@@ -19,7 +19,7 @@ class NonEmptyArrayOfRequestAttachmentIdsType extends ArrayType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\RequestAttachmentIdType[]
+     * @var \mishanki\PhpEws\Type\RequestAttachmentIdType[]
      */
     public $AttachmentId = array();
 }

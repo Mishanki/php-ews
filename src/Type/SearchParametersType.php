@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\SearchParametersType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents the parameters that define a search folder.
@@ -20,7 +20,7 @@ class SearchParametersType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfBaseFolderIdsType
      */
     public $BaseFolderIds;
 
@@ -30,7 +30,7 @@ class SearchParametersType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\RestrictionType
+     * @var \mishanki\PhpEws\Type\RestrictionType
      */
     public $Restriction;
 

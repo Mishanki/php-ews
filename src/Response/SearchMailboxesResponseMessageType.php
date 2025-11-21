@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\SearchMailboxesResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines the response message for a SearchMailboxes request.
@@ -17,7 +17,7 @@ class SearchMailboxesResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\SearchMailboxesResultType
+     * @var \mishanki\PhpEws\Type\SearchMailboxesResultType
      */
     public $SearchMailboxesResult;
 }

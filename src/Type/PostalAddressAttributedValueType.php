@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\PostalAddressAttributedValueType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines an instance of an array of postal addresses and their associated
@@ -20,7 +20,7 @@ class PostalAddressAttributedValueType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfValueAttributionsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfValueAttributionsType
      */
     public $Attributions;
 
@@ -29,7 +29,7 @@ class PostalAddressAttributedValueType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\PersonaPostalAddressType
+     * @var \mishanki\PhpEws\Type\PersonaPostalAddressType
      */
     public $Value;
 }

@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Request\FindMessageTrackingReportRequestType.
  */
 
-namespace jamesiarmes\PhpEws\Request;
+namespace mishanki\PhpEws\Request;
 
 /**
  * Represents criteria for the types of messages to find.
@@ -47,7 +47,7 @@ class FindMessageTrackingReportRequestType extends BaseRequestType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $FederatedDeliveryMailbox;
 
@@ -67,7 +67,7 @@ class FindMessageTrackingReportRequestType extends BaseRequestType
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfTrackingPropertiesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfTrackingPropertiesType
      */
     public $Properties;
 
@@ -76,7 +76,7 @@ class FindMessageTrackingReportRequestType extends BaseRequestType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $PurportedSender;
 
@@ -85,7 +85,7 @@ class FindMessageTrackingReportRequestType extends BaseRequestType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $Recipient;
 
@@ -105,7 +105,7 @@ class FindMessageTrackingReportRequestType extends BaseRequestType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $Sender;
 

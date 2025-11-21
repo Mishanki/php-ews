@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetAppMarketplaceUrlResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines the response to a GetAppMarketplaceUrl request.

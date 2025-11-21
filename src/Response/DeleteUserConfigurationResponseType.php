@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\DeleteUserConfigurationResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines a response to a single DeleteUserConfiguration request.

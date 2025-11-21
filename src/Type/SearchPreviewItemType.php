@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\SearchPreviewItemType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Defines an item preview for a discovery search.
@@ -20,7 +20,7 @@ class SearchPreviewItemType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRecipientsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRecipientsType
      */
     public $BccRecipients;
 
@@ -30,7 +30,7 @@ class SearchPreviewItemType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRecipientsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRecipientsType
      */
     public $CcRecipients;
 
@@ -50,7 +50,7 @@ class SearchPreviewItemType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfExtendedPropertyType
+     * @var \mishanki\PhpEws\ArrayType\NonEmptyArrayOfExtendedPropertyType
      */
     public $ExtendedProperties;
 
@@ -68,7 +68,7 @@ class SearchPreviewItemType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemIdType
+     * @var \mishanki\PhpEws\Type\ItemIdType
      */
     public $Id;
 
@@ -101,7 +101,7 @@ class SearchPreviewItemType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\PreviewItemMailboxType
+     * @var \mishanki\PhpEws\Type\PreviewItemMailboxType
      */
     public $Mailbox;
 
@@ -119,7 +119,7 @@ class SearchPreviewItemType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\ItemIdType
+     * @var \mishanki\PhpEws\Type\ItemIdType
      */
     public $ParentId;
 
@@ -206,7 +206,7 @@ class SearchPreviewItemType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfSmtpAddressType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfSmtpAddressType
      */
     public $ToRecipients;
 

@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\FindMessageTrackingSearchResultType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a single message result for a FindMessageTrackingReportResponse
@@ -50,7 +50,7 @@ class FindMessageTrackingSearchResultType extends Type
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfTrackingPropertiesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfTrackingPropertiesType
      */
     public $Properties;
 
@@ -59,7 +59,7 @@ class FindMessageTrackingSearchResultType extends Type
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $PurportedSender;
 
@@ -68,7 +68,7 @@ class FindMessageTrackingSearchResultType extends Type
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRecipientsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRecipientsType
      */
     public $Recipients;
 
@@ -77,7 +77,7 @@ class FindMessageTrackingSearchResultType extends Type
      *
      * @since Exchange 2010 SP1
      *
-     * @var \jamesiarmes\PhpEws\Type\EmailAddressType
+     * @var \mishanki\PhpEws\Type\EmailAddressType
      */
     public $Sender;
 

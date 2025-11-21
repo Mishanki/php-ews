@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\NonIndexableItemDetailResultType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Defines the results of the GetNonIndexableItemDetails request.
@@ -19,7 +19,7 @@ class NonIndexableItemDetailResultType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfFailedSearchMailboxesType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfFailedSearchMailboxesType
      */
     public $FailedMailboxes;
 
@@ -28,7 +28,7 @@ class NonIndexableItemDetailResultType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfNonIndexableItemDetailsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfNonIndexableItemDetailsType
      */
     public $Items;
 }

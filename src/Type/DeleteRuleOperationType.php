@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\DeleteRuleOperationType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents an operation to delete an existing Inbox rule.

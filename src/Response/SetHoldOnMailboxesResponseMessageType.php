@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\SetHoldOnMailboxesResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines a response to a SetHoldOnMailboxes request.
@@ -17,7 +17,7 @@ class SetHoldOnMailboxesResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\MailboxHoldResultType
+     * @var \mishanki\PhpEws\Type\MailboxHoldResultType
      */
     public $MailboxHoldResult;
 }

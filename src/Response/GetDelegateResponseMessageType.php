@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetDelegateResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the status and result of a GetDelegate operation request.

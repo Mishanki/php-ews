@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfMailTipsResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\ArrayType;
+namespace mishanki\PhpEws\ArrayType;
 
-use \jamesiarmes\PhpEws\ArrayType;
+use \mishanki\PhpEws\ArrayType;
 
 /**
  * Represents a list of mail tips response messages.
@@ -19,7 +19,7 @@ class ArrayOfMailTipsResponseMessageType extends ArrayType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\Response\MailTipsResponseMessageType[]
+     * @var \mishanki\PhpEws\Response\MailTipsResponseMessageType[]
      */
     public $MailTipsResponseMessageType = array();
 }

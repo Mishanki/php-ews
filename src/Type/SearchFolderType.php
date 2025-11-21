@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Type\SearchFolderType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
 /**
  * Represents a search folder that is contained in a mailbox.
@@ -17,7 +17,7 @@ class SearchFolderType extends FolderType
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\SearchParametersType
+     * @var \mishanki\PhpEws\Type\SearchParametersType
      */
     public $SearchParameters;
 }

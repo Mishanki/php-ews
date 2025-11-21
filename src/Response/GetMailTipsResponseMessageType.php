@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\GetMailTipsResponseMessageType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Represents the response message for a GetMailTips Operation.
@@ -17,7 +17,7 @@ class GetMailTipsResponseMessageType extends ResponseMessageType
      *
      * @since Exchange 2010
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfMailTipsResponseMessageType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfMailTipsResponseMessageType
      */
     public $ResponseMessages;
 }

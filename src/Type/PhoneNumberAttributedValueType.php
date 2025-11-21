@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\PhoneNumberAttributedValueType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a phone number and its associated attributions.
@@ -19,7 +19,7 @@ class PhoneNumberAttributedValueType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfValueAttributionsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfValueAttributionsType
      */
     public $Attributions;
 
@@ -28,7 +28,7 @@ class PhoneNumberAttributedValueType extends Type
      *
      * @since Exchange 2013
      *
-     * @var \jamesiarmes\PhpEws\Type\PersonaPhoneNumberType
+     * @var \mishanki\PhpEws\Type\PersonaPhoneNumberType
      */
     public $Value;
 }

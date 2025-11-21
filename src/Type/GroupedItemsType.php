@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\GroupedItemsType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use \jamesiarmes\PhpEws\Type;
+use \mishanki\PhpEws\Type;
 
 /**
  * Represents a collection of items that are the result of a grouped FindItem
@@ -30,7 +30,7 @@ class GroupedItemsType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\ArrayType\ArrayOfRealItemsType
+     * @var \mishanki\PhpEws\ArrayType\ArrayOfRealItemsType
      */
     public $Items;
 }

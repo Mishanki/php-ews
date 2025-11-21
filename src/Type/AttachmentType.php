@@ -3,9 +3,9 @@
  * Contains \jamesiarmes\PhpEws\Type\AttachmentType.
  */
 
-namespace jamesiarmes\PhpEws\Type;
+namespace mishanki\PhpEws\Type;
 
-use jamesiarmes\PhpEws\Type;
+use mishanki\PhpEws\Type;
 
 /**
  * Represents an Exchange attachment.
@@ -19,7 +19,7 @@ class AttachmentType extends Type
      *
      * @since Exchange 2007
      *
-     * @var \jamesiarmes\PhpEws\Type\AttachmentIdType
+     * @var \mishanki\PhpEws\Type\AttachmentIdType
      */
     public $AttachmentId;
 

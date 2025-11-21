@@ -3,7 +3,7 @@
  * Contains \jamesiarmes\PhpEws\Response\InstallAppResponseType.
  */
 
-namespace jamesiarmes\PhpEws\Response;
+namespace mishanki\PhpEws\Response;
 
 /**
  * Defines the response to an InstallApp request.
@@ -17,7 +17,7 @@ class InstallAppResponseType extends ResponseMessageType
      *
      * @since Exchange 2016
      *
-     * @var \jamesiarmes\PhpEws\Type\InstalledAppType
+     * @var \mishanki\PhpEws\Type\InstalledAppType
      *
      * @todo Update once documentation exists.
      */
