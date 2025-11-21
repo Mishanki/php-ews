@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SerializableTimeZone.
+ * Contains \mishanki\PhpEws\Type\SerializableTimeZone.
  */
 
 namespace mishanki\PhpEws\Type;

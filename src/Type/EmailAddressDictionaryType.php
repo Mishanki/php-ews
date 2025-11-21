@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\EmailAddressDictionaryType.
+ * Contains \mishanki\PhpEws\Type\EmailAddressDictionaryType.
  */
 
 namespace mishanki\PhpEws\Type;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetMessageTrackingReportRequestType.
+ * Contains \mishanki\PhpEws\Request\GetMessageTrackingReportRequestType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -22,7 +22,7 @@ class GetMessageTrackingReportRequestType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\Scope
+     * @see \mishanki\PhpEws\Enumeration\Scope
      */
     public $Scope;
 
@@ -35,7 +35,7 @@ class GetMessageTrackingReportRequestType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MessageTrackingReportTemplateType
+     * @see \mishanki\PhpEws\Enumeration\MessageTrackingReportTemplateType
      */
     public $ReportTemplate;
 

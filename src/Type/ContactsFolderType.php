@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ContactsFolderType.
+ * Contains \mishanki\PhpEws\Type\ContactsFolderType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -29,7 +29,7 @@ class ContactsFolderType extends BaseFolderType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\PermissionReadAccessType
+     * @see \mishanki\PhpEws\Enumeration\PermissionReadAccessType
      */
     public $SharingEffectiveRights;
 }

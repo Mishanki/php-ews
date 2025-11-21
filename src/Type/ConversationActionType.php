@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ConversationActionType.
+ * Contains \mishanki\PhpEws\Type\ConversationActionType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -24,7 +24,7 @@ class ConversationActionType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ConversationActionTypeType
+     * @see \mishanki\PhpEws\Enumeration\ConversationActionTypeType
      */
     public $Action;
 
@@ -83,7 +83,7 @@ class ConversationActionType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DisposalType
+     * @see \mishanki\PhpEws\Enumeration\DisposalType
      */
     public $DeleteType;
 

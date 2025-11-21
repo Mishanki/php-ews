@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\AddDistributionGroupToImListType.
+ * Contains \mishanki\PhpEws\Request\AddDistributionGroupToImListType.
  */
 
 namespace mishanki\PhpEws\Request;

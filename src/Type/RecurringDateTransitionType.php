@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RecurringDateTransitionType.
+ * Contains \mishanki\PhpEws\Type\RecurringDateTransitionType.
  */
 
 namespace mishanki\PhpEws\Type;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\AddNewTelUriContactToGroupType.
+ * Contains \mishanki\PhpEws\Request\AddNewTelUriContactToGroupType.
  */
 
 namespace mishanki\PhpEws\Request;

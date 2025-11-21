@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\UserConfigurationDictionaryObjectType.
+ * Contains \mishanki\PhpEws\Type\UserConfigurationDictionaryObjectType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -21,7 +21,7 @@ class UserConfigurationDictionaryObjectType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\UserConfigurationDictionaryObjectTypesType
+     * @see \mishanki\PhpEws\Enumeration\UserConfigurationDictionaryObjectTypesType
      */
     public $Type;
 

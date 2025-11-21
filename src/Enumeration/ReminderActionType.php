@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ReminderActionType.
+ * Contains \mishanki\PhpEws\Enumeration\ReminderActionType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

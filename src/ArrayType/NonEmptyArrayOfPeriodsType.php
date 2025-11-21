@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfPeriodsType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfPeriodsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

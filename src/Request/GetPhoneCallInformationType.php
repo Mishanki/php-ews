@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetPhoneCallInformationType.
+ * Contains \mishanki\PhpEws\Request\GetPhoneCallInformationType.
  */
 
 namespace mishanki\PhpEws\Request;

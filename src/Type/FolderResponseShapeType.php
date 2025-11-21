@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\FolderResponseShapeType.
+ * Contains \mishanki\PhpEws\Type\FolderResponseShapeType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -33,7 +33,7 @@ class FolderResponseShapeType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DefaultShapeNamesType
+     * @see \mishanki\PhpEws\Enumeration\DefaultShapeNamesType
      */
     public $BaseShape;
 }

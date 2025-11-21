@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RuleValidationErrorType.
+ * Contains \mishanki\PhpEws\Type\RuleValidationErrorType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -23,7 +23,7 @@ class RuleValidationErrorType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\RuleValidationErrorCodeType
+     * @see \mishanki\PhpEws\Enumeration\RuleValidationErrorCodeType
      */
     public $ErrorCode;
 
@@ -43,7 +43,7 @@ class RuleValidationErrorType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\RuleFieldURIType
+     * @see \mishanki\PhpEws\Enumeration\RuleFieldURIType
      */
     public $FieldUri;
 

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MailTipsServiceConfiguration.
+ * Contains \mishanki\PhpEws\Type\MailTipsServiceConfiguration.
  */
 
 namespace mishanki\PhpEws\Type;

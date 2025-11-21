@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\AbsoluteYearlyRecurrencePatternType.
+ * Contains \mishanki\PhpEws\Type\AbsoluteYearlyRecurrencePatternType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -32,7 +32,7 @@ class AbsoluteYearlyRecurrencePatternType extends RecurrencePatternBaseType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MonthNamesType
+     * @see \mishanki\PhpEws\Enumeration\MonthNamesType
      */
     public $Month;
 }

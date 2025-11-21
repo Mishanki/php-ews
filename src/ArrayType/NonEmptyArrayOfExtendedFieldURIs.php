@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfExtendedFieldURIs.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfExtendedFieldURIs.
  */
 
 namespace mishanki\PhpEws\ArrayType;

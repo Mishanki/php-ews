@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfAttendeeConflictData.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfAttendeeConflictData.
  */
 
 namespace mishanki\PhpEws\ArrayType;

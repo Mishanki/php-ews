@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfBinaryType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfBinaryType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ItemQueryTraversalType.
+ * Contains \mishanki\PhpEws\Enumeration\ItemQueryTraversalType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

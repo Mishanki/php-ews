@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\TargetFolderIdType.
+ * Contains \mishanki\PhpEws\Type\TargetFolderIdType.
  */
 
 namespace mishanki\PhpEws\Type;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\SetHoldOnMailboxesResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\SetHoldOnMailboxesResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

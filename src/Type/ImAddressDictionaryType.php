@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ImAddressDictionaryType.
+ * Contains \mishanki\PhpEws\Type\ImAddressDictionaryType.
  */
 
 namespace mishanki\PhpEws\Type;

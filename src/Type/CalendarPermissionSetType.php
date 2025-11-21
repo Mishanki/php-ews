@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\CalendarPermissionSetType.
+ * Contains \mishanki\PhpEws\Type\CalendarPermissionSetType.
  */
 
 namespace mishanki\PhpEws\Type;

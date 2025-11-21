@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfFindMessageTrackingSearchResultType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfFindMessageTrackingSearchResultType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

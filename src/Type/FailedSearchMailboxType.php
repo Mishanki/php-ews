@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\FailedSearchMailboxType.
+ * Contains \mishanki\PhpEws\Type\FailedSearchMailboxType.
  */
 
 namespace mishanki\PhpEws\Type;

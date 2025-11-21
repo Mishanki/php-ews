@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ContainmentModeType.
+ * Contains \mishanki\PhpEws\Enumeration\ContainmentModeType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

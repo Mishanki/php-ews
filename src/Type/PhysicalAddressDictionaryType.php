@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PhysicalAddressDictionaryType.
+ * Contains \mishanki\PhpEws\Type\PhysicalAddressDictionaryType.
  */
 
 namespace mishanki\PhpEws\Type;

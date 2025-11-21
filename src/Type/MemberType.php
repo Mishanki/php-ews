@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MemberType.
+ * Contains \mishanki\PhpEws\Type\MemberType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -45,7 +45,7 @@ class MemberType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MemberStatusType
+     * @see \mishanki\PhpEws\Enumeration\MemberStatusType
      */
     public $Status;
 }

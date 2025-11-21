@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\CalendarEventDetails.
+ * Contains \mishanki\PhpEws\Type\CalendarEventDetails.
  */
 
 namespace mishanki\PhpEws\Type;

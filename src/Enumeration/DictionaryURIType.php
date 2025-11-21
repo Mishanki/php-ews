@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\DictionaryURIType.
+ * Contains \mishanki\PhpEws\Enumeration\DictionaryURIType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetUserConfigurationResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\GetUserConfigurationResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

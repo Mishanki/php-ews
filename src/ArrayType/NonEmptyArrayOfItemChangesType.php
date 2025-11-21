@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfItemChangesType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfItemChangesType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

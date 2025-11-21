@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\RemoveImGroupType.
+ * Contains \mishanki\PhpEws\Request\RemoveImGroupType.
  */
 
 namespace mishanki\PhpEws\Request;

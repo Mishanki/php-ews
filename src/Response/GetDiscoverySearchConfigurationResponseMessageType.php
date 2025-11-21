@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetDiscoverySearchConfigurationResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\GetDiscoverySearchConfigurationResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ImportanceChoicesType.
+ * Contains \mishanki\PhpEws\Enumeration\ImportanceChoicesType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

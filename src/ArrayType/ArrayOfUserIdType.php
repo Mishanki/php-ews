@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfUserIdType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfUserIdType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

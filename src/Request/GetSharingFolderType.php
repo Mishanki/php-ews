@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetSharingFolderType.
+ * Contains \mishanki\PhpEws\Request\GetSharingFolderType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -22,7 +22,7 @@ class GetSharingFolderType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\SharingDataType
+     * @see \mishanki\PhpEws\Enumeration\SharingDataType
      */
     public $DataType;
 

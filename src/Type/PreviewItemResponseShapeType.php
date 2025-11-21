@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PreviewItemResponseShapeType.
+ * Contains \mishanki\PhpEws\Type\PreviewItemResponseShapeType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -31,7 +31,7 @@ class PreviewItemResponseShapeType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\PreviewItemBaseShapeType
+     * @see \mishanki\PhpEws\Enumeration\PreviewItemBaseShapeType
      */
     public $BaseShape;
 }

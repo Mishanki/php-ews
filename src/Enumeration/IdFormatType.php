@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\IdFormatType.
+ * Contains \mishanki\PhpEws\Enumeration\IdFormatType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

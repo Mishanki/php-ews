@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ImGroupType.
+ * Contains \mishanki\PhpEws\Type\ImGroupType.
  */
 
 namespace mishanki\PhpEws\Type;

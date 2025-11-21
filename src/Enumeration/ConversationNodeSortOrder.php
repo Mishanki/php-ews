@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ConversationNodeSortOrder.
+ * Contains \mishanki\PhpEws\Enumeration\ConversationNodeSortOrder.
  */
 
 namespace mishanki\PhpEws\Enumeration;

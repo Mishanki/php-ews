@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SuppressReadReceiptType.
+ * Contains \mishanki\PhpEws\Type\SuppressReadReceiptType.
  */
 
 namespace mishanki\PhpEws\Type;

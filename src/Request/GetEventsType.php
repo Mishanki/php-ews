@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetEventsType.
+ * Contains \mishanki\PhpEws\Request\GetEventsType.
  */
 
 namespace mishanki\PhpEws\Request;

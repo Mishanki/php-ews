@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetNonIndexableItemDetailsType.
+ * Contains \mishanki\PhpEws\Request\GetNonIndexableItemDetailsType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -28,7 +28,7 @@ class GetNonIndexableItemDetailsType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\SearchPageDirectionType
+     * @see \mishanki\PhpEws\Enumeration\SearchPageDirectionType
      */
     public $PageDirection;
 

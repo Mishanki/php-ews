@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PathToIndexedFieldType.
+ * Contains \mishanki\PhpEws\Type\PathToIndexedFieldType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -30,7 +30,7 @@ class PathToIndexedFieldType extends BasePathToElementType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DictionaryURIType
+     * @see \mishanki\PhpEws\Enumeration\DictionaryURIType
      */
     public $FieldURI;
 }

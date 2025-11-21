@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\CreateFolderPathResponseType.
+ * Contains \mishanki\PhpEws\Response\CreateFolderPathResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\AppointmentState.
+ * Contains \mishanki\PhpEws\Enumeration\AppointmentState.
  */
 
 namespace mishanki\PhpEws\Enumeration;

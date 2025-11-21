@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetNonIndexableItemStatisticsType.
+ * Contains \mishanki\PhpEws\Request\GetNonIndexableItemStatisticsType.
  */
 
 namespace mishanki\PhpEws\Request;

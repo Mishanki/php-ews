@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfFieldOrdersType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfFieldOrdersType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

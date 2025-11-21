@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfUnknownEntriesType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfUnknownEntriesType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

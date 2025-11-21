@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MailboxHoldStatusType.
+ * Contains \mishanki\PhpEws\Type\MailboxHoldStatusType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -39,7 +39,7 @@ class MailboxHoldStatusType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\HoldStatusType
+     * @see \mishanki\PhpEws\Enumeration\HoldStatusType
      */
     public $Status;
 }

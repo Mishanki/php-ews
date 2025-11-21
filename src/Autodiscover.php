@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Autodiscover.
+ * Contains \mishanki\PhpEws\Autodiscover.
  */
 
 namespace mishanki\PhpEws;

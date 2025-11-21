@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\IsGreaterThanOrEqualToType.
+ * Contains \mishanki\PhpEws\Type\IsGreaterThanOrEqualToType.
  */
 
 namespace mishanki\PhpEws\Type;

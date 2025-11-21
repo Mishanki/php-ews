@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\DistinguishedUserType.
+ * Contains \mishanki\PhpEws\Enumeration\DistinguishedUserType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

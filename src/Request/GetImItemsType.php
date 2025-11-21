@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetImItemsType.
+ * Contains \mishanki\PhpEws\Request\GetImItemsType.
  */
 
 namespace mishanki\PhpEws\Request;

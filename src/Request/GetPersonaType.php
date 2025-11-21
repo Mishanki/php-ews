@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetPersonaType.
+ * Contains \mishanki\PhpEws\Request\GetPersonaType.
  */
 
 namespace mishanki\PhpEws\Request;

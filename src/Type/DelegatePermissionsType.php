@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\DelegatePermissionsType.
+ * Contains \mishanki\PhpEws\Type\DelegatePermissionsType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -21,7 +21,7 @@ class DelegatePermissionsType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DelegateFolderPermissionLevelType
+     * @see \mishanki\PhpEws\Enumeration\DelegateFolderPermissionLevelType
      */
     public $CalendarFolderPermissionLevel;
 
@@ -32,7 +32,7 @@ class DelegatePermissionsType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DelegateFolderPermissionLevelType
+     * @see \mishanki\PhpEws\Enumeration\DelegateFolderPermissionLevelType
      */
     public $ContactsFolderPermissionLevel;
 
@@ -43,7 +43,7 @@ class DelegatePermissionsType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DelegateFolderPermissionLevelType
+     * @see \mishanki\PhpEws\Enumeration\DelegateFolderPermissionLevelType
      */
     public $InboxFolderPermissionLevel;
 
@@ -54,7 +54,7 @@ class DelegatePermissionsType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DelegateFolderPermissionLevelType
+     * @see \mishanki\PhpEws\Enumeration\DelegateFolderPermissionLevelType
      */
     public $JournalFolderPermissionLevel;
 
@@ -65,7 +65,7 @@ class DelegatePermissionsType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DelegateFolderPermissionLevelType
+     * @see \mishanki\PhpEws\Enumeration\DelegateFolderPermissionLevelType
      */
     public $NotesFolderPermissionLevel;
 
@@ -76,7 +76,7 @@ class DelegatePermissionsType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DelegateFolderPermissionLevelType
+     * @see \mishanki\PhpEws\Enumeration\DelegateFolderPermissionLevelType
      */
     public $TasksFolderPermissionLevel;
 }

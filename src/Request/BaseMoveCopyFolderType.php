@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\BaseMoveCopyFolderType.
+ * Contains \mishanki\PhpEws\Request\BaseMoveCopyFolderType.
  */
 
 namespace mishanki\PhpEws\Request;

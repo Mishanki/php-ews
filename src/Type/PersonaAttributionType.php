@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PersonaAttributionType.
+ * Contains \mishanki\PhpEws\Type\PersonaAttributionType.
  */
 
 namespace mishanki\PhpEws\Type;

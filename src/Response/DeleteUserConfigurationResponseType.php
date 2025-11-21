@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\DeleteUserConfigurationResponseType.
+ * Contains \mishanki\PhpEws\Response\DeleteUserConfigurationResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

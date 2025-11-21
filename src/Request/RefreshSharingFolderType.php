@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\RefreshSharingFolderType.
+ * Contains \mishanki\PhpEws\Request\RefreshSharingFolderType.
  */
 
 namespace mishanki\PhpEws\Request;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\TransitionTargetType.
+ * Contains \mishanki\PhpEws\Type\TransitionTargetType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -22,7 +22,7 @@ class TransitionTargetType extends StringType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\TransitionTargetKindType
+     * @see \mishanki\PhpEws\Enumeration\TransitionTargetKindType
      */
     public $Kind;
 }

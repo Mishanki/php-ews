@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\TransitionType.
+ * Contains \mishanki\PhpEws\Type\TransitionType.
  */
 
 namespace mishanki\PhpEws\Type;

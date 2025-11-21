@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\AddImContactToGroup.
+ * Contains \mishanki\PhpEws\Request\AddImContactToGroup.
  */
 
 namespace mishanki\PhpEws\Request;

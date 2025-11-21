@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\FieldURIOrConstantType.
+ * Contains \mishanki\PhpEws\Type\FieldURIOrConstantType.
  */
 
 namespace mishanki\PhpEws\Type;

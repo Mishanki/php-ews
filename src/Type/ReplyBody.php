@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ReplyBody.
+ * Contains \mishanki\PhpEws\Type\ReplyBody.
  */
 
 namespace mishanki\PhpEws\Type;

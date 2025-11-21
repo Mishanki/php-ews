@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RetentionPolicyTagType.
+ * Contains \mishanki\PhpEws\Type\RetentionPolicyTagType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -66,7 +66,7 @@ class RetentionPolicyTagType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\RetentionActionType
+     * @see \mishanki\PhpEws\Enumeration\RetentionActionType
      */
     public $RetentionAction;
 
@@ -95,7 +95,7 @@ class RetentionPolicyTagType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ElcFolderType
+     * @see \mishanki\PhpEws\Enumeration\ElcFolderType
      */
     public $Type;
 }

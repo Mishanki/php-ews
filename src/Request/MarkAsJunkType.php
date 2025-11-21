@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\MarkAsJunkType.
+ * Contains \mishanki\PhpEws\Request\MarkAsJunkType.
  */
 
 namespace mishanki\PhpEws\Request;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\SearchItemKindType.
+ * Contains \mishanki\PhpEws\Enumeration\SearchItemKindType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

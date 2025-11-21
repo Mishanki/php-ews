@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SyncFolderItemsDeleteType.
+ * Contains \mishanki\PhpEws\Type\SyncFolderItemsDeleteType.
  */
 
 namespace mishanki\PhpEws\Type;

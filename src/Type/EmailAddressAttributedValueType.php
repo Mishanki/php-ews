@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\EmailAddressAttributedValueType.
+ * Contains \mishanki\PhpEws\Type\EmailAddressAttributedValueType.
  */
 
 namespace mishanki\PhpEws\Type;

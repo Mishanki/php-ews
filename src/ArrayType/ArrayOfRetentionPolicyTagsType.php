@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfRetentionPolicyTagsType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfRetentionPolicyTagsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

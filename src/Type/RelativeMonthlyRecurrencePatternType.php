@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RelativeMonthlyRecurrencePatternType.
+ * Contains \mishanki\PhpEws\Type\RelativeMonthlyRecurrencePatternType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -19,7 +19,7 @@ class RelativeMonthlyRecurrencePatternType extends IntervalRecurrencePatternBase
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DayOfWeekIndexType
+     * @see \mishanki\PhpEws\Enumeration\DayOfWeekIndexType
      */
     public $DayOfWeekIndex;
 
@@ -31,7 +31,7 @@ class RelativeMonthlyRecurrencePatternType extends IntervalRecurrencePatternBase
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DayOfWeekType
+     * @see \mishanki\PhpEws\Enumeration\DayOfWeekType
      */
     public $DaysOfWeek;
 }

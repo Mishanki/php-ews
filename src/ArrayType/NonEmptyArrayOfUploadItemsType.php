@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfUploadItemsType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfUploadItemsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

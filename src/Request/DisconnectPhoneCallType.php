@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\DisconnectPhoneCallType.
+ * Contains \mishanki\PhpEws\Request\DisconnectPhoneCallType.
  */
 
 namespace mishanki\PhpEws\Request;

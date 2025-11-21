@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\CalendarFolderType.
+ * Contains \mishanki\PhpEws\Type\CalendarFolderType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -29,7 +29,7 @@ class CalendarFolderType extends BaseFolderType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\CalendarPermissionReadAccessType
+     * @see \mishanki\PhpEws\Enumeration\CalendarPermissionReadAccessType
      */
     public $SharingEffectiveRights;
 }

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetFolderType.
+ * Contains \mishanki\PhpEws\Request\GetFolderType.
  */
 
 namespace mishanki\PhpEws\Request;

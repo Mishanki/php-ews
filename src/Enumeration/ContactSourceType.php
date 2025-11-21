@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ContactSourceType.
+ * Contains \mishanki\PhpEws\Enumeration\ContactSourceType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

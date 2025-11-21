@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\AggregateType.
+ * Contains \mishanki\PhpEws\Enumeration\AggregateType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

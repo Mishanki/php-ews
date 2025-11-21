@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\RuleValidationErrorCodeType.
+ * Contains \mishanki\PhpEws\Enumeration\RuleValidationErrorCodeType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

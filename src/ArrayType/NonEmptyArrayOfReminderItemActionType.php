@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfReminderItemActionType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfReminderItemActionType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

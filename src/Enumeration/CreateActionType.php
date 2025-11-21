@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\CreateActionType.
+ * Contains \mishanki\PhpEws\Enumeration\CreateActionType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

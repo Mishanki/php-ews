@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\MarkAllItemsAsReadResponseType.
+ * Contains \mishanki\PhpEws\Response\MarkAllItemsAsReadResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

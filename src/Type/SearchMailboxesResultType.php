@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SearchMailboxesResultType.
+ * Contains \mishanki\PhpEws\Type\SearchMailboxesResultType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -30,7 +30,7 @@ class SearchMailboxesResultType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\SearchResultType
+     * @see \mishanki\PhpEws\Enumeration\SearchResultType
      */
     public $ResultType;
 

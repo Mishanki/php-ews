@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RulePredicateSizeRangeType.
+ * Contains \mishanki\PhpEws\Type\RulePredicateSizeRangeType.
  */
 
 namespace mishanki\PhpEws\Type;

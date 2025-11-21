@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ProposeNewTimeType.
+ * Contains \mishanki\PhpEws\Type\ProposeNewTimeType.
  */
 
 namespace mishanki\PhpEws\Type;

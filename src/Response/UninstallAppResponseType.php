@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\UninstallAppResponseType.
+ * Contains \mishanki\PhpEws\Response\UninstallAppResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\TooBigGroupAttendeeConflictData.
+ * Contains \mishanki\PhpEws\Type\TooBigGroupAttendeeConflictData.
  */
 
 namespace mishanki\PhpEws\Type;

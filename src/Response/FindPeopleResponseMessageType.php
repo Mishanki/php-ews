@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\FindPeopleResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\FindPeopleResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

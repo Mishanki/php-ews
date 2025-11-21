@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\LocationSourceType.
+ * Contains \mishanki\PhpEws\Enumeration\LocationSourceType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

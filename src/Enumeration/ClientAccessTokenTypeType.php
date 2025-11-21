@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ClientAccessTokenTypeType.
+ * Contains \mishanki\PhpEws\Enumeration\ClientAccessTokenTypeType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

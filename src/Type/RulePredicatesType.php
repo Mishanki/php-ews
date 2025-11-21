@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RulePredicatesType.
+ * Contains \mishanki\PhpEws\Type\RulePredicatesType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -94,7 +94,7 @@ class RulePredicatesType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\FlaggedForActionType
+     * @see \mishanki\PhpEws\Enumeration\FlaggedForActionType
      */
     public $FlaggedForAction;
 
@@ -136,7 +136,7 @@ class RulePredicatesType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ImportanceChoicesType
+     * @see \mishanki\PhpEws\Enumeration\ImportanceChoicesType
      */
     public $Importance;
 
@@ -289,7 +289,7 @@ class RulePredicatesType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\SensitivityChoicesType
+     * @see \mishanki\PhpEws\Enumeration\SensitivityChoicesType
      */
     public $Sensitivity;
 

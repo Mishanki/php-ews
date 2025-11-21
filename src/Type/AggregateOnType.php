@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\AggregateOnType.
+ * Contains \mishanki\PhpEws\Type\AggregateOnType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -27,7 +27,7 @@ class AggregateOnType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\AggregateType
+     * @see \mishanki\PhpEws\Enumeration\AggregateType
      */
     public $Aggregate;
 

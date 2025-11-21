@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\SetHoldOnMailboxesType.
+ * Contains \mishanki\PhpEws\Request\SetHoldOnMailboxesType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -19,7 +19,7 @@ class SetHoldOnMailboxesType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\HoldActionType
+     * @see \mishanki\PhpEws\Enumeration\HoldActionType
      */
     public $ActionType;
 

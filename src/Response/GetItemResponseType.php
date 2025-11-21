@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetItemResponseType.
+ * Contains \mishanki\PhpEws\Response\GetItemResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

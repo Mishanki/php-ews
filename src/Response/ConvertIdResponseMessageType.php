@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\ConvertIdResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\ConvertIdResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

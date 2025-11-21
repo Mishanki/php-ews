@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\DisableReasonType.
+ * Contains \mishanki\PhpEws\Enumeration\DisableReasonType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\DirectoryEntryType.
+ * Contains \mishanki\PhpEws\Type\DirectoryEntryType.
  */
 
 namespace mishanki\PhpEws\Type;

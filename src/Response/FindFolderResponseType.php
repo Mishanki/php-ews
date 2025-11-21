@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\FindFolderResponseType.
+ * Contains \mishanki\PhpEws\Response\FindFolderResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

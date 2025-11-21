@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\CompleteNameType.
+ * Contains \mishanki\PhpEws\Type\CompleteNameType.
  */
 
 namespace mishanki\PhpEws\Type;

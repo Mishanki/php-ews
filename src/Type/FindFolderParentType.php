@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\FindFolderParentType.
+ * Contains \mishanki\PhpEws\Type\FindFolderParentType.
  */
 
 namespace mishanki\PhpEws\Type;

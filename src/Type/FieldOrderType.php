@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\FieldOrderType.
+ * Contains \mishanki\PhpEws\Type\FieldOrderType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -49,7 +49,7 @@ class FieldOrderType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\SortDirectionType
+     * @see \mishanki\PhpEws\Enumeration\SortDirectionType
      */
     public $Order;
 }

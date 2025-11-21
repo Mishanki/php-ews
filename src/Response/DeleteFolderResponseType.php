@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\DeleteFolderResponseType.
+ * Contains \mishanki\PhpEws\Response\DeleteFolderResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetPhoneCallInformationResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\GetPhoneCallInformationResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

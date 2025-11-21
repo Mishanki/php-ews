@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ImAddressKeyType.
+ * Contains \mishanki\PhpEws\Enumeration\ImAddressKeyType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

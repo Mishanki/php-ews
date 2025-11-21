@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\IndexBasePointType.
+ * Contains \mishanki\PhpEws\Enumeration\IndexBasePointType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

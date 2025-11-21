@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfRealItemsType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfRealItemsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\DeletedOccurrenceInfoType.
+ * Contains \mishanki\PhpEws\Type\DeletedOccurrenceInfoType.
  */
 
 namespace mishanki\PhpEws\Type;

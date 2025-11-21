@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\DeleteUserConfigurationType.
+ * Contains \mishanki\PhpEws\Request\DeleteUserConfigurationType.
  */
 
 namespace mishanki\PhpEws\Request;

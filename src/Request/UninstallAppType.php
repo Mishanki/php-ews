@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\UninstallAppType.
+ * Contains \mishanki\PhpEws\Request\UninstallAppType.
  */
 
 namespace mishanki\PhpEws\Request;

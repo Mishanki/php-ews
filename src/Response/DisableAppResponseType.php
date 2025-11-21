@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\DisableAppResponseType.
+ * Contains \mishanki\PhpEws\Response\DisableAppResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

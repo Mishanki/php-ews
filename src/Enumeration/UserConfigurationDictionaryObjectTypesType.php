@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\UserConfigurationDictionaryObjectTypesType.
+ * Contains \mishanki\PhpEws\Enumeration\UserConfigurationDictionaryObjectTypesType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

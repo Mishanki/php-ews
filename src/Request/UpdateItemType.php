@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\UpdateItemType.
+ * Contains \mishanki\PhpEws\Request\UpdateItemType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -21,7 +21,7 @@ class UpdateItemType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ConflictResolutionType
+     * @see \mishanki\PhpEws\Enumeration\ConflictResolutionType
      */
     public $ConflictResolution;
 
@@ -46,7 +46,7 @@ class UpdateItemType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MessageDispositionType
+     * @see \mishanki\PhpEws\Enumeration\MessageDispositionType
      */
     public $MessageDisposition;
 
@@ -71,7 +71,7 @@ class UpdateItemType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\CalendarItemUpdateOperationType
+     * @see \mishanki\PhpEws\Enumeration\CalendarItemUpdateOperationType
      */
     public $SendMeetingInvitationsOrCancellations;
 

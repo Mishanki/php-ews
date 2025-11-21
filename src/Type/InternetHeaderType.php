@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\InternetHeaderType.
+ * Contains \mishanki\PhpEws\Type\InternetHeaderType.
  */
 
 namespace mishanki\PhpEws\Type;

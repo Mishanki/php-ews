@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\DailyRecurrencePatternType.
+ * Contains \mishanki\PhpEws\Type\DailyRecurrencePatternType.
  */
 
 namespace mishanki\PhpEws\Type;

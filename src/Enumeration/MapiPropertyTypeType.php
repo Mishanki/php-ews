@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\MapiPropertyTypeType.
+ * Contains \mishanki\PhpEws\Enumeration\MapiPropertyTypeType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

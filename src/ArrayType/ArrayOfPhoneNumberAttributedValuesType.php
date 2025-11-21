@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfPhoneNumberAttributedValuesType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\StandardGroupByType.
+ * Contains \mishanki\PhpEws\Enumeration\StandardGroupByType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

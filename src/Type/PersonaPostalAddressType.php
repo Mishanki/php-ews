@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PersonaPostalAddressType.
+ * Contains \mishanki\PhpEws\Type\PersonaPostalAddressType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -86,7 +86,7 @@ class PersonaPostalAddressType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\LocationSourceType
+     * @see \mishanki\PhpEws\Enumeration\LocationSourceType
      */
     public $LocationSource;
 

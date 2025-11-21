@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\SubscribeType.
+ * Contains \mishanki\PhpEws\Request\SubscribeType.
  */
 
 namespace mishanki\PhpEws\Request;

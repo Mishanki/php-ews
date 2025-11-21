@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\Duration.
+ * Contains \mishanki\PhpEws\Type\Duration.
  */
 
 namespace mishanki\PhpEws\Type;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ItemResponseShapeType.
+ * Contains \mishanki\PhpEws\Type\ItemResponseShapeType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -32,7 +32,7 @@ class ItemResponseShapeType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DefaultShapeNamesType
+     * @see \mishanki\PhpEws\Enumeration\DefaultShapeNamesType
      */
     public $BaseShape;
 
@@ -43,7 +43,7 @@ class ItemResponseShapeType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\BodyTypeResponseType
+     * @see \mishanki\PhpEws\Enumeration\BodyTypeResponseType
      */
     public $BodyType;
 

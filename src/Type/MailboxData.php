@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MailboxData.
+ * Contains \mishanki\PhpEws\Type\MailboxData.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -24,7 +24,7 @@ class MailboxData extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MeetingAttendeeType
+     * @see \mishanki\PhpEws\Enumeration\MeetingAttendeeType
      */
     public $AttendeeType;
 

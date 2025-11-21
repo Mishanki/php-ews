@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfApplyConversationActionType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfApplyConversationActionType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

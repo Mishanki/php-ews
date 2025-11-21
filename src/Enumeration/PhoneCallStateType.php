@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\PhoneCallStateType.
+ * Contains \mishanki\PhpEws\Enumeration\PhoneCallStateType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PrivateCatalogAddInsType.
+ * Contains \mishanki\PhpEws\Type\PrivateCatalogAddInsType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -34,7 +34,7 @@ class PrivateCatalogAddInsType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\AddInStateType
+     * @see \mishanki\PhpEws\Enumeration\AddInStateType
      *
      * @todo Update once documentation exists.
      */

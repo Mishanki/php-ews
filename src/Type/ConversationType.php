@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ConversationType.
+ * Contains \mishanki\PhpEws\Type\ConversationType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -52,7 +52,7 @@ class ConversationType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\FlagStatusType
+     * @see \mishanki\PhpEws\Enumeration\FlagStatusType
      */
     public $FlagStatus;
 
@@ -73,7 +73,7 @@ class ConversationType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\FlagStatusType
+     * @see \mishanki\PhpEws\Enumeration\FlagStatusType
      */
     public $GlobalFlagStatus;
 
@@ -95,7 +95,7 @@ class ConversationType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ImportanceChoicesType
+     * @see \mishanki\PhpEws\Enumeration\ImportanceChoicesType
      */
     public $GlobalImportance;
 
@@ -208,7 +208,7 @@ class ConversationType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ImportanceChoicesType
+     * @see \mishanki\PhpEws\Enumeration\ImportanceChoicesType
      */
     public $Importance;
 

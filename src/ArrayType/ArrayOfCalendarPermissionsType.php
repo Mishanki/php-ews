@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfCalendarPermissionsType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfCalendarPermissionsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

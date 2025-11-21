@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\TaskType.
+ * Contains \mishanki\PhpEws\Type\TaskType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -89,7 +89,7 @@ class TaskType extends ItemType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\TaskDelegateStateType
+     * @see \mishanki\PhpEws\Enumeration\TaskDelegateStateType
      */
     public $DelegationState;
 
@@ -217,7 +217,7 @@ class TaskType extends ItemType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\TaskStatusType
+     * @see \mishanki\PhpEws\Enumeration\TaskStatusType
      */
     public $Status;
 

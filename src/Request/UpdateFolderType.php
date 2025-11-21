@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\UpdateFolderType.
+ * Contains \mishanki\PhpEws\Request\UpdateFolderType.
  */
 
 namespace mishanki\PhpEws\Request;

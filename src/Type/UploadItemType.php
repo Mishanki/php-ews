@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\UploadItemType.
+ * Contains \mishanki\PhpEws\Type\UploadItemType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -23,7 +23,7 @@ class UploadItemType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\CreateActionType
+     * @see \mishanki\PhpEws\Enumeration\CreateActionType
      */
     public $CreateAction;
 

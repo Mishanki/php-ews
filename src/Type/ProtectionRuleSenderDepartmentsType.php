@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ProtectionRuleSenderDepartmentsType.
+ * Contains \mishanki\PhpEws\Type\ProtectionRuleSenderDepartmentsType.
  */
 
 namespace mishanki\PhpEws\Type;

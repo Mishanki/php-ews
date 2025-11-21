@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetRoomsType.
+ * Contains \mishanki\PhpEws\Request\GetRoomsType.
  */
 
 namespace mishanki\PhpEws\Request;

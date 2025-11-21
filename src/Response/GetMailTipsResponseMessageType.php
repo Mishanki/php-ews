@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetMailTipsResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\GetMailTipsResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

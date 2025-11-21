@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RuleOperationErrorType.
+ * Contains \mishanki\PhpEws\Type\RuleOperationErrorType.
  */
 
 namespace mishanki\PhpEws\Type;

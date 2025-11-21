@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MailboxHoldResultType.
+ * Contains \mishanki\PhpEws\Type\MailboxHoldResultType.
  */
 
 namespace mishanki\PhpEws\Type;

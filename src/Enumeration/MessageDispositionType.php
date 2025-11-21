@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\MessageDispositionType.
+ * Contains \mishanki\PhpEws\Enumeration\MessageDispositionType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

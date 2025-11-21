@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfDiscoverySearchConfigurationType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfDiscoverySearchConfigurationType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

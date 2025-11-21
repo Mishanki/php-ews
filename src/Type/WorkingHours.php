@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\WorkingHours.
+ * Contains \mishanki\PhpEws\Type\WorkingHours.
  */
 
 namespace mishanki\PhpEws\Type;

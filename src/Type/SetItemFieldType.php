@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SetItemFieldType.
+ * Contains \mishanki\PhpEws\Type\SetItemFieldType.
  */
 
 namespace mishanki\PhpEws\Type;

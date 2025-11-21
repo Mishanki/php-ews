@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetStreamingEventsType.
+ * Contains \mishanki\PhpEws\Request\GetStreamingEventsType.
  */
 
 namespace mishanki\PhpEws\Request;

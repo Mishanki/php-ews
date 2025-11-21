@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfPostalAddressAttributedValuesType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfPostalAddressAttributedValuesType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

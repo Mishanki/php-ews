@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\Suggestion.
+ * Contains \mishanki\PhpEws\Type\Suggestion.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -52,7 +52,7 @@ class Suggestion extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\SuggestionQuality
+     * @see \mishanki\PhpEws\Enumeration\SuggestionQuality
      */
     public $SuggestionQuality;
 }

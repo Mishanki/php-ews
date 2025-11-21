@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SearchParametersType.
+ * Contains \mishanki\PhpEws\Type\SearchParametersType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -41,7 +41,7 @@ class SearchParametersType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\SearchFolderTraversalType
+     * @see \mishanki\PhpEws\Enumeration\SearchFolderTraversalType
      */
     public $Traversal;
 }

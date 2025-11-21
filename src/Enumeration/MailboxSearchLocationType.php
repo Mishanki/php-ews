@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\MailboxSearchLocationType.
+ * Contains \mishanki\PhpEws\Enumeration\MailboxSearchLocationType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

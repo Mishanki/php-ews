@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetUserConfigurationType.
+ * Contains \mishanki\PhpEws\Request\GetUserConfigurationType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -32,7 +32,7 @@ class GetUserConfigurationType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\UserConfigurationPropertyType
+     * @see \mishanki\PhpEws\Enumeration\UserConfigurationPropertyType
      */
     public $UserConfigurationProperties;
 }

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PersonaType.
+ * Contains \mishanki\PhpEws\Type\PersonaType.
  */
 
 namespace mishanki\PhpEws\Type;

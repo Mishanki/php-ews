@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SetRuleOperationType.
+ * Contains \mishanki\PhpEws\Type\SetRuleOperationType.
  */
 
 namespace mishanki\PhpEws\Type;

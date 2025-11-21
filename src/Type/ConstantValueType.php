@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ConstantValueType.
+ * Contains \mishanki\PhpEws\Type\ConstantValueType.
  */
 
 namespace mishanki\PhpEws\Type;

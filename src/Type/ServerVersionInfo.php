@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ServerVersionInfo.
+ * Contains \mishanki\PhpEws\Type\ServerVersionInfo.
  */
 
 namespace mishanki\PhpEws\Type;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\DistinguishedFolderIdNameType.
+ * Contains \mishanki\PhpEws\Enumeration\DistinguishedFolderIdNameType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

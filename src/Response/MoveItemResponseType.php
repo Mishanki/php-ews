@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\MoveItemResponseType.
+ * Contains \mishanki\PhpEws\Response\MoveItemResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

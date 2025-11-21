@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\DistinguishedPropertySetType.
+ * Contains \mishanki\PhpEws\Enumeration\DistinguishedPropertySetType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

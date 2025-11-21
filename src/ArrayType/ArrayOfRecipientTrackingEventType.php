@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfRecipientTrackingEventType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfRecipientTrackingEventType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

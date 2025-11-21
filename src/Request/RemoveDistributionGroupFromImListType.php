@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\RemoveDistributionGroupFromImListType.
+ * Contains \mishanki\PhpEws\Request\RemoveDistributionGroupFromImListType.
  */
 
 namespace mishanki\PhpEws\Request;

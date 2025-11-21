@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MeetingMessageType.
+ * Contains \mishanki\PhpEws\Type\MeetingMessageType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -79,7 +79,7 @@ class MeetingMessageType extends MessageType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ResponseTypeType
+     * @see \mishanki\PhpEws\Enumeration\ResponseTypeType
      */
     public $ResponseType;
 

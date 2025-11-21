@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\SearchMailboxesResponseType.
+ * Contains \mishanki\PhpEws\Response\SearchMailboxesResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

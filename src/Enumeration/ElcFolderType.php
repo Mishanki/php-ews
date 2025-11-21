@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ElcFolderType.
+ * Contains \mishanki\PhpEws\Enumeration\ElcFolderType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

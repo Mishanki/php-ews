@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfTimeZoneIdType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfTimeZoneIdType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

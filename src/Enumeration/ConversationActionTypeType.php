@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ConversationActionTypeType.
+ * Contains \mishanki\PhpEws\Enumeration\ConversationActionTypeType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

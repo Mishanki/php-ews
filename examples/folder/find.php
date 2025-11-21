@@ -49,7 +49,7 @@ $parent->Id = DistinguishedFolderIdNameType::ROOT;
 $request->ParentFolderIds->DistinguishedFolderId[] = $parent;
 
 // Build the restriction that will search for folders containing "Cal".
-$contains = new \jamesiarmes\PhpEws\Type\ContainsExpressionType();
+$contains = new \mishanki\PhpEws\Type\ContainsExpressionType();
 $contains->FieldURI = new PathToUnindexedFieldType();
 $contains->FieldURI->FieldURI = UnindexedFieldURIType::FOLDER_DISPLAY_NAME;
 $contains->Constant = new ConstantValueType();

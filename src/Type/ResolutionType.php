@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ResolutionType.
+ * Contains \mishanki\PhpEws\Type\ResolutionType.
  */
 
 namespace mishanki\PhpEws\Type;

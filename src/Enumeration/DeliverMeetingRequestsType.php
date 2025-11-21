@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\DeliverMeetingRequestsType.
+ * Contains \mishanki\PhpEws\Enumeration\DeliverMeetingRequestsType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

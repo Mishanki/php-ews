@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ConferenceType.
+ * Contains \mishanki\PhpEws\Enumeration\ConferenceType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

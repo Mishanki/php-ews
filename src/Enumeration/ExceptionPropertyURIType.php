@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ExceptionPropertyURIType.
+ * Contains \mishanki\PhpEws\Enumeration\ExceptionPropertyURIType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

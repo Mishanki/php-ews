@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SearchFolderType.
+ * Contains \mishanki\PhpEws\Type\SearchFolderType.
  */
 
 namespace mishanki\PhpEws\Type;

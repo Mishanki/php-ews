@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MailboxQueryType.
+ * Contains \mishanki\PhpEws\Type\MailboxQueryType.
  */
 
 namespace mishanki\PhpEws\Type;

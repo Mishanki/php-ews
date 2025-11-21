@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetServerTimeZonesResponseType.
+ * Contains \mishanki\PhpEws\Response\GetServerTimeZonesResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

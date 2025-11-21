@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MembersListType.
+ * Contains \mishanki\PhpEws\Type\MembersListType.
  */
 
 namespace mishanki\PhpEws\Type;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetClientAccessTokenResponseType.
+ * Contains \mishanki\PhpEws\Response\GetClientAccessTokenResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

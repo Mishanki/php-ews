@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\FindPeopleType.
+ * Contains \mishanki\PhpEws\Request\FindPeopleType.
  */
 
 namespace mishanki\PhpEws\Request;

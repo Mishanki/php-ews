@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetUserPhotoResponseType.
+ * Contains \mishanki\PhpEws\Response\GetUserPhotoResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

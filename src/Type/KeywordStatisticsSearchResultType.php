@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\KeywordStatisticsSearchResultType.
+ * Contains \mishanki\PhpEws\Type\KeywordStatisticsSearchResultType.
  */
 
 namespace mishanki\PhpEws\Type;

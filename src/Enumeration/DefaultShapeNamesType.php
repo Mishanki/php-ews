@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\DefaultShapeNamesType.
+ * Contains \mishanki\PhpEws\Enumeration\DefaultShapeNamesType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

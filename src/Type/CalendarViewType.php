@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\CalendarViewType.
+ * Contains \mishanki\PhpEws\Type\CalendarViewType.
  */
 
 namespace mishanki\PhpEws\Type;

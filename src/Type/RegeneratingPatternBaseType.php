@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RegeneratingPatternBaseType.
+ * Contains \mishanki\PhpEws\Type\RegeneratingPatternBaseType.
  */
 
 namespace mishanki\PhpEws\Type;

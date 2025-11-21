@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\AppendToFolderFieldType.
+ * Contains \mishanki\PhpEws\Type\AppendToFolderFieldType.
  */
 
 namespace mishanki\PhpEws\Type;

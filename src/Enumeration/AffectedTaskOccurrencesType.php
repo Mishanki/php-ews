@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\AffectedTaskOccurrencesType.
+ * Contains \mishanki\PhpEws\Enumeration\AffectedTaskOccurrencesType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

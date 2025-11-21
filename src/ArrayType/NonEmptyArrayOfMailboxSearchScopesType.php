@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfMailboxSearchScopesType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfMailboxSearchScopesType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

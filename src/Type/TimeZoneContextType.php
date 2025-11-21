@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\TimeZoneContextType.
+ * Contains \mishanki\PhpEws\Type\TimeZoneContextType.
  */
 
 namespace mishanki\PhpEws\Type;

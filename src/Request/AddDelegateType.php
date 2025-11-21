@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\AddDelegateType.
+ * Contains \mishanki\PhpEws\Request\AddDelegateType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -29,7 +29,7 @@ class AddDelegateType extends BaseDelegateType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DeliverMeetingRequestsType
+     * @see \mishanki\PhpEws\Enumeration\DeliverMeetingRequestsType
      */
     public $DeliverMeetingRequests;
 }

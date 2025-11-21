@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\NonIndexableItemDetailType.
+ * Contains \mishanki\PhpEws\Type\NonIndexableItemDetailType.
  */
 
 namespace mishanki\PhpEws\Type;

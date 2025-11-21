@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\SyncFolderHierarchyResponseType.
+ * Contains \mishanki\PhpEws\Response\SyncFolderHierarchyResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

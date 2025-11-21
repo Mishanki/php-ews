@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\AbsoluteDateTransitionType.
+ * Contains \mishanki\PhpEws\Type\AbsoluteDateTransitionType.
  */
 
 namespace mishanki\PhpEws\Type;

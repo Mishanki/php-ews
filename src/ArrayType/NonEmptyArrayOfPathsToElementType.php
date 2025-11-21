@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfPathsToElementType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfPathsToElementType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

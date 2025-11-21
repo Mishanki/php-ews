@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\InvalidRecipientResponseCodeType.
+ * Contains \mishanki\PhpEws\Enumeration\InvalidRecipientResponseCodeType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

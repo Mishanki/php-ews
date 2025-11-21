@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\CreateAttachmentType.
+ * Contains \mishanki\PhpEws\Request\CreateAttachmentType.
  */
 
 namespace mishanki\PhpEws\Request;

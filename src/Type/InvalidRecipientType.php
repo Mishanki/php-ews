@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\InvalidRecipientType.
+ * Contains \mishanki\PhpEws\Type\InvalidRecipientType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -36,7 +36,7 @@ class InvalidRecipientType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\InvalidRecipientResponseCodeType
+     * @see \mishanki\PhpEws\Enumeration\InvalidRecipientResponseCodeType
      */
     public $ResponseCode;
 

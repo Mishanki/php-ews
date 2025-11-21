@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\DeleteFolderType.
+ * Contains \mishanki\PhpEws\Request\DeleteFolderType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -19,7 +19,7 @@ class DeleteFolderType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DisposalType
+     * @see \mishanki\PhpEws\Enumeration\DisposalType
      */
     public $DeleteType;
 

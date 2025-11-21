@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfConversationsType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfConversationsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

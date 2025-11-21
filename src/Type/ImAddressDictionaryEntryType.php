@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ImAddressDictionaryEntryType.
+ * Contains \mishanki\PhpEws\Type\ImAddressDictionaryEntryType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -33,7 +33,7 @@ class ImAddressDictionaryEntryType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ImAddressKeyType
+     * @see \mishanki\PhpEws\Enumeration\ImAddressKeyType
      */
     public $Key;
 }

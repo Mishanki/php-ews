@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ServiceConfigurationType.
+ * Contains \mishanki\PhpEws\Enumeration\ServiceConfigurationType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

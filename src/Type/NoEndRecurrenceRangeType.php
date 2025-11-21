@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\NoEndRecurrenceRangeType.
+ * Contains \mishanki\PhpEws\Type\NoEndRecurrenceRangeType.
  */
 
 namespace mishanki\PhpEws\Type;

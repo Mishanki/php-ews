@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\OutOfOfficeMailTip.
+ * Contains \mishanki\PhpEws\Type\OutOfOfficeMailTip.
  */
 
 namespace mishanki\PhpEws\Type;

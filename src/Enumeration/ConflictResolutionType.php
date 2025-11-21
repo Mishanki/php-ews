@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ConflictResolutionType.
+ * Contains \mishanki\PhpEws\Enumeration\ConflictResolutionType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

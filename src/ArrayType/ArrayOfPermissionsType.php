@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfPermissionsType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfPermissionsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

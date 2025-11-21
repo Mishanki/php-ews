@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\RemoveContactFromImListResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\RemoveContactFromImListResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

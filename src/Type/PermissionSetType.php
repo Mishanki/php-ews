@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PermissionSetType.
+ * Contains \mishanki\PhpEws\Type\PermissionSetType.
  */
 
 namespace mishanki\PhpEws\Type;

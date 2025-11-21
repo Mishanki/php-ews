@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\AddressListIdType.
+ * Contains \mishanki\PhpEws\Type\AddressListIdType.
  */
 
 namespace mishanki\PhpEws\Type;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\TimeChangeType.
+ * Contains \mishanki\PhpEws\Type\TimeChangeType.
  */
 
 namespace mishanki\PhpEws\Type;

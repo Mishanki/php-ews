@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ExternalAudience.
+ * Contains \mishanki\PhpEws\Enumeration\ExternalAudience.
  */
 
 namespace mishanki\PhpEws\Enumeration;

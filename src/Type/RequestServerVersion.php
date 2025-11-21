@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RequestServerVersion.
+ * Contains \mishanki\PhpEws\Type\RequestServerVersion.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -21,7 +21,7 @@ class RequestServerVersion extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ExchangeVersionType
+     * @see \mishanki\PhpEws\Enumeration\ExchangeVersionType
      */
     public $Version;
 }

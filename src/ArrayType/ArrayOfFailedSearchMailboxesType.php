@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfFailedSearchMailboxesType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfFailedSearchMailboxesType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

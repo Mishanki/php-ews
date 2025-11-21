@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\UnindexedFieldURIType.
+ * Contains \mishanki\PhpEws\Enumeration\UnindexedFieldURIType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

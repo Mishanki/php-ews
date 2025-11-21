@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MimeContentType.
+ * Contains \mishanki\PhpEws\Type\MimeContentType.
  */
 
 namespace mishanki\PhpEws\Type;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\CreateManagedFolderRequestType.
+ * Contains \mishanki\PhpEws\Request\CreateManagedFolderRequestType.
  */
 
 namespace mishanki\PhpEws\Request;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ContactsViewType.
+ * Contains \mishanki\PhpEws\Type\ContactsViewType.
  */
 
 namespace mishanki\PhpEws\Type;

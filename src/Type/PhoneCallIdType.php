@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PhoneCallIdType.
+ * Contains \mishanki\PhpEws\Type\PhoneCallIdType.
  */
 
 namespace mishanki\PhpEws\Type;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\PlayOnPhoneResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\PlayOnPhoneResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

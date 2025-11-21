@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\FreeBusyResponseType.
+ * Contains \mishanki\PhpEws\Type\FreeBusyResponseType.
  */
 
 namespace mishanki\PhpEws\Type;

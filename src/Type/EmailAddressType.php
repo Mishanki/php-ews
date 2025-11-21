@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\EmailAddressType.
+ * Contains \mishanki\PhpEws\Type\EmailAddressType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -46,7 +46,7 @@ class EmailAddressType extends BaseEmailAddressType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MailboxTypeType
+     * @see \mishanki\PhpEws\Enumeration\MailboxTypeType
      */
     public $MailboxType;
 
@@ -67,7 +67,7 @@ class EmailAddressType extends BaseEmailAddressType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\RoutingType
+     * @see \mishanki\PhpEws\Enumeration\RoutingType
      */
     public $RoutingType;
 }

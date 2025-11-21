@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\SyncFolderItemsType.
+ * Contains \mishanki\PhpEws\Request\SyncFolderItemsType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -68,7 +68,7 @@ class SyncFolderItemsType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\SyncFolderItemsScopeType
+     * @see \mishanki\PhpEws\Enumeration\SyncFolderItemsScopeType
      */
     public $SyncScope;
 

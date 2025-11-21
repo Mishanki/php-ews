@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfDelegateUserType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfDelegateUserType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

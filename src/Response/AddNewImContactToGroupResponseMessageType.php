@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\AddNewImContactToGroupResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\AddNewImContactToGroupResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

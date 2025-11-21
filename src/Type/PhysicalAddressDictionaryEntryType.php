@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PhysicalAddressDictionaryEntryType.
+ * Contains \mishanki\PhpEws\Type\PhysicalAddressDictionaryEntryType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -42,7 +42,7 @@ class PhysicalAddressDictionaryEntryType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\PhysicalAddressKeyType
+     * @see \mishanki\PhpEws\Enumeration\PhysicalAddressKeyType
      */
     public $Key;
 

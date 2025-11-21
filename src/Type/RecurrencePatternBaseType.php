@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RecurrencePatternBaseType.
+ * Contains \mishanki\PhpEws\Type\RecurrencePatternBaseType.
  */
 
 namespace mishanki\PhpEws\Type;

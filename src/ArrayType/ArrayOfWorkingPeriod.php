@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfWorkingPeriod.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfWorkingPeriod.
  */
 
 namespace mishanki\PhpEws\ArrayType;

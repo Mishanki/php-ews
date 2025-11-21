@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ResponseObjectCoreType;
+ * Contains \mishanki\PhpEws\Type\ResponseObjectCoreType;
  */
 
 namespace mishanki\PhpEws\Type;

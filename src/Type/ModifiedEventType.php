@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ModifiedEventType.
+ * Contains \mishanki\PhpEws\Type\ModifiedEventType.
  */
 
 namespace mishanki\PhpEws\Type;

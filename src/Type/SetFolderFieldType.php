@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SetFolderFieldType.
+ * Contains \mishanki\PhpEws\Type\SetFolderFieldType.
  */
 
 namespace mishanki\PhpEws\Type;

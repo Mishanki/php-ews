@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RestrictionType.
+ * Contains \mishanki\PhpEws\Type\RestrictionType.
  */
 
 namespace mishanki\PhpEws\Type;

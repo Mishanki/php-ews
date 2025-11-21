@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\ApplyConversationActionType.
+ * Contains \mishanki\PhpEws\Request\ApplyConversationActionType.
  */
 
 namespace mishanki\PhpEws\Request;

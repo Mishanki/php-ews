@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\ExportItemsType.
+ * Contains \mishanki\PhpEws\Request\ExportItemsType.
  */
 
 namespace mishanki\PhpEws\Request;

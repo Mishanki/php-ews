@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RulePredicateDateRangeType.
+ * Contains \mishanki\PhpEws\Type\RulePredicateDateRangeType.
  */
 
 namespace mishanki\PhpEws\Type;

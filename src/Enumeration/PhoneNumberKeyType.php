@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\PhoneNumberKeyType.
+ * Contains \mishanki\PhpEws\Enumeration\PhoneNumberKeyType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

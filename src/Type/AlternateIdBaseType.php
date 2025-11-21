@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\AlternateIdBaseType.
+ * Contains \mishanki\PhpEws\Type\AlternateIdBaseType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -21,7 +21,7 @@ abstract class AlternateIdBaseType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\IdFormatType
+     * @see \mishanki\PhpEws\Enumeration\IdFormatType
      */
     public $Format;
 }

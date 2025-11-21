@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetAppMarketplaceUrl.
+ * Contains \mishanki\PhpEws\Request\GetAppMarketplaceUrl.
  */
 
 namespace mishanki\PhpEws\Request;

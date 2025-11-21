@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetMailTipsType.
+ * Contains \mishanki\PhpEws\Request\GetMailTipsType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -19,7 +19,7 @@ class GetMailTipsType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MailTipTypes
+     * @see \mishanki\PhpEws\Enumeration\MailTipTypes
      */
     public $MailTipsRequested;
 

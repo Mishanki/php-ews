@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetSearchableMailboxesType.
+ * Contains \mishanki\PhpEws\Request\GetSearchableMailboxesType.
  */
 
 namespace mishanki\PhpEws\Request;

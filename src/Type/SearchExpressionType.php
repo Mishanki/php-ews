@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SearchExpressionType.
+ * Contains \mishanki\PhpEws\Type\SearchExpressionType.
  */
 
 namespace mishanki\PhpEws\Type;

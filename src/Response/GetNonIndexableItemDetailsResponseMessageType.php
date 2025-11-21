@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetNonIndexableItemDetailsResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\GetNonIndexableItemDetailsResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

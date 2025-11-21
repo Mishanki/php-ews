@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SerializedSecurityContextType.
+ * Contains \mishanki\PhpEws\Type\SerializedSecurityContextType.
  */
 
 namespace mishanki\PhpEws\Type;

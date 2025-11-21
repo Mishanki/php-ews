@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetAppMarketplaceUrlResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\GetAppMarketplaceUrlResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

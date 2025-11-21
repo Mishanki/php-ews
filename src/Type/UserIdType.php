@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\UserIdType.
+ * Contains \mishanki\PhpEws\Type\UserIdType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -31,7 +31,7 @@ class UserIdType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DistinguishedUserType
+     * @see \mishanki\PhpEws\Enumeration\DistinguishedUserType
      */
     public $DistinguishedUser;
 

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\AttachmentResponseShapeType.
+ * Contains \mishanki\PhpEws\Type\AttachmentResponseShapeType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -35,7 +35,7 @@ class AttachmentResponseShapeType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\BodyTypeResponseType
+     * @see \mishanki\PhpEws\Enumeration\BodyTypeResponseType
      */
     public $BodyType;
 

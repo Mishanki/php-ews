@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\MonthNamesType.
+ * Contains \mishanki\PhpEws\Enumeration\MonthNamesType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\IndividualAttendeeConflictData.
+ * Contains \mishanki\PhpEws\Type\IndividualAttendeeConflictData.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -21,7 +21,7 @@ class IndividualAttendeeConflictData extends AttendeeConflictData
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\LegacyFreeBusyType
+     * @see \mishanki\PhpEws\Enumeration\LegacyFreeBusyType
      */
     public $BusyType;
 }

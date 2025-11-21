@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SuggestionsResponseType.
+ * Contains \mishanki\PhpEws\Type\SuggestionsResponseType.
  */
 
 namespace mishanki\PhpEws\Type;

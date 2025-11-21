@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MessageType.
+ * Contains \mishanki\PhpEws\Type\MessageType.
  */
 
 namespace mishanki\PhpEws\Type;

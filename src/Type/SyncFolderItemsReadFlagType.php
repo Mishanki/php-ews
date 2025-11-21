@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SyncFolderItemsReadFlagType.
+ * Contains \mishanki\PhpEws\Type\SyncFolderItemsReadFlagType.
  */
 
 namespace mishanki\PhpEws\Type;

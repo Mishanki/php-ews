@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\BasePagingType.
+ * Contains \mishanki\PhpEws\Type\BasePagingType.
  */
 
 namespace mishanki\PhpEws\Type;

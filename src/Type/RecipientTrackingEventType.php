@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RecipientTrackingEventType.
+ * Contains \mishanki\PhpEws\Type\RecipientTrackingEventType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -41,7 +41,7 @@ class RecipientTrackingEventType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MessageTrackingDeliveryStatusType
+     * @see \mishanki\PhpEws\Enumeration\MessageTrackingDeliveryStatusType
      */
     public $DeliveryStatus;
 
@@ -61,7 +61,7 @@ class RecipientTrackingEventType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MessageTrackingEventDescriptionType
+     * @see \mishanki\PhpEws\Enumeration\MessageTrackingEventDescriptionType
      */
     public $EventDescription;
 

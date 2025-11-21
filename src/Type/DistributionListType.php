@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\DistributionListType.
+ * Contains \mishanki\PhpEws\Type\DistributionListType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -20,7 +20,7 @@ class DistributionListType extends ItemType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ContactSourceType
+     * @see \mishanki\PhpEws\Enumeration\ContactSourceType
      */
     public $ContactSource;
 

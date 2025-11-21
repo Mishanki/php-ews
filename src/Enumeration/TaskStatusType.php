@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\TaskStatusType.
+ * Contains \mishanki\PhpEws\Enumeration\TaskStatusType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

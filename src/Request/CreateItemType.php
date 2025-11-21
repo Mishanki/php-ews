@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\CreateItemType.
+ * Contains \mishanki\PhpEws\Request\CreateItemType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -33,7 +33,7 @@ class CreateItemType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MessageDispositionType
+     * @see \mishanki\PhpEws\Enumeration\MessageDispositionType
      */
     public $MessageDisposition;
 
@@ -59,7 +59,7 @@ class CreateItemType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\CalendarItemCreateOrDeleteOperationType
+     * @see \mishanki\PhpEws\Enumeration\CalendarItemCreateOrDeleteOperationType
      */
     public $SendMeetingInvitations;
 }

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetUserAvailabilityRequestType.
+ * Contains \mishanki\PhpEws\Request\GetUserAvailabilityRequestType.
  */
 
 namespace mishanki\PhpEws\Request;

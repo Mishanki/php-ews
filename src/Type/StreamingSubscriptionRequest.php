@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\StreamingSubscriptionRequest.
+ * Contains \mishanki\PhpEws\Type\StreamingSubscriptionRequest.
  */
 
 namespace mishanki\PhpEws\Type;

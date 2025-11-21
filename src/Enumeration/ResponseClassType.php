@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ResponseClassType.
+ * Contains \mishanki\PhpEws\Enumeration\ResponseClassType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

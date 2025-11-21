@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ManagedFolderInformationType.
+ * Contains \mishanki\PhpEws\Type\ManagedFolderInformationType.
  */
 
 namespace mishanki\PhpEws\Type;

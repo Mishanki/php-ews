@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetAppManifestsType.
+ * Contains \mishanki\PhpEws\Request\GetAppManifestsType.
  */
 
 namespace mishanki\PhpEws\Request;

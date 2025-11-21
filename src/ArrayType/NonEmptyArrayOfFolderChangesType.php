@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfFolderChangesType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfFolderChangesType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

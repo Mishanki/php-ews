@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\DisposalType.
+ * Contains \mishanki\PhpEws\Enumeration\DisposalType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

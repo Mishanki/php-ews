@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\AcceptSharingInvitationType.
+ * Contains \mishanki\PhpEws\Type\AcceptSharingInvitationType.
  */
 
 namespace mishanki\PhpEws\Type;

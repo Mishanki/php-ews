@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\PlayOnPhoneType.
+ * Contains \mishanki\PhpEws\Request\PlayOnPhoneType.
  */
 
 namespace mishanki\PhpEws\Request;

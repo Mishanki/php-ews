@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\UpdateUserConfigurationType.
+ * Contains \mishanki\PhpEws\Request\UpdateUserConfigurationType.
  */
 
 namespace mishanki\PhpEws\Request;

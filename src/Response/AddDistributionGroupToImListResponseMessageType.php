@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\AddDistributionGroupToImListResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\AddDistributionGroupToImListResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

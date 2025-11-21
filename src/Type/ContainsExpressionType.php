@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ContainsExpressionType.
+ * Contains \mishanki\PhpEws\Type\ContainsExpressionType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -29,7 +29,7 @@ class ContainsExpressionType extends SearchExpressionType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ContainmentComparisonType
+     * @see \mishanki\PhpEws\Enumeration\ContainmentComparisonType
      */
     public $ContainmentComparison;
 
@@ -40,7 +40,7 @@ class ContainsExpressionType extends SearchExpressionType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ContainmentModeType
+     * @see \mishanki\PhpEws\Enumeration\ContainmentModeType
      */
     public $ContainmentMode;
 }

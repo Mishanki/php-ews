@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfDLExpansionType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfDLExpansionType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

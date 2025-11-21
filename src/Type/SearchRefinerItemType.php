@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SearchRefinerItemType.
+ * Contains \mishanki\PhpEws\Type\SearchRefinerItemType.
  */
 
 namespace mishanki\PhpEws\Type;

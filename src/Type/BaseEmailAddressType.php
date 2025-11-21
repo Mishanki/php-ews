@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\BaseEmailAddressType.
+ * Contains \mishanki\PhpEws\Type\BaseEmailAddressType.
  */
 
 namespace mishanki\PhpEws\Type;

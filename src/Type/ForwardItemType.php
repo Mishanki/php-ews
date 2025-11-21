@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ForwardItemType.
+ * Contains \mishanki\PhpEws\Type\ForwardItemType.
  */
 
 namespace mishanki\PhpEws\Type;

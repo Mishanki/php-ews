@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\SetImGroupType.
+ * Contains \mishanki\PhpEws\Request\SetImGroupType.
  */
 
 namespace mishanki\PhpEws\Request;

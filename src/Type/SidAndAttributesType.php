@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SidAndAttributesType.
+ * Contains \mishanki\PhpEws\Type\SidAndAttributesType.
  */
 
 namespace mishanki\PhpEws\Type;

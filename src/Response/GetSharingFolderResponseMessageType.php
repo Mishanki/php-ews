@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetSharingFolderResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\GetSharingFolderResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

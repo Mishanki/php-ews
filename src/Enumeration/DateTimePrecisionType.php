@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\DateTimePrecisionType.
+ * Contains \mishanki\PhpEws\Enumeration\DateTimePrecisionType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

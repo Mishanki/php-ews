@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetStreamingEventsResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\GetStreamingEventsResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;
@@ -20,7 +20,7 @@ class GetStreamingEventsResponseMessageType extends ResponseMessageType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ConnectionStatusType
+     * @see \mishanki\PhpEws\Enumeration\ConnectionStatusType
      */
     public $ConnectionStatus;
 

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MultipleOperandBooleanExpressionType.
+ * Contains \mishanki\PhpEws\Type\MultipleOperandBooleanExpressionType.
  */
 
 namespace mishanki\PhpEws\Type;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ConflictResultsType.
+ * Contains \mishanki\PhpEws\Type\ConflictResultsType.
  */
 
 namespace mishanki\PhpEws\Type;

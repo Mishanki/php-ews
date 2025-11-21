@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\UserMailboxType.
+ * Contains \mishanki\PhpEws\Type\UserMailboxType.
  */
 
 namespace mishanki\PhpEws\Type;

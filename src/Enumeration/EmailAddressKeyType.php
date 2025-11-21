@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\EmailAddressKeyType.
+ * Contains \mishanki\PhpEws\Enumeration\EmailAddressKeyType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

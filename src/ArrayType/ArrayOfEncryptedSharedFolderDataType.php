@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfEncryptedSharedFolderDataType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfEncryptedSharedFolderDataType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

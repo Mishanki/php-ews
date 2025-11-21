@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\DayOfWeekType.
+ * Contains \mishanki\PhpEws\Enumeration\DayOfWeekType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

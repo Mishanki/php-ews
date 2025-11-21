@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\ResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\ResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;
@@ -52,7 +52,7 @@ class ResponseMessageType extends Response
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ResponseClassType
+     * @see \mishanki\PhpEws\Enumeration\ResponseClassType
      */
     public $ResponseClass;
 
@@ -64,7 +64,7 @@ class ResponseMessageType extends Response
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ResponseCodeType
+     * @see \mishanki\PhpEws\Enumeration\ResponseCodeType
      */
     public $ResponseCode;
 }

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\SetUserOofSettingsRequest.
+ * Contains \mishanki\PhpEws\Request\SetUserOofSettingsRequest.
  */
 
 namespace mishanki\PhpEws\Request;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfRoomsType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfRoomsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

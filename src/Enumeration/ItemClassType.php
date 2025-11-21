@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ItemClassType.
+ * Contains \mishanki\PhpEws\Enumeration\ItemClassType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

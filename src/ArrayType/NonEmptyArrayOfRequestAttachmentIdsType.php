@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfRequestAttachmentIdsType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfRequestAttachmentIdsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

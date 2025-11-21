@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MailTips.
+ * Contains \mishanki\PhpEws\Type\MailTips.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -96,7 +96,7 @@ class MailTips extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MailTipTypes
+     * @see \mishanki\PhpEws\Enumeration\MailTipTypes
      */
     public $PendingMailTips;
 

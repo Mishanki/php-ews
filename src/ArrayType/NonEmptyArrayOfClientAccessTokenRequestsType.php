@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfClientAccessTokenRequestsType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfClientAccessTokenRequestsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

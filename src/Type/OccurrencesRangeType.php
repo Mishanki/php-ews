@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\OccurrencesRangeType.
+ * Contains \mishanki\PhpEws\Type\OccurrencesRangeType.
  */
 
 namespace mishanki\PhpEws\Type;

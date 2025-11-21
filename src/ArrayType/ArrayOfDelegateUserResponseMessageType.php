@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfDelegateUserResponseMessageType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfDelegateUserResponseMessageType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\UpdateInboxRulesResponseType.
+ * Contains \mishanki\PhpEws\Response\UpdateInboxRulesResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

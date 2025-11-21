@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\MailTipTypes.
+ * Contains \mishanki\PhpEws\Enumeration\MailTipTypes.
  */
 
 namespace mishanki\PhpEws\Enumeration;

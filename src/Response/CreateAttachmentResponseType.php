@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\CreateAttachmentResponseType.
+ * Contains \mishanki\PhpEws\Response\CreateAttachmentResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

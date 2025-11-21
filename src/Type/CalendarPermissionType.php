@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\CalendarPermissionType.
+ * Contains \mishanki\PhpEws\Type\CalendarPermissionType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -19,7 +19,7 @@ class CalendarPermissionType extends BasePermissionType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\CalendarPermissionLevelType
+     * @see \mishanki\PhpEws\Enumeration\CalendarPermissionLevelType
      */
     public $CalendarPermissionLevel;
 
@@ -30,7 +30,7 @@ class CalendarPermissionType extends BasePermissionType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\CalendarPermissionReadAccessType
+     * @see \mishanki\PhpEws\Enumeration\CalendarPermissionReadAccessType
      */
     public $ReadItems;
 }

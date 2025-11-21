@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\NotificationType.
+ * Contains \mishanki\PhpEws\Type\NotificationType.
  */
 
 namespace mishanki\PhpEws\Type;

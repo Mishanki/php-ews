@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SearchPreviewItemType.
+ * Contains \mishanki\PhpEws\Type\SearchPreviewItemType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -80,7 +80,7 @@ class SearchPreviewItemType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ImportanceChoicesType
+     * @see \mishanki\PhpEws\Enumeration\ImportanceChoicesType
      */
     public $Importance;
 
@@ -91,7 +91,7 @@ class SearchPreviewItemType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ItemClassType
+     * @see \mishanki\PhpEws\Enumeration\ItemClassType
      */
     public $ItemClass;
 

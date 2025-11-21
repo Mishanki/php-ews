@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\DeleteItemType.
+ * Contains \mishanki\PhpEws\Request\DeleteItemType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -24,7 +24,7 @@ class DeleteItemType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\AffectedTaskOccurrencesType
+     * @see \mishanki\PhpEws\Enumeration\AffectedTaskOccurrencesType
      */
     public $AffectedTaskOccurrences;
 
@@ -37,7 +37,7 @@ class DeleteItemType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DisposalType
+     * @see \mishanki\PhpEws\Enumeration\DisposalType
      */
     public $DeleteType;
 
@@ -64,7 +64,7 @@ class DeleteItemType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\CalendarItemCreateOrDeleteOperationType
+     * @see \mishanki\PhpEws\Enumeration\CalendarItemCreateOrDeleteOperationType
      */
     public $SendMeetingCancellations;
 

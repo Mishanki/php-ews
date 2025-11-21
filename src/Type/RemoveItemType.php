@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RemoveItemType.
+ * Contains \mishanki\PhpEws\Type\RemoveItemType.
  */
 
 namespace mishanki\PhpEws\Type;

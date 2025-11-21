@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfContextProperty.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfContextProperty.
  */
 
 namespace mishanki\PhpEws\ArrayType;

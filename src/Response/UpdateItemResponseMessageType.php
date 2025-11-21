@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\UpdateItemResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\UpdateItemResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

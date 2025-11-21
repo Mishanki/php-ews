@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\MoveItemType.
+ * Contains \mishanki\PhpEws\Request\MoveItemType.
  */
 
 namespace mishanki\PhpEws\Request;

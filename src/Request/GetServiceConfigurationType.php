@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetServiceConfigurationType.
+ * Contains \mishanki\PhpEws\Request\GetServiceConfigurationType.
  */
 
 namespace mishanki\PhpEws\Request;

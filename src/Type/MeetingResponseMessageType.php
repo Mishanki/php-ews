@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MeetingResponseMessageType.
+ * Contains \mishanki\PhpEws\Type\MeetingResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Type;

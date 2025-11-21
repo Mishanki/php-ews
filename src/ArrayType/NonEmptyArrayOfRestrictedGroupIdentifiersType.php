@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfRestrictedGroupIdentifiersType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfRestrictedGroupIdentifiersType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

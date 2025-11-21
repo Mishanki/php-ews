@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\DeleteAttachmentType.
+ * Contains \mishanki\PhpEws\Request\DeleteAttachmentType.
  */
 
 namespace mishanki\PhpEws\Request;

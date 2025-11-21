@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\DeleteItemResponseType.
+ * Contains \mishanki\PhpEws\Response\DeleteItemResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfTransitionsGroupsType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfTransitionsGroupsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

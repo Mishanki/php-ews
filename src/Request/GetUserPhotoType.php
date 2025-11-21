@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetUserPhotoType.
+ * Contains \mishanki\PhpEws\Request\GetUserPhotoType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -28,7 +28,7 @@ class GetUserPhotoType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\UserPhotoSizeType
+     * @see \mishanki\PhpEws\Enumeration\UserPhotoSizeType
      */
     public $SizeRequested;
 
@@ -39,7 +39,7 @@ class GetUserPhotoType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\UserPhotoTypeType
+     * @see \mishanki\PhpEws\Enumeration\UserPhotoTypeType
      */
     public $TypeRequested;
 }

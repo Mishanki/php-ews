@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\TaskRecurrenceType.
+ * Contains \mishanki\PhpEws\Type\TaskRecurrenceType.
  */
 
 namespace mishanki\PhpEws\Type;

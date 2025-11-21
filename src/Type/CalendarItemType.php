@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\CalendarItemType.
+ * Contains \mishanki\PhpEws\Type\CalendarItemType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -69,7 +69,7 @@ class CalendarItemType extends ItemType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\AppointmentState
+     * @see \mishanki\PhpEws\Enumeration\AppointmentState
      */
     public $AppointmentState;
 
@@ -80,7 +80,7 @@ class CalendarItemType extends ItemType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\CalendarItemTypeType
+     * @see \mishanki\PhpEws\Enumeration\CalendarItemTypeType
      */
     public $CalendarItemType;
 
@@ -92,7 +92,7 @@ class CalendarItemType extends ItemType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ConferenceType
+     * @see \mishanki\PhpEws\Enumeration\ConferenceType
      */
     public $ConferenceType;
 
@@ -254,7 +254,7 @@ class CalendarItemType extends ItemType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\LegacyFreeBusyType
+     * @see \mishanki\PhpEws\Enumeration\LegacyFreeBusyType
      */
     public $LegacyFreeBusyStatus;
 
@@ -314,7 +314,7 @@ class CalendarItemType extends ItemType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ResponseTypeType
+     * @see \mishanki\PhpEws\Enumeration\ResponseTypeType
      */
     public $MyResponseType;
 

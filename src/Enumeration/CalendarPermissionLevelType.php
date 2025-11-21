@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\CalendarPermissionLevelType.
+ * Contains \mishanki\PhpEws\Enumeration\CalendarPermissionLevelType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

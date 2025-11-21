@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\FindFolderType.
+ * Contains \mishanki\PhpEws\Request\FindFolderType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -75,7 +75,7 @@ class FindFolderType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\FolderQueryTraversalType
+     * @see \mishanki\PhpEws\Enumeration\FolderQueryTraversalType
      */
     public $Traversal;
 }

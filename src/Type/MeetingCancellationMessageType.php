@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MeetingCancellationMessageType.
+ * Contains \mishanki\PhpEws\Type\MeetingCancellationMessageType.
  */
 
 namespace mishanki\PhpEws\Type;

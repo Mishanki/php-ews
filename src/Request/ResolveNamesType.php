@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\ResolveNamesType.
+ * Contains \mishanki\PhpEws\Request\ResolveNamesType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -19,7 +19,7 @@ class ResolveNamesType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DefaultShapeNamesType
+     * @see \mishanki\PhpEws\Enumeration\DefaultShapeNamesType
      */
     public $ContactDataShape;
 
@@ -67,7 +67,7 @@ class ResolveNamesType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ResolveNamesSearchScopeType
+     * @see \mishanki\PhpEws\Enumeration\ResolveNamesSearchScopeType
      */
     public $SearchScope;
 

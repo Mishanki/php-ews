@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\RemoveDelegateResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\RemoveDelegateResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

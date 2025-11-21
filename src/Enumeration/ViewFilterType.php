@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ViewFilterType.
+ * Contains \mishanki\PhpEws\Enumeration\ViewFilterType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

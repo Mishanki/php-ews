@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\EffectiveRightsType.
+ * Contains \mishanki\PhpEws\Type\EffectiveRightsType.
  */
 
 namespace mishanki\PhpEws\Type;

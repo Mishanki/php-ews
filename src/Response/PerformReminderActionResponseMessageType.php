@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\PerformReminderActionResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\PerformReminderActionResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

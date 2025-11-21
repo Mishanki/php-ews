@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\ConvertIdType.
+ * Contains \mishanki\PhpEws\Request\ConvertIdType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -23,7 +23,7 @@ class ConvertIdType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\IdFormatType
+     * @see \mishanki\PhpEws\Enumeration\IdFormatType
      */
     public $DestinationFormat;
 

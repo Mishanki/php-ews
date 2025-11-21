@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\ExportItemsResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\ExportItemsResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

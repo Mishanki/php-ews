@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\DelegateFolderPermissionLevelType.
+ * Contains \mishanki\PhpEws\Enumeration\DelegateFolderPermissionLevelType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

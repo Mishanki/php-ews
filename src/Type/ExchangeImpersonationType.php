@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ExchangeImpersonationType.
+ * Contains \mishanki\PhpEws\Type\ExchangeImpersonationType.
  */
 
 namespace mishanki\PhpEws\Type;

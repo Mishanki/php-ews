@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\FreeBusyViewType.
+ * Contains \mishanki\PhpEws\Enumeration\FreeBusyViewType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

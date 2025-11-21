@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetRemindersType.
+ * Contains \mishanki\PhpEws\Request\GetRemindersType.
  */
 
 namespace mishanki\PhpEws\Request;

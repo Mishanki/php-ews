@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\MarkAsJunkResponseType.
+ * Contains \mishanki\PhpEws\Response\MarkAsJunkResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

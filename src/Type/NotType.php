@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\NotType.
+ * Contains \mishanki\PhpEws\Type\NotType.
  */
 
 namespace mishanki\PhpEws\Type;

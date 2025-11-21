@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\InstallAppType.
+ * Contains \mishanki\PhpEws\Request\InstallAppType.
  */
 
 namespace mishanki\PhpEws\Request;

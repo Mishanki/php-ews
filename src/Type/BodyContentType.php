@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\BodyContentType.
+ * Contains \mishanki\PhpEws\Type\BodyContentType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -21,7 +21,7 @@ class BodyContentType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\BodyTypeResponseType
+     * @see \mishanki\PhpEws\Enumeration\BodyTypeResponseType
      */
     public $BodyType;
 

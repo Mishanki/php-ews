@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ReminderItemActionType.
+ * Contains \mishanki\PhpEws\Type\ReminderItemActionType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -21,7 +21,7 @@ class ReminderItemActionType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ReminderActionType
+     * @see \mishanki\PhpEws\Enumeration\ReminderActionType
      */
     public $ActionType;
 

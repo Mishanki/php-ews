@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayofLegacyDNsType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayofLegacyDNsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

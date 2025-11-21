@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ExistsType.
+ * Contains \mishanki\PhpEws\Type\ExistsType.
  */
 
 namespace mishanki\PhpEws\Type;

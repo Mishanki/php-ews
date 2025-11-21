@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PeriodType.
+ * Contains \mishanki\PhpEws\Type\PeriodType.
  */
 
 namespace mishanki\PhpEws\Type;

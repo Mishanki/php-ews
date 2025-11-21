@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\MarkAllItemsAsRead.
+ * Contains \mishanki\PhpEws\Request\MarkAllItemsAsRead.
  */
 
 namespace mishanki\PhpEws\Request;

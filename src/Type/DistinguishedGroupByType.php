@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\DistinguishedGroupByType.
+ * Contains \mishanki\PhpEws\Type\DistinguishedGroupByType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -20,7 +20,7 @@ class DistinguishedGroupByType extends BaseGroupByType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\StandardGroupByType
+     * @see \mishanki\PhpEws\Enumeration\StandardGroupByType
      */
     public $StandardGroupBy;
 }

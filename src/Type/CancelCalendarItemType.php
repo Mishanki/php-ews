@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\CancelCalendarItemType.
+ * Contains \mishanki\PhpEws\Type\CancelCalendarItemType.
  */
 
 namespace mishanki\PhpEws\Type;

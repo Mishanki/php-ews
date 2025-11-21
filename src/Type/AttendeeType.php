@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\AttendeeType.
+ * Contains \mishanki\PhpEws\Type\AttendeeType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -43,7 +43,7 @@ class AttendeeType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ResponseTypeType
+     * @see \mishanki\PhpEws\Enumeration\ResponseTypeType
      */
     public $ResponseType;
 }

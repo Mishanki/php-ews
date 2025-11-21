@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SmtpDomain.
+ * Contains \mishanki\PhpEws\Type\SmtpDomain.
  */
 
 namespace mishanki\PhpEws\Type;

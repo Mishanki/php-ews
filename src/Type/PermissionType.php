@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PermissionType.
+ * Contains \mishanki\PhpEws\Type\PermissionType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -19,7 +19,7 @@ class PermissionType extends BasePermissionType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\PermissionLevelType
+     * @see \mishanki\PhpEws\Enumeration\PermissionLevelType
      */
     public $PermissionLevel;
 
@@ -30,7 +30,7 @@ class PermissionType extends BasePermissionType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\PermissionReadAccessType
+     * @see \mishanki\PhpEws\Enumeration\PermissionReadAccessType
      */
     public $ReadItems;
 }

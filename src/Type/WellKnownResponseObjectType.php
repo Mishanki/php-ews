@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\WellKnownResponseObjectType.
+ * Contains \mishanki\PhpEws\Type\WellKnownResponseObjectType.
  */
 
 namespace mishanki\PhpEws\Type;

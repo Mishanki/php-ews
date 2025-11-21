@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfSubscriptionIdsType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfSubscriptionIdsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

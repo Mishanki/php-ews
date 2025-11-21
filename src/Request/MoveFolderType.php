@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\MoveFolderType.
+ * Contains \mishanki\PhpEws\Request\MoveFolderType.
  */
 
 namespace mishanki\PhpEws\Request;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\AddInStateType.
+ * Contains \mishanki\PhpEws\Enumeration\AddInStateType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

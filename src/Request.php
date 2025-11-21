@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request.
+ * Contains \mishanki\PhpEws\Request.
  */
 
 namespace mishanki\PhpEws;

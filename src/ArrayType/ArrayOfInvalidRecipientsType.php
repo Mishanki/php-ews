@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfInvalidRecipientsType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfInvalidRecipientsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

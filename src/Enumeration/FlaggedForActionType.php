@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\FlaggedForActionType.
+ * Contains \mishanki\PhpEws\Enumeration\FlaggedForActionType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

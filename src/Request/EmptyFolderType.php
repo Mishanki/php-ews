@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\EmptyFolderType.
+ * Contains \mishanki\PhpEws\Request\EmptyFolderType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -34,7 +34,7 @@ class EmptyFolderType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DisposalType
+     * @see \mishanki\PhpEws\Enumeration\DisposalType
      */
     public $DeleteType;
 

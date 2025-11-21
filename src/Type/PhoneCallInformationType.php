@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PhoneCallInformationType.
+ * Contains \mishanki\PhpEws\Type\PhoneCallInformationType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -23,7 +23,7 @@ class PhoneCallInformationType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ConnectionFailureCauseType
+     * @see \mishanki\PhpEws\Enumeration\ConnectionFailureCauseType
      */
     public $ConnectionFailureCause;
 
@@ -36,7 +36,7 @@ class PhoneCallInformationType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\PhoneCallStateType
+     * @see \mishanki\PhpEws\Enumeration\PhoneCallStateType
      */
     public $PhoneCallState;
 

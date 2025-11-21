@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetSharingMetadataResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\GetSharingMetadataResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

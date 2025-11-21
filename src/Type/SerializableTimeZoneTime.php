@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SerializableTimeZoneTime.
+ * Contains \mishanki\PhpEws\Type\SerializableTimeZoneTime.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -39,7 +39,7 @@ class SerializableTimeZoneTime extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DayOfWeekType
+     * @see \mishanki\PhpEws\Enumeration\DayOfWeekType
      */
     public $DayOfWeek;
 

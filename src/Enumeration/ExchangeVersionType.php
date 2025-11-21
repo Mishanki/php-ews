@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ExchangeVersionType.
+ * Contains \mishanki\PhpEws\Enumeration\ExchangeVersionType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

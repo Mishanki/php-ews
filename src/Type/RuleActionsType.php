@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RuleActionsType.
+ * Contains \mishanki\PhpEws\Type\RuleActionsType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -68,7 +68,7 @@ class RuleActionsType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ImportanceChoicesType
+     * @see \mishanki\PhpEws\Enumeration\ImportanceChoicesType
      */
     public $MarkImportance;
 

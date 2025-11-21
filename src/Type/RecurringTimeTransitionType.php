@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RecurringTimeTransitionType;
+ * Contains \mishanki\PhpEws\Type\RecurringTimeTransitionType;
  */
 
 namespace mishanki\PhpEws\Type;

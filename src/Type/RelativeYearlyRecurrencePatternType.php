@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RelativeYearlyRecurrencePatternType.
+ * Contains \mishanki\PhpEws\Type\RelativeYearlyRecurrencePatternType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -20,7 +20,7 @@ class RelativeYearlyRecurrencePatternType extends RecurrencePatternBaseType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DayOfWeekIndexType
+     * @see \mishanki\PhpEws\Enumeration\DayOfWeekIndexType
      */
     public $DayOfWeekIndex;
 
@@ -31,7 +31,7 @@ class RelativeYearlyRecurrencePatternType extends RecurrencePatternBaseType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DayOfWeekType
+     * @see \mishanki\PhpEws\Enumeration\DayOfWeekType
      */
     public $DaysOfWeek;
 
@@ -42,7 +42,7 @@ class RelativeYearlyRecurrencePatternType extends RecurrencePatternBaseType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MonthNamesType
+     * @see \mishanki\PhpEws\Enumeration\MonthNamesType
      */
     public $Month;
 }

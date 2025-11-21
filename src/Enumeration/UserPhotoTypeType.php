@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\UserPhotoTypeType.
+ * Contains \mishanki\PhpEws\Enumeration\UserPhotoTypeType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

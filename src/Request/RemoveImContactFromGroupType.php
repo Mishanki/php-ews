@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\RemoveImContactFromGroupType.
+ * Contains \mishanki\PhpEws\Request\RemoveImContactFromGroupType.
  */
 
 namespace mishanki\PhpEws\Request;

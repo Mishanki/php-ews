@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\SearchMailboxesType.
+ * Contains \mishanki\PhpEws\Request\SearchMailboxesType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -39,7 +39,7 @@ class SearchMailboxesType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\SearchPageDirectionType
+     * @see \mishanki\PhpEws\Enumeration\SearchPageDirectionType
      */
     public $PageDirection;
 
@@ -80,7 +80,7 @@ class SearchMailboxesType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\SearchResultType
+     * @see \mishanki\PhpEws\Enumeration\SearchResultType
      */
     public $ResultType;
 

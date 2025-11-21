@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\TasksFolderType.
+ * Contains \mishanki\PhpEws\Type\TasksFolderType.
  */
 
 namespace mishanki\PhpEws\Type;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetInboxRulesRequestType.
+ * Contains \mishanki\PhpEws\Request\GetInboxRulesRequestType.
  */
 
 namespace mishanki\PhpEws\Request;

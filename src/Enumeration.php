@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration.
+ * Contains \mishanki\PhpEws\Enumeration.
  */
 
 namespace mishanki\PhpEws;

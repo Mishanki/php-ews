@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\PermissionLevelType.
+ * Contains \mishanki\PhpEws\Enumeration\PermissionLevelType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

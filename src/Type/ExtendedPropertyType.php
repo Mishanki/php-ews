@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ExtendedPropertyType.
+ * Contains \mishanki\PhpEws\Type\ExtendedPropertyType.
  */
 
 namespace mishanki\PhpEws\Type;

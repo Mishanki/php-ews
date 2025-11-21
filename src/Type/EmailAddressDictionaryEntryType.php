@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\EmailAddressDictionaryEntryType.
+ * Contains \mishanki\PhpEws\Type\EmailAddressDictionaryEntryType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -33,7 +33,7 @@ class EmailAddressDictionaryEntryType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\EmailAddressKeyType
+     * @see \mishanki\PhpEws\Enumeration\EmailAddressKeyType
      */
     public $Key;
 
@@ -46,7 +46,7 @@ class EmailAddressDictionaryEntryType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MailboxTypeType
+     * @see \mishanki\PhpEws\Enumeration\MailboxTypeType
      */
     public $MailboxType;
 
@@ -70,7 +70,7 @@ class EmailAddressDictionaryEntryType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\RoutingType
+     * @see \mishanki\PhpEws\Enumeration\RoutingType
      */
     public $RoutingType;
 }

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\OofState.
+ * Contains \mishanki\PhpEws\Enumeration\OofState.
  */
 
 namespace mishanki\PhpEws\Enumeration;

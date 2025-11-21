@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PersonaResponseShapeType.
+ * Contains \mishanki\PhpEws\Type\PersonaResponseShapeType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -30,7 +30,7 @@ class PersonaResponseShapeType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DefaultShapeNamesType
+     * @see \mishanki\PhpEws\Enumeration\DefaultShapeNamesType
      */
     public $BaseShape;
 }

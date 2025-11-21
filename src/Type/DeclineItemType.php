@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\DeclineItemType.
+ * Contains \mishanki\PhpEws\Type\DeclineItemType.
  */
 
 namespace mishanki\PhpEws\Type;

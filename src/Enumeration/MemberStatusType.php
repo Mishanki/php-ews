@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\MemberStatusType.
+ * Contains \mishanki\PhpEws\Enumeration\MemberStatusType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

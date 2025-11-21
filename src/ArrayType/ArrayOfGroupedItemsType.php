@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfGroupedItemsType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfGroupedItemsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

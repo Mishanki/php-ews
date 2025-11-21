@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ConnectingSIDType.
+ * Contains \mishanki\PhpEws\Type\ConnectingSIDType.
  */
 
 namespace mishanki\PhpEws\Type;

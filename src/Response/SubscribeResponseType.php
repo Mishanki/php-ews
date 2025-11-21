@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\SubscribeResponseType.
+ * Contains \mishanki\PhpEws\Response\SubscribeResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

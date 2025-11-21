@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\TwoOperandExpressionType.
+ * Contains \mishanki\PhpEws\Type\TwoOperandExpressionType.
  */
 
 namespace mishanki\PhpEws\Type;

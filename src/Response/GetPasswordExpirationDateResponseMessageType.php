@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetPasswordExpirationDateResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\GetPasswordExpirationDateResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

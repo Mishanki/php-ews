@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\PhysicalAddressKeyType.
+ * Contains \mishanki\PhpEws\Enumeration\PhysicalAddressKeyType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

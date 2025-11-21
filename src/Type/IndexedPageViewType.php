@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\IndexedPageViewType.
+ * Contains \mishanki\PhpEws\Type\IndexedPageViewType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -26,7 +26,7 @@ class IndexedPageViewType extends BasePagingType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\IndexBasePointType
+     * @see \mishanki\PhpEws\Enumeration\IndexBasePointType
      */
     public $BasePoint;
 

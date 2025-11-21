@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfSearchItemKindsType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfSearchItemKindsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;
@@ -21,7 +21,7 @@ class ArrayOfSearchItemKindsType extends ArrayType
      *
      * @var string[]
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\SearchItemKindType[]
+     * @see \mishanki\PhpEws\Enumeration\SearchItemKindType[]
      */
     public $SearchItemKind = array();
 }

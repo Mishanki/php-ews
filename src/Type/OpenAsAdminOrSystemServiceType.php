@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\OpenAsAdminOrSystemServiceType.
+ * Contains \mishanki\PhpEws\Type\OpenAsAdminOrSystemServiceType.
  */
 
 namespace mishanki\PhpEws\Type;

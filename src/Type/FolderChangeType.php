@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\FolderChangeType.
+ * Contains \mishanki\PhpEws\Type\FolderChangeType.
  */
 
 namespace mishanki\PhpEws\Type;

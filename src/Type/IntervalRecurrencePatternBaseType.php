@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\IntervalRecurrencePatternBaseType.
+ * Contains \mishanki\PhpEws\Type\IntervalRecurrencePatternBaseType.
  */
 
 namespace mishanki\PhpEws\Type;

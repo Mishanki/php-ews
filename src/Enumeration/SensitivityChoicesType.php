@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\SensitivityChoicesType.
+ * Contains \mishanki\PhpEws\Enumeration\SensitivityChoicesType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

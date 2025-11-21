@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\RuleFieldURIType.
+ * Contains \mishanki\PhpEws\Enumeration\RuleFieldURIType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

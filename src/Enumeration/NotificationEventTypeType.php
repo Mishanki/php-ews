@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\NotificationEventTypeType.
+ * Contains \mishanki\PhpEws\Enumeration\NotificationEventTypeType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

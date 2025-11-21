@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\ArchiveItemType.
+ * Contains \mishanki\PhpEws\Request\ArchiveItemType.
  */
 
 namespace mishanki\PhpEws\Request;

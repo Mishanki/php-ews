@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\DistinguishedFolderIdType.
+ * Contains \mishanki\PhpEws\Type\DistinguishedFolderIdType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -34,7 +34,7 @@ class DistinguishedFolderIdType extends BaseFolderIdType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DistinguishedFolderIdNameType
+     * @see \mishanki\PhpEws\Enumeration\DistinguishedFolderIdNameType
      */
     public $Id;
 

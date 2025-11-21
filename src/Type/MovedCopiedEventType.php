@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MovedCopiedEventType.
+ * Contains \mishanki\PhpEws\Type\MovedCopiedEventType.
  */
 
 namespace mishanki\PhpEws\Type;

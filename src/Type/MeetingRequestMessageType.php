@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MeetingRequestMessageType.
+ * Contains \mishanki\PhpEws\Type\MeetingRequestMessageType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -77,7 +77,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\CalendarItemTypeType
+     * @see \mishanki\PhpEws\Enumeration\CalendarItemTypeType
      */
     public $CalendarItemType;
 
@@ -88,7 +88,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ConferenceType
+     * @see \mishanki\PhpEws\Enumeration\ConferenceType
      */
     public $ConferenceType;
 
@@ -171,7 +171,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\LegacyFreeBusyType
+     * @see \mishanki\PhpEws\Enumeration\LegacyFreeBusyType
      */
     public $IntendedFreeBusyStatus;
 
@@ -241,7 +241,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\LegacyFreeBusyType
+     * @see \mishanki\PhpEws\Enumeration\LegacyFreeBusyType
      */
     public $LegacyFreeBusyStatus;
 
@@ -261,7 +261,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MeetingRequestTypeType
+     * @see \mishanki\PhpEws\Enumeration\MeetingRequestTypeType
      */
     public $MeetingRequestType;
 
@@ -312,7 +312,7 @@ class MeetingRequestMessageType extends MeetingMessageType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ResponseTypeType
+     * @see \mishanki\PhpEws\Enumeration\ResponseTypeType
      */
     public $MyResponseType;
 

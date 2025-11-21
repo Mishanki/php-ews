@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\FractionalPageViewType.
+ * Contains \mishanki\PhpEws\Type\FractionalPageViewType.
  */
 
 namespace mishanki\PhpEws\Type;

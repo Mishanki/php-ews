@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\BodyType.
+ * Contains \mishanki\PhpEws\Type\BodyType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -19,7 +19,7 @@ class BodyType extends StringType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\BodyTypeType
+     * @see \mishanki\PhpEws\Enumeration\BodyTypeType
      */
     public $BodyType;
 

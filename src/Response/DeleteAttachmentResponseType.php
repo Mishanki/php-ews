@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\DeleteAttachmentResponseType.
+ * Contains \mishanki\PhpEws\Response\DeleteAttachmentResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

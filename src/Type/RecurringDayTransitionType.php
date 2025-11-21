@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RecurringDayTransitionType.
+ * Contains \mishanki\PhpEws\Type\RecurringDayTransitionType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -19,7 +19,7 @@ class RecurringDayTransitionType extends RecurringTimeTransitionType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DayOfWeekType
+     * @see \mishanki\PhpEws\Enumeration\DayOfWeekType
      */
     public $DayOfWeek;
 
@@ -31,7 +31,7 @@ class RecurringDayTransitionType extends RecurringTimeTransitionType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\Occurrence
+     * @see \mishanki\PhpEws\Enumeration\Occurrence
      */
     public $Occurrence;
 }

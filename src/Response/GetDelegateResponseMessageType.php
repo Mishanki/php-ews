@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetDelegateResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\GetDelegateResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;
@@ -20,7 +20,7 @@ class GetDelegateResponseMessageType extends BaseDelegateResponseMessageType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DeliverMeetingRequestsType
+     * @see \mishanki\PhpEws\Enumeration\DeliverMeetingRequestsType
      */
     public $DeliverMeetingRequests;
 }

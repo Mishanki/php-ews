@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\AcceptItemType.
+ * Contains \mishanki\PhpEws\Type\AcceptItemType.
  */
 
 namespace mishanki\PhpEws\Type;

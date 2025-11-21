@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\TransitionTargetKindType.
+ * Contains \mishanki\PhpEws\Enumeration\TransitionTargetKindType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

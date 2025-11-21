@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\UnsubscribeType.
+ * Contains \mishanki\PhpEws\Request\UnsubscribeType.
  */
 
 namespace mishanki\PhpEws\Request;

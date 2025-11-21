@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PersonaPhoneNumberType.
+ * Contains \mishanki\PhpEws\Type\PersonaPhoneNumberType.
  */
 
 namespace mishanki\PhpEws\Type;

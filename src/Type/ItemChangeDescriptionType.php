@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ItemChangeDescriptionType.
+ * Contains \mishanki\PhpEws\Type\ItemChangeDescriptionType.
  */
 
 namespace mishanki\PhpEws\Type;

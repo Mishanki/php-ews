@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\DeleteRuleOperationType.
+ * Contains \mishanki\PhpEws\Type\DeleteRuleOperationType.
  */
 
 namespace mishanki\PhpEws\Type;

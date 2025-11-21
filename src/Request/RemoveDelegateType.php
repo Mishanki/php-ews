@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\RemoveDelegateType.
+ * Contains \mishanki\PhpEws\Request\RemoveDelegateType.
  */
 
 namespace mishanki\PhpEws\Request;

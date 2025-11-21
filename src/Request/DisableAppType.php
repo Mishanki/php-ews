@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\DisableAppType.
+ * Contains \mishanki\PhpEws\Request\DisableAppType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -19,7 +19,7 @@ class DisableAppType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DisableReasonType
+     * @see \mishanki\PhpEws\Enumeration\DisableReasonType
      */
     public $DisableReason;
 

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\CopyFolderType.
+ * Contains \mishanki\PhpEws\Request\CopyFolderType.
  */
 
 namespace mishanki\PhpEws\Request;

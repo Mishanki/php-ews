@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\BaseDelegateType.
+ * Contains \mishanki\PhpEws\Request\BaseDelegateType.
  */
 
 namespace mishanki\PhpEws\Request;

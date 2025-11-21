@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfMailTipsResponseMessageType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfMailTipsResponseMessageType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

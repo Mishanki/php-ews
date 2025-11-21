@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetAppManifestsResponseType.
+ * Contains \mishanki\PhpEws\Response\GetAppManifestsResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

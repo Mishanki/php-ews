@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\WeeklyRecurrencePatternType.
+ * Contains \mishanki\PhpEws\Type\WeeklyRecurrencePatternType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -19,7 +19,7 @@ class WeeklyRecurrencePatternType extends IntervalRecurrencePatternBaseType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DaysOfWeekType
+     * @see \mishanki\PhpEws\Enumeration\DaysOfWeekType
      */
     public $DaysOfWeek;
 
@@ -30,7 +30,7 @@ class WeeklyRecurrencePatternType extends IntervalRecurrencePatternBaseType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DayOfWeekType
+     * @see \mishanki\PhpEws\Enumeration\DayOfWeekType
      */
     public $FirstDayOfWeek;
 }

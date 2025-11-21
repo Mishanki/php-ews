@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetConversationItemsType.
+ * Contains \mishanki\PhpEws\Request\GetConversationItemsType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -53,7 +53,7 @@ class GetConversationItemsType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MailboxSearchLocationType
+     * @see \mishanki\PhpEws\Enumeration\MailboxSearchLocationType
      */
     public $MailboxScope;
 
@@ -73,7 +73,7 @@ class GetConversationItemsType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ConversationNodeSortOrder
+     * @see \mishanki\PhpEws\Enumeration\ConversationNodeSortOrder
      */
     public $SortOrder;
 }

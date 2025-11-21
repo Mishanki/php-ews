@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetUserRetentionPolicyTagsType.
+ * Contains \mishanki\PhpEws\Request\GetUserRetentionPolicyTagsType.
  */
 
 namespace mishanki\PhpEws\Request;

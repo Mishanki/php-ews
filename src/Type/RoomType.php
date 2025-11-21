@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RoomType.
+ * Contains \mishanki\PhpEws\Type\RoomType.
  */
 
 namespace mishanki\PhpEws\Type;

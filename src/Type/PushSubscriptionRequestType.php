@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PushSubscriptionRequestType.
+ * Contains \mishanki\PhpEws\Type\PushSubscriptionRequestType.
  */
 
 namespace mishanki\PhpEws\Type;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\FileAsMappingType.
+ * Contains \mishanki\PhpEws\Enumeration\FileAsMappingType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

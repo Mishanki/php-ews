@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\SortDirectionType.
+ * Contains \mishanki\PhpEws\Enumeration\SortDirectionType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

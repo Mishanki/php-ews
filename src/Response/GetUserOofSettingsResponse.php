@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetUserOofSettingsResponse.
+ * Contains \mishanki\PhpEws\Response\GetUserOofSettingsResponse.
  */
 
 namespace mishanki\PhpEws\Response;
@@ -22,7 +22,7 @@ class GetUserOofSettingsResponse extends Response
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ExternalAudience
+     * @see \mishanki\PhpEws\Enumeration\ExternalAudience
      */
     public $AllowExternalOof;
 

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Client.
+ * Contains \mishanki\PhpEws\Client.
  */
 
 namespace mishanki\PhpEws;
@@ -112,7 +112,7 @@ class Client
     /**
      * SOAP client used to make the request.
      *
-     * @var null|\jamesiarmes\PhpNtlm\SoapClient
+     * @var null|\mishanki\PhpNtlm\SoapClient
      */
     protected $soap;
 
@@ -177,7 +177,7 @@ class Client
     /**
      * Returns the SOAP Client that may be used to make calls against the server
      *
-     * @return \jamesiarmes\PhpNtlm\SoapClient
+     * @return \mishanki\PhpNtlm\SoapClient
      */
     public function getClient()
     {
@@ -205,7 +205,7 @@ class Client
     /**
      * Sets the impersonation property
      *
-     * @param \jamesiarmes\PhpEws\Type\ExchangeImpersonationType $impersonation
+     * @param \mishanki\PhpEws\Type\ExchangeImpersonationType $impersonation
      */
     public function setImpersonation($impersonation)
     {
@@ -286,8 +286,8 @@ class Client
      *
      * @since Exchange 2007 SP1
      *
-     * @param \jamesiarmes\PhpEws\Request\AddDelegateType $request
-     * @return \jamesiarmes\PhpEws\Response\AddDelegateResponseMessageType
+     * @param \mishanki\PhpEws\Request\AddDelegateType $request
+     * @return \mishanki\PhpEws\Response\AddDelegateResponseMessageType
      */
     public function AddDelegate($request)
     {
@@ -300,8 +300,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\AddDistributionGroupToImListType $request
-     * @return \jamesiarmes\PhpEws\Response\AddDistributionGroupToImListResponseMessageType
+     * @param \mishanki\PhpEws\Request\AddDistributionGroupToImListType $request
+     * @return \mishanki\PhpEws\Response\AddDistributionGroupToImListResponseMessageType
      */
     public function AddDistributionGroupToImList($request)
     {
@@ -313,8 +313,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\AddImContactToGroup $request
-     * @return \jamesiarmes\PhpEws\Response\AddImContactToGroupResponseMessageType
+     * @param \mishanki\PhpEws\Request\AddImContactToGroup $request
+     * @return \mishanki\PhpEws\Response\AddImContactToGroupResponseMessageType
      */
     public function AddImContactToGroup($request)
     {
@@ -326,8 +326,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\AddImGroupType $request
-     * @return \jamesiarmes\PhpEws\Response\AddImGroupResponseMessageType
+     * @param \mishanki\PhpEws\Request\AddImGroupType $request
+     * @return \mishanki\PhpEws\Response\AddImGroupResponseMessageType
      */
     public function AddImGroup($request)
     {
@@ -339,8 +339,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\AddNewImContactToGroup $request
-     * @return \jamesiarmes\PhpEws\Response\AddNewImContactToGroupResponseMessageType
+     * @param \mishanki\PhpEws\Request\AddNewImContactToGroup $request
+     * @return \mishanki\PhpEws\Response\AddNewImContactToGroupResponseMessageType
      */
     public function AddNewImContactToGroup($request)
     {
@@ -352,8 +352,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\AddNewTelUriContactToGroupType $request
-     * @return \jamesiarmes\PhpEws\Response\AddNewTelUriContactToGroupResponse
+     * @param \mishanki\PhpEws\Request\AddNewTelUriContactToGroupType $request
+     * @return \mishanki\PhpEws\Response\AddNewTelUriContactToGroupResponse
      */
     public function AddNewTelUriContactToGroup($request)
     {
@@ -369,8 +369,8 @@ class Client
      *
      * @since Exchange 2010 SP1
      *
-     * @param \jamesiarmes\PhpEws\Request\ApplyConversationActionType $request
-     * @return \jamesiarmes\PhpEws\Response\ApplyConversationActionResponseType
+     * @param \mishanki\PhpEws\Request\ApplyConversationActionType $request
+     * @return \mishanki\PhpEws\Response\ApplyConversationActionResponseType
      */
     public function ApplyConversationAction($request)
     {
@@ -382,8 +382,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\ArchiveItemType $request
-     * @return \jamesiarmes\PhpEws\Response\ArchiveItemResponse
+     * @param \mishanki\PhpEws\Request\ArchiveItemType $request
+     * @return \mishanki\PhpEws\Response\ArchiveItemResponse
      */
     public function ArchiveItem($request)
     {
@@ -397,8 +397,8 @@ class Client
      *
      * @since Exchange 2007 SP1
      *
-     * @param \jamesiarmes\PhpEws\Request\ConvertIdType $request
-     * @return \jamesiarmes\PhpEws\Response\ConvertIdResponseType
+     * @param \mishanki\PhpEws\Request\ConvertIdType $request
+     * @return \mishanki\PhpEws\Response\ConvertIdResponseType
      */
     public function ConvertId($request)
     {
@@ -410,8 +410,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\CopyFolderType $request
-     * @return \jamesiarmes\PhpEws\Response\CopyFolderResponseType
+     * @param \mishanki\PhpEws\Request\CopyFolderType $request
+     * @return \mishanki\PhpEws\Response\CopyFolderResponseType
      */
     public function CopyFolder($request)
     {
@@ -423,8 +423,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\CopyItemType $request
-     * @return \jamesiarmes\PhpEws\Response\CopyItemResponseType
+     * @param \mishanki\PhpEws\Request\CopyItemType $request
+     * @return \mishanki\PhpEws\Response\CopyItemResponseType
      */
     public function CopyItem($request)
     {
@@ -437,8 +437,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\CreateAttachmentType $request
-     * @return \jamesiarmes\PhpEws\Response\CreateAttachmentResponseType
+     * @param \mishanki\PhpEws\Request\CreateAttachmentType $request
+     * @return \mishanki\PhpEws\Response\CreateAttachmentResponseType
      */
     public function CreateAttachment($request)
     {
@@ -451,8 +451,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\CreateFolderType $request
-     * @return \jamesiarmes\PhpEws\Response\CreateFolderResponseType
+     * @param \mishanki\PhpEws\Request\CreateFolderType $request
+     * @return \mishanki\PhpEws\Response\CreateFolderResponseType
      */
     public function CreateFolder($request)
     {
@@ -464,8 +464,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\CreateFolderPathType $request
-     * @return \jamesiarmes\PhpEws\Response\CreateFolderPathResponseType
+     * @param \mishanki\PhpEws\Request\CreateFolderPathType $request
+     * @return \mishanki\PhpEws\Response\CreateFolderPathResponseType
      */
     public function CreateFolderPath($request)
     {
@@ -477,8 +477,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\CreateItemType $request
-     * @return \jamesiarmes\PhpEws\Response\CreateItemResponseType
+     * @param \mishanki\PhpEws\Request\CreateItemType $request
+     * @return \mishanki\PhpEws\Response\CreateItemResponseType
      */
     public function CreateItem($request)
     {
@@ -490,8 +490,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\CreateManagedFolderRequestType $request
-     * @return \jamesiarmes\PhpEws\Response\CreateManagedFolderResponseType
+     * @param \mishanki\PhpEws\Request\CreateManagedFolderRequestType $request
+     * @return \mishanki\PhpEws\Response\CreateManagedFolderResponseType
      */
     public function CreateManagedFolder($request)
     {
@@ -503,8 +503,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\CreateUserConfigurationType $request
-     * @return \jamesiarmes\PhpEws\Response\CreateUserConfigurationResponseType
+     * @param \mishanki\PhpEws\Request\CreateUserConfigurationType $request
+     * @return \mishanki\PhpEws\Response\CreateUserConfigurationResponseType
      */
     public function CreateUserConfiguration($request)
     {
@@ -517,8 +517,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\DeleteAttachmentType $request
-     * @return \jamesiarmes\PhpEws\Response\DeleteAttachmentResponseType
+     * @param \mishanki\PhpEws\Request\DeleteAttachmentType $request
+     * @return \mishanki\PhpEws\Response\DeleteAttachmentResponseType
      */
     public function DeleteAttachment($request)
     {
@@ -530,8 +530,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\DeleteFolderType $request
-     * @return \jamesiarmes\PhpEws\Response\DeleteFolderResponseType
+     * @param \mishanki\PhpEws\Request\DeleteFolderType $request
+     * @return \mishanki\PhpEws\Response\DeleteFolderResponseType
      */
     public function DeleteFolder($request)
     {
@@ -543,8 +543,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\DeleteItemType $request
-     * @return \jamesiarmes\PhpEws\Response\DeleteItemResponseType
+     * @param \mishanki\PhpEws\Request\DeleteItemType $request
+     * @return \mishanki\PhpEws\Response\DeleteItemResponseType
      */
     public function DeleteItem($request)
     {
@@ -556,8 +556,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\DeleteUserConfigurationType $request
-     * @return \jamesiarmes\PhpEws\Response\DeleteUserConfigurationResponseType
+     * @param \mishanki\PhpEws\Request\DeleteUserConfigurationType $request
+     * @return \mishanki\PhpEws\Response\DeleteUserConfigurationResponseType
      */
     public function DeleteUserConfiguration($request)
     {
@@ -569,8 +569,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\DisableAppType $request
-     * @return \jamesiarmes\PhpEws\Response\DisableAppResponseType
+     * @param \mishanki\PhpEws\Request\DisableAppType $request
+     * @return \mishanki\PhpEws\Response\DisableAppResponseType
      */
     public function DisableApp($request)
     {
@@ -582,8 +582,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\DisconnectPhoneCallType $request
-     * @return \jamesiarmes\PhpEws\Response\DisconnectPhoneCallResponseMessageType
+     * @param \mishanki\PhpEws\Request\DisconnectPhoneCallType $request
+     * @return \mishanki\PhpEws\Response\DisconnectPhoneCallResponseMessageType
      */
     public function DisconnectPhoneCall($request)
     {
@@ -599,8 +599,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\EmptyFolderType $request
-     * @return \jamesiarmes\PhpEws\Response\EmptyFolderResponseType
+     * @param \mishanki\PhpEws\Request\EmptyFolderType $request
+     * @return \mishanki\PhpEws\Response\EmptyFolderResponseType
      */
     public function EmptyFolder($request)
     {
@@ -612,8 +612,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\ExpandDLType $request
-     * @return \jamesiarmes\PhpEws\Response\ExpandDLResponseType
+     * @param \mishanki\PhpEws\Request\ExpandDLType $request
+     * @return \mishanki\PhpEws\Response\ExpandDLResponseType
      */
     public function ExpandDL($request)
     {
@@ -625,8 +625,8 @@ class Client
      *
      * @since Exchange 2010 SP1
      *
-     * @param \jamesiarmes\PhpEws\Request\ExportItemsType $request
-     * @return \jamesiarmes\PhpEws\Response\ExportItemsResponseType
+     * @param \mishanki\PhpEws\Request\ExportItemsType $request
+     * @return \mishanki\PhpEws\Response\ExportItemsResponseType
      */
     public function ExportItems($request)
     {
@@ -636,8 +636,8 @@ class Client
     /**
      * Enumerates a list of conversations in a folder.
      *
-     * @param \jamesiarmes\PhpEws\Request\FindConversationType $request
-     * @return \jamesiarmes\PhpEws\Response\FindConversationResponseMessageType
+     * @param \mishanki\PhpEws\Request\FindConversationType $request
+     * @return \mishanki\PhpEws\Response\FindConversationResponseMessageType
      */
     public function FindConversation($request)
     {
@@ -650,8 +650,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\FindFolderType $request
-     * @return \jamesiarmes\PhpEws\Response\FindFolderResponseType
+     * @param \mishanki\PhpEws\Request\FindFolderType $request
+     * @return \mishanki\PhpEws\Response\FindFolderResponseType
      */
     public function FindFolder($request)
     {
@@ -666,8 +666,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\FindItemType $request
-     * @return \jamesiarmes\PhpEws\Response\FindItemResponseType
+     * @param \mishanki\PhpEws\Request\FindItemType $request
+     * @return \mishanki\PhpEws\Response\FindItemResponseType
      */
     public function FindItem($request)
     {
@@ -679,8 +679,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\FindMessageTrackingReportRequestType $request
-     * @return \jamesiarmes\PhpEws\Response\FindMessageTrackingReportResponseMessageType
+     * @param \mishanki\PhpEws\Request\FindMessageTrackingReportRequestType $request
+     * @return \mishanki\PhpEws\Response\FindMessageTrackingReportResponseMessageType
      */
     public function FindMessageTrackingReport($request)
     {
@@ -693,8 +693,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\FindPeopleType $request
-     * @return \jamesiarmes\PhpEws\Response\FindPeopleResponseMessageType
+     * @param \mishanki\PhpEws\Request\FindPeopleType $request
+     * @return \mishanki\PhpEws\Response\FindPeopleResponseMessageType
      */
     public function FindPeople($request)
     {
@@ -706,8 +706,8 @@ class Client
      *
      * @since Exchange 2013 SP1
      *
-     * @param \jamesiarmes\PhpEws\Request\GetAppManifestsType $request
-     * @return \jamesiarmes\PhpEws\Response\GetAppManifestsResponseType
+     * @param \mishanki\PhpEws\Request\GetAppManifestsType $request
+     * @return \mishanki\PhpEws\Response\GetAppManifestsResponseType
      */
     public function GetAppManifests($request)
     {
@@ -720,8 +720,8 @@ class Client
      *
      * @since Exchange 2013 SP1
      *
-     * @param \jamesiarmes\PhpEws\Request\GetAppMarketplaceUrl $request
-     * @return \jamesiarmes\PhpEws\Response\GetAppMarketplaceUrlResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetAppMarketplaceUrl $request
+     * @return \mishanki\PhpEws\Response\GetAppMarketplaceUrlResponseMessageType
      */
     public function GetAppMarketplaceUrl($request)
     {
@@ -733,8 +733,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\GetAttachmentType $request
-     * @return \jamesiarmes\PhpEws\Response\GetAttachmentResponseType
+     * @param \mishanki\PhpEws\Request\GetAttachmentType $request
+     * @return \mishanki\PhpEws\Response\GetAttachmentResponseType
      */
     public function GetAttachment($request)
     {
@@ -746,8 +746,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\GetClientAccessTokenType $request
-     * @return \jamesiarmes\PhpEws\Response\GetClientAccessTokenResponseType
+     * @param \mishanki\PhpEws\Request\GetClientAccessTokenType $request
+     * @return \mishanki\PhpEws\Response\GetClientAccessTokenResponseType
      */
     public function GetClientAccessToken($request)
     {
@@ -760,8 +760,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\GetConversationItemsType $request
-     * @return \jamesiarmes\PhpEws\Response\GetConversationItemsResponseType
+     * @param \mishanki\PhpEws\Request\GetConversationItemsType $request
+     * @return \mishanki\PhpEws\Response\GetConversationItemsResponseType
      */
     public function GetConversationItems($request)
     {
@@ -773,8 +773,8 @@ class Client
      *
      * @since Exchange 2007 SP1
      *
-     * @param \jamesiarmes\PhpEws\Request\GetDelegateType $request
-     * @return \jamesiarmes\PhpEws\Response\GetDelegateResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetDelegateType $request
+     * @return \mishanki\PhpEws\Response\GetDelegateResponseMessageType
      */
     public function GetDelegate($request)
     {
@@ -787,8 +787,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\GetDiscoverySearchConfigurationType $request
-     * @return \jamesiarmes\PhpEws\Response\GetDiscoverySearchConfigurationResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetDiscoverySearchConfigurationType $request
+     * @return \mishanki\PhpEws\Response\GetDiscoverySearchConfigurationResponseMessageType
      */
     public function GetDiscoverySearchConfiguration($request)
     {
@@ -804,8 +804,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\GetEventsType $request
-     * @return \jamesiarmes\PhpEws\Response\GetEventsResponseType
+     * @param \mishanki\PhpEws\Request\GetEventsType $request
+     * @return \mishanki\PhpEws\Response\GetEventsResponseType
      */
     public function GetEvents($request)
     {
@@ -817,8 +817,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\GetFolderType $request
-     * @return \jamesiarmes\PhpEws\Response\GetFolderResponseType
+     * @param \mishanki\PhpEws\Request\GetFolderType $request
+     * @return \mishanki\PhpEws\Response\GetFolderResponseType
      */
     public function GetFolder($request)
     {
@@ -831,8 +831,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\GetHoldOnMailboxesType $request
-     * @return \jamesiarmes\PhpEws\Response\GetHoldOnMailboxesResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetHoldOnMailboxesType $request
+     * @return \mishanki\PhpEws\Response\GetHoldOnMailboxesResponseMessageType
      */
     public function GetHoldOnMailboxes($request)
     {
@@ -845,8 +845,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\GetImItemListType $request
-     * @return \jamesiarmes\PhpEws\Response\GetImItemListResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetImItemListType $request
+     * @return \mishanki\PhpEws\Response\GetImItemListResponseMessageType
      */
     public function GetImItemList($request)
     {
@@ -859,8 +859,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\GetImItemsType $request
-     * @return \jamesiarmes\PhpEws\Response\GetImItemsResponse
+     * @param \mishanki\PhpEws\Request\GetImItemsType $request
+     * @return \mishanki\PhpEws\Response\GetImItemsResponse
      */
     public function GetImItems($request)
     {
@@ -872,8 +872,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\GetInboxRulesRequestType $request
-     * @return \jamesiarmes\PhpEws\Response\GetInboxRulesResponseType
+     * @param \mishanki\PhpEws\Request\GetInboxRulesRequestType $request
+     * @return \mishanki\PhpEws\Response\GetInboxRulesResponseType
      */
     public function GetInboxRules($request)
     {
@@ -885,8 +885,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\GetItemType $request
-     * @return \jamesiarmes\PhpEws\Response\GetItemResponseType
+     * @param \mishanki\PhpEws\Request\GetItemType $request
+     * @return \mishanki\PhpEws\Response\GetItemResponseType
      */
     public function GetItem($request)
     {
@@ -898,8 +898,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\GetMailTipsType $request
-     * @return \jamesiarmes\PhpEws\Response\GetMailTipsResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetMailTipsType $request
+     * @return \mishanki\PhpEws\Response\GetMailTipsResponseMessageType
      */
     public function GetMailTips($request)
     {
@@ -911,8 +911,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\GetMessageTrackingReportRequestType $request
-     * @return \jamesiarmes\PhpEws\Response\GetMessageTrackingReportResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetMessageTrackingReportRequestType $request
+     * @return \mishanki\PhpEws\Response\GetMessageTrackingReportResponseMessageType
      */
     public function GetMessageTrackingReport($request)
     {
@@ -928,8 +928,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\GetNonIndexableItemDetailsType $request
-     * @return \jamesiarmes\PhpEws\Response\GetNonIndexableItemDetailsResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetNonIndexableItemDetailsType $request
+     * @return \mishanki\PhpEws\Response\GetNonIndexableItemDetailsResponseMessageType
      */
     public function GetNonIndexableItemDetails($request)
     {
@@ -941,8 +941,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\GetNonIndexableItemStatisticsType $request
-     * @return \jamesiarmes\PhpEws\Response\GetNonIndexableItemStatisticsResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetNonIndexableItemStatisticsType $request
+     * @return \mishanki\PhpEws\Response\GetNonIndexableItemStatisticsResponseMessageType
      */
     public function GetNonIndexableItemStatistics($request)
     {
@@ -954,8 +954,8 @@ class Client
      *
      * @since Exchange 2010 SP2
      *
-     * @param \jamesiarmes\PhpEws\Request\GetPasswordExpirationDateType $request
-     * @return \jamesiarmes\PhpEws\Response\GetPasswordExpirationDateResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetPasswordExpirationDateType $request
+     * @return \mishanki\PhpEws\Response\GetPasswordExpirationDateResponseMessageType
      */
     public function GetPasswordExpirationDate($request)
     {
@@ -967,8 +967,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\GetPersonaType $request
-     * @return \jamesiarmes\PhpEws\Response\GetPersonaResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetPersonaType $request
+     * @return \mishanki\PhpEws\Response\GetPersonaResponseMessageType
      */
     public function GetPersona($request)
     {
@@ -980,8 +980,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\GetPhoneCallInformationType $request
-     * @return \jamesiarmes\PhpEws\Response\GetPhoneCallInformationResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetPhoneCallInformationType $request
+     * @return \mishanki\PhpEws\Response\GetPhoneCallInformationResponseMessageType
      */
     public function GetPhoneCallInformation($request)
     {
@@ -993,8 +993,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\GetRemindersType $request
-     * @return \jamesiarmes\PhpEws\Response\GetRemindersResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetRemindersType $request
+     * @return \mishanki\PhpEws\Response\GetRemindersResponseMessageType
      */
     public function GetReminders($request)
     {
@@ -1007,8 +1007,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\GetRoomListsType $request
-     * @return \jamesiarmes\PhpEws\Response\GetRoomListsResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetRoomListsType $request
+     * @return \mishanki\PhpEws\Response\GetRoomListsResponseMessageType
      */
     public function GetRoomLists($request)
     {
@@ -1020,8 +1020,8 @@ class Client
      *
      * @since Exchange 2010 SP1
      *
-     * @param \jamesiarmes\PhpEws\Request\GetRoomsType $request
-     * @return \jamesiarmes\PhpEws\Response\GetRoomsResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetRoomsType $request
+     * @return \mishanki\PhpEws\Response\GetRoomsResponseMessageType
      */
     public function GetRooms($request)
     {
@@ -1037,8 +1037,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\GetSearchableMailboxesType $request
-     * @return \jamesiarmes\PhpEws\Response\GetSearchableMailboxesResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetSearchableMailboxesType $request
+     * @return \mishanki\PhpEws\Response\GetSearchableMailboxesResponseMessageType
      */
     public function GetSearchableMailboxes($request)
     {
@@ -1050,8 +1050,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\GetServerTimeZonesType $request
-     * @return \jamesiarmes\PhpEws\Response\GetServerTimeZonesResponseType
+     * @param \mishanki\PhpEws\Request\GetServerTimeZonesType $request
+     * @return \mishanki\PhpEws\Response\GetServerTimeZonesResponseType
      */
     public function GetServerTimeZones($request)
     {
@@ -1066,8 +1066,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\GetServiceConfigurationType $request
-     * @return \jamesiarmes\PhpEws\Response\GetServiceConfigurationResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetServiceConfigurationType $request
+     * @return \mishanki\PhpEws\Response\GetServiceConfigurationResponseMessageType
      */
     public function GetServiceConfiguration($request)
     {
@@ -1079,8 +1079,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\GetSharingFolderType $request
-     * @return \jamesiarmes\PhpEws\Response\GetSharingFolderResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetSharingFolderType $request
+     * @return \mishanki\PhpEws\Response\GetSharingFolderResponseMessageType
      */
     public function GetSharingFolder($request)
     {
@@ -1092,8 +1092,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\GetSharingMetadataType $request
-     * @return \jamesiarmes\PhpEws\Response\GetSharingMetadataResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetSharingMetadataType $request
+     * @return \mishanki\PhpEws\Response\GetSharingMetadataResponseMessageType
      */
     public function GetSharingMetadata($request)
     {
@@ -1108,8 +1108,8 @@ class Client
      *
      * @since Exchange 2010 SP1
      *
-     * @param \jamesiarmes\PhpEws\Request\GetStreamingEventsType $request
-     * @return \jamesiarmes\PhpEws\Response\GetStreamingEventsResponseType
+     * @param \mishanki\PhpEws\Request\GetStreamingEventsType $request
+     * @return \mishanki\PhpEws\Response\GetStreamingEventsResponseType
      */
     public function GetStreamingEvents($request)
     {
@@ -1122,8 +1122,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\GetUserAvailabilityRequestType $request
-     * @return \jamesiarmes\PhpEws\Response\GetUserAvailabilityResponseType
+     * @param \mishanki\PhpEws\Request\GetUserAvailabilityRequestType $request
+     * @return \mishanki\PhpEws\Response\GetUserAvailabilityResponseType
      */
     public function GetUserAvailability($request)
     {
@@ -1135,8 +1135,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\GetUserConfigurationType $request
-     * @return \jamesiarmes\PhpEws\Response\GetUserConfigurationResponseType
+     * @param \mishanki\PhpEws\Request\GetUserConfigurationType $request
+     * @return \mishanki\PhpEws\Response\GetUserConfigurationResponseType
      */
     public function GetUserConfiguration($request)
     {
@@ -1148,8 +1148,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\GetUserOofSettingsRequest $request
-     * @return \jamesiarmes\PhpEws\Response\GetUserOofSettingsResponse
+     * @param \mishanki\PhpEws\Request\GetUserOofSettingsRequest $request
+     * @return \mishanki\PhpEws\Response\GetUserOofSettingsResponse
      */
     public function GetUserOofSettings($request)
     {
@@ -1161,8 +1161,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\GetUserPhotoType $request
-     * @return \jamesiarmes\PhpEws\Response\GetUserPhotoResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetUserPhotoType $request
+     * @return \mishanki\PhpEws\Response\GetUserPhotoResponseMessageType
      */
     public function GetUserPhoto($request)
     {
@@ -1176,8 +1176,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\GetUserRetentionPolicyTagsType $request
-     * @return \jamesiarmes\PhpEws\Response\GetUserRetentionPolicyTagsResponseMessageType
+     * @param \mishanki\PhpEws\Request\GetUserRetentionPolicyTagsType $request
+     * @return \mishanki\PhpEws\Response\GetUserRetentionPolicyTagsResponseMessageType
      */
     public function GetUserRetentionPolicyTags($request)
     {
@@ -1189,8 +1189,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\InstallAppType $request
-     * @return \jamesiarmes\PhpEws\Response\InstallAppResponseType
+     * @param \mishanki\PhpEws\Request\InstallAppType $request
+     * @return \mishanki\PhpEws\Response\InstallAppResponseType
      */
     public function InstallApp($request)
     {
@@ -1203,8 +1203,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\MarkAllItemsAsRead $request
-     * @return \jamesiarmes\PhpEws\Response\MarkAllItemsAsReadResponseType
+     * @param \mishanki\PhpEws\Request\MarkAllItemsAsRead $request
+     * @return \mishanki\PhpEws\Response\MarkAllItemsAsReadResponseType
      */
     public function MarkAllItemsAsRead($request)
     {
@@ -1217,8 +1217,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\MarkAsJunkType $request
-     * @return \jamesiarmes\PhpEws\Response\MarkAsJunkResponseType
+     * @param \mishanki\PhpEws\Request\MarkAsJunkType $request
+     * @return \mishanki\PhpEws\Response\MarkAsJunkResponseType
      */
     public function MarkAsJunk($request)
     {
@@ -1230,8 +1230,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\MoveFolderType $request
-     * @return \jamesiarmes\PhpEws\Response\MoveFolderResponseType
+     * @param \mishanki\PhpEws\Request\MoveFolderType $request
+     * @return \mishanki\PhpEws\Response\MoveFolderResponseType
      */
     public function MoveFolder($request)
     {
@@ -1243,8 +1243,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\MoveItemType $request
-     * @return \jamesiarmes\PhpEws\Response\MoveItemResponseType
+     * @param \mishanki\PhpEws\Request\MoveItemType $request
+     * @return \mishanki\PhpEws\Response\MoveItemResponseType
      */
     public function MoveItem($request)
     {
@@ -1256,8 +1256,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\PerformReminderActionType $request
-     * @return \jamesiarmes\PhpEws\Response\PerformReminderActionResponseMessageType
+     * @param \mishanki\PhpEws\Request\PerformReminderActionType $request
+     * @return \mishanki\PhpEws\Response\PerformReminderActionResponseMessageType
      */
     public function PerformReminderAction($request)
     {
@@ -1269,8 +1269,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\PlayOnPhoneType $request
-     * @return \jamesiarmes\PhpEws\Response\PlayOnPhoneResponseMessageType
+     * @param \mishanki\PhpEws\Request\PlayOnPhoneType $request
+     * @return \mishanki\PhpEws\Response\PlayOnPhoneResponseMessageType
      */
     public function PlayOnPhone($request)
     {
@@ -1283,8 +1283,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\RefreshSharingFolderType $request
-     * @return \jamesiarmes\PhpEws\Response\RefreshSharingFolderResponseMessageType
+     * @param \mishanki\PhpEws\Request\RefreshSharingFolderType $request
+     * @return \mishanki\PhpEws\Response\RefreshSharingFolderResponseMessageType
      */
     public function RefreshSharingFolder($request)
     {
@@ -1297,8 +1297,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\RemoveContactFromImListType $request
-     * @return \jamesiarmes\PhpEws\Response\RemoveContactFromImListResponseMessageType
+     * @param \mishanki\PhpEws\Request\RemoveContactFromImListType $request
+     * @return \mishanki\PhpEws\Response\RemoveContactFromImListResponseMessageType
      */
     public function RemoveContactFromImList($request)
     {
@@ -1310,8 +1310,8 @@ class Client
      *
      * @since Exchange 2007 SP1
      *
-     * @param \jamesiarmes\PhpEws\Request\RemoveDelegateType $request
-     * @return \jamesiarmes\PhpEws\Response\RemoveDelegateResponseMessageType
+     * @param \mishanki\PhpEws\Request\RemoveDelegateType $request
+     * @return \mishanki\PhpEws\Response\RemoveDelegateResponseMessageType
      */
     public function RemoveDelegate($request)
     {
@@ -1324,8 +1324,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\RemoveDistributionGroupFromImListType $request
-     * @return \jamesiarmes\PhpEws\Response\RemoveDistributionGroupFromImListResponseMessageType
+     * @param \mishanki\PhpEws\Request\RemoveDistributionGroupFromImListType $request
+     * @return \mishanki\PhpEws\Response\RemoveDistributionGroupFromImListResponseMessageType
      */
     public function RemoveDistributionGroupFromImList($request)
     {
@@ -1337,8 +1337,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\RemoveImContactFromGroupType $request
-     * @return \jamesiarmes\PhpEws\Response\RemoveImContactFromGroupResponseMessageType
+     * @param \mishanki\PhpEws\Request\RemoveImContactFromGroupType $request
+     * @return \mishanki\PhpEws\Response\RemoveImContactFromGroupResponseMessageType
      */
     public function RemoveImContactFromGroup($request)
     {
@@ -1350,8 +1350,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\RemoveImGroupType $request
-     * @return \jamesiarmes\PhpEws\Response\RemoveImGroupResponseMessageType
+     * @param \mishanki\PhpEws\Request\RemoveImGroupType $request
+     * @return \mishanki\PhpEws\Response\RemoveImGroupResponseMessageType
      */
     public function RemoveImGroup($request)
     {
@@ -1363,8 +1363,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\ResolveNamesType $request
-     * @return \jamesiarmes\PhpEws\Response\ResolveNamesResponseType
+     * @param \mishanki\PhpEws\Request\ResolveNamesType $request
+     * @return \mishanki\PhpEws\Response\ResolveNamesResponseType
      */
     public function ResolveNames($request)
     {
@@ -1376,8 +1376,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\SearchMailboxesType $request
-     * @return \jamesiarmes\PhpEws\Response\SearchMailboxesResponseType
+     * @param \mishanki\PhpEws\Request\SearchMailboxesType $request
+     * @return \mishanki\PhpEws\Response\SearchMailboxesResponseType
      */
     public function SearchMailboxes($request)
     {
@@ -1389,8 +1389,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\SendItemType $request
-     * @return \jamesiarmes\PhpEws\Response\SendItemResponseType
+     * @param \mishanki\PhpEws\Request\SendItemType $request
+     * @return \mishanki\PhpEws\Response\SendItemResponseType
      */
     public function SendItem($request)
     {
@@ -1402,8 +1402,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\SetHoldOnMailboxesType $request
-     * @return \jamesiarmes\PhpEws\Response\SetHoldOnMailboxesResponseMessageType
+     * @param \mishanki\PhpEws\Request\SetHoldOnMailboxesType $request
+     * @return \mishanki\PhpEws\Response\SetHoldOnMailboxesResponseMessageType
      */
     public function SetHoldOnMailboxes($request)
     {
@@ -1415,8 +1415,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\SetImGroupType $request
-     * @return \jamesiarmes\PhpEws\Response\SetImGroupResponseMessageType
+     * @param \mishanki\PhpEws\Request\SetImGroupType $request
+     * @return \mishanki\PhpEws\Response\SetImGroupResponseMessageType
      */
     public function SetImGroup($request)
     {
@@ -1428,8 +1428,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\SetUserOofSettingsRequest $request
-     * @return \jamesiarmes\PhpEws\Response\SetUserOofSettingsResponse
+     * @param \mishanki\PhpEws\Request\SetUserOofSettingsRequest $request
+     * @return \mishanki\PhpEws\Response\SetUserOofSettingsResponse
      */
     public function SetUserOofSettings($request)
     {
@@ -1444,8 +1444,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\SubscribeType $request
-     * @return \jamesiarmes\PhpEws\Response\SubscribeResponseType
+     * @param \mishanki\PhpEws\Request\SubscribeType $request
+     * @return \mishanki\PhpEws\Response\SubscribeResponseType
      */
     public function Subscribe($request)
     {
@@ -1458,8 +1458,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\SyncFolderHierarchyType $request
-     * @return \jamesiarmes\PhpEws\Response\SyncFolderHierarchyResponseType
+     * @param \mishanki\PhpEws\Request\SyncFolderHierarchyType $request
+     * @return \mishanki\PhpEws\Response\SyncFolderHierarchyResponseType
      */
     public function SyncFolderHierarchy($request)
     {
@@ -1471,8 +1471,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\SyncFolderItemsType $request
-     * @return \jamesiarmes\PhpEws\Response\SyncFolderItemsResponseType
+     * @param \mishanki\PhpEws\Request\SyncFolderItemsType $request
+     * @return \mishanki\PhpEws\Response\SyncFolderItemsResponseType
      */
     public function SyncFolderItems($request)
     {
@@ -1484,8 +1484,8 @@ class Client
      *
      * @since Exchange 2013
      *
-     * @param \jamesiarmes\PhpEws\Request\UninstallAppType $request
-     * @return \jamesiarmes\PhpEws\Response\UninstallAppResponseType
+     * @param \mishanki\PhpEws\Request\UninstallAppType $request
+     * @return \mishanki\PhpEws\Response\UninstallAppResponseType
      */
     public function UninstallApp($request)
     {
@@ -1500,8 +1500,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\UnsubscribeType $request
-     * @return \jamesiarmes\PhpEws\Response\UnsubscribeResponseType
+     * @param \mishanki\PhpEws\Request\UnsubscribeType $request
+     * @return \mishanki\PhpEws\Response\UnsubscribeResponseType
      */
     public function Unsubscribe($request)
     {
@@ -1513,8 +1513,8 @@ class Client
      *
      * @since Exchange 2007 SP1
      *
-     * @param \jamesiarmes\PhpEws\Request\UpdateDelegateType $request
-     * @return \jamesiarmes\PhpEws\Response\UpdateDelegateResponseMessageType
+     * @param \mishanki\PhpEws\Request\UpdateDelegateType $request
+     * @return \mishanki\PhpEws\Response\UpdateDelegateResponseMessageType
      */
     public function UpdateDelegate($request)
     {
@@ -1533,8 +1533,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\UpdateFolderType $request
-     * @return \jamesiarmes\PhpEws\Response\UpdateFolderResponseType
+     * @param \mishanki\PhpEws\Request\UpdateFolderType $request
+     * @return \mishanki\PhpEws\Response\UpdateFolderResponseType
      */
     public function UpdateFolder($request)
     {
@@ -1550,8 +1550,8 @@ class Client
      *
      * @since Exchange 2010 SP1
      *
-     * @param \jamesiarmes\PhpEws\Request\UpdateInboxRulesRequestType $request
-     * @return \jamesiarmes\PhpEws\Response\UpdateInboxRulesResponseType
+     * @param \mishanki\PhpEws\Request\UpdateInboxRulesRequestType $request
+     * @return \mishanki\PhpEws\Response\UpdateInboxRulesResponseType
      */
     public function UpdateInboxRules($request)
     {
@@ -1563,8 +1563,8 @@ class Client
      *
      * @since Exchange 2007
      *
-     * @param \jamesiarmes\PhpEws\Request\UpdateItemType $request
-     * @return \jamesiarmes\PhpEws\Response\UpdateItemResponseType
+     * @param \mishanki\PhpEws\Request\UpdateItemType $request
+     * @return \mishanki\PhpEws\Response\UpdateItemResponseType
      */
     public function UpdateItem($request)
     {
@@ -1576,8 +1576,8 @@ class Client
      *
      * @since Exchange 2010
      *
-     * @param \jamesiarmes\PhpEws\Request\UpdateUserConfigurationType $request
-     * @return \jamesiarmes\PhpEws\Response\UpdateUserConfigurationResponseType
+     * @param \mishanki\PhpEws\Request\UpdateUserConfigurationType $request
+     * @return \mishanki\PhpEws\Response\UpdateUserConfigurationResponseType
      */
     public function UpdateUserConfiguration($request)
     {
@@ -1589,8 +1589,8 @@ class Client
      *
      * @since Exchange 2010 SP1
      *
-     * @param \jamesiarmes\PhpEws\Request\UploadItemsType $request
-     * @return \jamesiarmes\PhpEws\Response\UploadItemsResponseType
+     * @param \mishanki\PhpEws\Request\UploadItemsType $request
+     * @return \mishanki\PhpEws\Response\UploadItemsResponseType
      */
     public function UploadItems($request)
     {
@@ -1600,7 +1600,7 @@ class Client
     /**
      * Initializes the SoapClient object to make a request
      *
-     * @return \jamesiarmes\PhpNtlm\SoapClient
+     * @return \mishanki\PhpNtlm\SoapClient
      */
     protected function initializeSoapClient()
     {
@@ -1624,7 +1624,7 @@ class Client
      *
      * @return string[]
      *
-     * @see \jamesiarmes\PhpEws\ClassMap::getMap()
+     * @see \mishanki\PhpEws\ClassMap::getMap()
      */
     protected function classMap()
     {
@@ -1638,9 +1638,9 @@ class Client
      *
      * @param string $operation
      *   The operation to be called.
-     * @param \jamesiarmes\PhpEws\Request $request
+     * @param \mishanki\PhpEws\Request $request
      *   The request object for the operation.
-     * @return \jamesiarmes\PhpEws\Response
+     * @return \mishanki\PhpEws\Response
      *   The response object for the operation.
      *
      * @suppress PhanTypeMismatchReturn

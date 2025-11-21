@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SyncFolderHierarchyCreateOrUpdateType.
+ * Contains \mishanki\PhpEws\Type\SyncFolderHierarchyCreateOrUpdateType.
  */
 
 namespace mishanki\PhpEws\Type;

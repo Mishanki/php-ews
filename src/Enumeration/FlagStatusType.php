@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\FlagStatusType.
+ * Contains \mishanki\PhpEws\Enumeration\FlagStatusType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

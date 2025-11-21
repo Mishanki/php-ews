@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfResponseMessagesType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfResponseMessagesType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

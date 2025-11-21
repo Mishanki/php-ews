@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\BodyTypeType.
+ * Contains \mishanki\PhpEws\Enumeration\BodyTypeType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

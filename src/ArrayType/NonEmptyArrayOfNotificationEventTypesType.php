@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfNotificationEventTypesType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfNotificationEventTypesType.
  */
 
 namespace mishanki\PhpEws\ArrayType;
@@ -23,7 +23,7 @@ class NonEmptyArrayOfNotificationEventTypesType extends ArrayType
      *
      * @var string[]
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\NotificationEventTypeType[]
+     * @see \mishanki\PhpEws\Enumeration\NotificationEventTypeType[]
      */
     public $EventType = array();
 }

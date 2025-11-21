@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfServiceConfigurationType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfServiceConfigurationType.
  */
 
 namespace mishanki\PhpEws\ArrayType;
@@ -21,7 +21,7 @@ class ArrayOfServiceConfigurationType extends ArrayType
      *
      * @var string[]
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ServiceConfigurationType[]
+     * @see \mishanki\PhpEws\Enumeration\ServiceConfigurationType[]
      */
     public $ConfigurationName = array();
 }

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetPasswordExpirationDateType.
+ * Contains \mishanki\PhpEws\Request\GetPasswordExpirationDateType.
  */
 
 namespace mishanki\PhpEws\Request;

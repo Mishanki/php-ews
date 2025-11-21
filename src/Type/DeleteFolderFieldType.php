@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\DeleteFolderFieldType.
+ * Contains \mishanki\PhpEws\Type\DeleteFolderFieldType.
  */
 
 namespace mishanki\PhpEws\Type;

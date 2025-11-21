@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\BodyContentAttributedValueType.
+ * Contains \mishanki\PhpEws\Type\BodyContentAttributedValueType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -32,7 +32,7 @@ class BodyContentAttributedValueType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\BodyTypeResponseType
+     * @see \mishanki\PhpEws\Enumeration\BodyTypeResponseType
      */
     public $Value;
 }

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\AddNewTelUriContactToGroupResponse.
+ * Contains \mishanki\PhpEws\Response\AddNewTelUriContactToGroupResponse.
  */
 
 namespace mishanki\PhpEws\Response;

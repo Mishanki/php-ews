@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\UserConfigurationDictionaryType.
+ * Contains \mishanki\PhpEws\Type\UserConfigurationDictionaryType.
  */
 
 namespace mishanki\PhpEws\Type;

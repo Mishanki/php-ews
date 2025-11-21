@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\CalendarItemUpdateOperationType.
+ * Contains \mishanki\PhpEws\Enumeration\CalendarItemUpdateOperationType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

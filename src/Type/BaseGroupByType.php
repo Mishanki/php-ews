@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\BaseGroupByType.
+ * Contains \mishanki\PhpEws\Type\BaseGroupByType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -22,7 +22,7 @@ abstract class BaseGroupByType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\SortDirectionType
+     * @see \mishanki\PhpEws\Enumeration\SortDirectionType
      */
     public $Order;
 }

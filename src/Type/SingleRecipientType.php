@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SingleRecipientType.
+ * Contains \mishanki\PhpEws\Type\SingleRecipientType.
  */
 
 namespace mishanki\PhpEws\Type;

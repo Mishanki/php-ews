@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\StringType;
+ * Contains \mishanki\PhpEws\Type\StringType;
  */
 
 namespace mishanki\PhpEws\Type;

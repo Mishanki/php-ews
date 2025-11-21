@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\SharingDataType.
+ * Contains \mishanki\PhpEws\Enumeration\SharingDataType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

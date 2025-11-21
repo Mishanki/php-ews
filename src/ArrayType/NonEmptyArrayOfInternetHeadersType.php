@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfInternetHeadersType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfInternetHeadersType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

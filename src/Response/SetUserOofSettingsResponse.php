@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\SetUserOofSettingsResponse.
+ * Contains \mishanki\PhpEws\Response\SetUserOofSettingsResponse.
  */
 
 namespace mishanki\PhpEws\Response;

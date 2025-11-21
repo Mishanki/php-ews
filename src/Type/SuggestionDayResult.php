@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SuggestionDayResult.
+ * Contains \mishanki\PhpEws\Type\SuggestionDayResult.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -33,7 +33,7 @@ class SuggestionDayResult extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\SuggestionQuality
+     * @see \mishanki\PhpEws\Enumeration\SuggestionQuality
      */
     public $DayQuality;
 

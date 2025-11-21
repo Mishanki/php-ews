@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\TrackingPropertyType.
+ * Contains \mishanki\PhpEws\Type\TrackingPropertyType.
  */
 
 namespace mishanki\PhpEws\Type;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\BodyTypeResponseType.
+ * Contains \mishanki\PhpEws\Enumeration\BodyTypeResponseType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\AppMetadata.
+ * Contains \mishanki\PhpEws\Type\AppMetadata.
  */
 
 namespace mishanki\PhpEws\Type;

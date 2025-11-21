@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\WorkingPeriod.
+ * Contains \mishanki\PhpEws\Type\WorkingPeriod.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -21,7 +21,7 @@ class WorkingPeriod extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DaysOfWeekType
+     * @see \mishanki\PhpEws\Enumeration\DaysOfWeekType
      */
     public $DayOfWeek;
 

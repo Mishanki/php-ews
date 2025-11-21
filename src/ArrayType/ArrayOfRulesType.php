@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfRulesType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfRulesType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

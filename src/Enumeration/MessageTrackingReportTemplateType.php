@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\MessageTrackingReportTemplateType.
+ * Contains \mishanki\PhpEws\Enumeration\MessageTrackingReportTemplateType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

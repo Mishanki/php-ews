@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfMailboxHoldStatusType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfMailboxHoldStatusType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

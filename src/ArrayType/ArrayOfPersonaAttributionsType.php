@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfPersonaAttributionsType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfPersonaAttributionsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetDiscoverySearchConfigurationType.
+ * Contains \mishanki\PhpEws\Request\GetDiscoverySearchConfigurationType.
  */
 
 namespace mishanki\PhpEws\Request;

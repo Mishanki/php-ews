@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\SyncFolderItemsResponseType.
+ * Contains \mishanki\PhpEws\Response\SyncFolderItemsResponseType.
  */
 
 namespace mishanki\PhpEws\Response;

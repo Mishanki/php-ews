@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\UserConfigurationPropertyType.
+ * Contains \mishanki\PhpEws\Enumeration\UserConfigurationPropertyType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

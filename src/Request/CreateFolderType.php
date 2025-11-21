@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\CreateFolderType.
+ * Contains \mishanki\PhpEws\Request\CreateFolderType.
  */
 
 namespace mishanki\PhpEws\Request;

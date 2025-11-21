@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\BaseNotificationEventType.
+ * Contains \mishanki\PhpEws\Type\BaseNotificationEventType.
  */
 
 namespace mishanki\PhpEws\Type;

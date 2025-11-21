@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\SuggestionQuality.
+ * Contains \mishanki\PhpEws\Enumeration\SuggestionQuality.
  */
 
 namespace mishanki\PhpEws\Enumeration;

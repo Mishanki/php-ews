@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\FreeBusyViewOptionsType.
+ * Contains \mishanki\PhpEws\Type\FreeBusyViewOptionsType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -31,7 +31,7 @@ class FreeBusyViewOptionsType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\FreeBusyViewType
+     * @see \mishanki\PhpEws\Enumeration\FreeBusyViewType
      */
     public $RequestedView;
 

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\MailboxSearchScopeType.
+ * Contains \mishanki\PhpEws\Type\MailboxSearchScopeType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -39,7 +39,7 @@ class MailboxSearchScopeType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MailboxSearchLocationType
+     * @see \mishanki\PhpEws\Enumeration\MailboxSearchLocationType
      */
     public $SearchScope;
 }

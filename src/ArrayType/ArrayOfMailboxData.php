@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfMailboxData.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfMailboxData.
  */
 
 namespace mishanki\PhpEws\ArrayType;

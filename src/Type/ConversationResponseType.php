@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ConversationResponseType.
+ * Contains \mishanki\PhpEws\Type\ConversationResponseType.
  */
 
 namespace mishanki\PhpEws\Type;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfPrivateCatalogAddInsType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfPrivateCatalogAddInsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

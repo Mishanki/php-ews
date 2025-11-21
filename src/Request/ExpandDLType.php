@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\ExpandDLType.
+ * Contains \mishanki\PhpEws\Request\ExpandDLType.
  */
 
 namespace mishanki\PhpEws\Request;

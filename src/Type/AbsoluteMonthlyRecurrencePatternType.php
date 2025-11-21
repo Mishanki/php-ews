@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\AbsoluteMonthlyRecurrencePatternType.
+ * Contains \mishanki\PhpEws\Type\AbsoluteMonthlyRecurrencePatternType.
  */
 
 namespace mishanki\PhpEws\Type;

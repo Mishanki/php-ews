@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\BaseObjectChangedEventType.
+ * Contains \mishanki\PhpEws\Type\BaseObjectChangedEventType.
  */
 
 namespace mishanki\PhpEws\Type;

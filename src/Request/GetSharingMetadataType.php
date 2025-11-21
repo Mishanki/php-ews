@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetSharingMetadataType.
+ * Contains \mishanki\PhpEws\Request\GetSharingMetadataType.
  */
 
 namespace mishanki\PhpEws\Request;

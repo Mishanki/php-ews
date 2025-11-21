@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ConversationShape.
+ * Contains \mishanki\PhpEws\Type\ConversationShape.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -31,7 +31,7 @@ class ConversationShape extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DefaultShapeNamesType
+     * @see \mishanki\PhpEws\Enumeration\DefaultShapeNamesType
      */
     public $BaseShape;
 }

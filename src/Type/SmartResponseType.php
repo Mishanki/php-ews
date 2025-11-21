@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SmartResponseType.
+ * Contains \mishanki\PhpEws\Type\SmartResponseType.
  */
 
 namespace mishanki\PhpEws\Type;

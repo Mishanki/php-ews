@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetHoldOnMailboxesType.
+ * Contains \mishanki\PhpEws\Request\GetHoldOnMailboxesType.
  */
 
 namespace mishanki\PhpEws\Request;

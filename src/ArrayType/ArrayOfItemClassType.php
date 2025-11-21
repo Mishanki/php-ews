@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfItemClassType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfItemClassType.
  */
 
 namespace mishanki\PhpEws\ArrayType;
@@ -21,7 +21,7 @@ class ArrayOfItemClassType extends ArrayType
      *
      * @var string[]
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ItemClassType[]
+     * @see \mishanki\PhpEws\Enumeration\ItemClassType[]
      */
     public $ItemClass = array();
 }

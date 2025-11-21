@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\Occurrence.
+ * Contains \mishanki\PhpEws\Enumeration\Occurrence.
  */
 
 namespace mishanki\PhpEws\Enumeration;

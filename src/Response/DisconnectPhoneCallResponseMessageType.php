@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\DisconnectPhoneCallResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\DisconnectPhoneCallResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

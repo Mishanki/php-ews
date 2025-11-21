@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\RetentionActionType.
+ * Contains \mishanki\PhpEws\Enumeration\RetentionActionType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

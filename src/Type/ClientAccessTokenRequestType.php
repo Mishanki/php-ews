@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ClientAccessTokenRequestType.
+ * Contains \mishanki\PhpEws\Type\ClientAccessTokenRequestType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -39,7 +39,7 @@ class ClientAccessTokenRequestType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ClientAccessTokenTypeType
+     * @see \mishanki\PhpEws\Enumeration\ClientAccessTokenTypeType
      */
     public $TokenType;
 }

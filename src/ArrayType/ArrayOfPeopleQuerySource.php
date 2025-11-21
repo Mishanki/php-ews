@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfPeopleQuerySource.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfPeopleQuerySource.
  */
 
 namespace mishanki\PhpEws\ArrayType;

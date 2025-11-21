@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\EnumerationConnectionFailureCauseType.
+ * Contains \mishanki\PhpEws\EnumerationConnectionFailureCauseType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

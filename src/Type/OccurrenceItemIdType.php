@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\OccurrenceItemIdType.
+ * Contains \mishanki\PhpEws\Type\OccurrenceItemIdType.
  */
 
 namespace mishanki\PhpEws\Type;

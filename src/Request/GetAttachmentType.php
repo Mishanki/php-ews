@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetAttachmentType.
+ * Contains \mishanki\PhpEws\Request\GetAttachmentType.
  */
 
 namespace mishanki\PhpEws\Request;

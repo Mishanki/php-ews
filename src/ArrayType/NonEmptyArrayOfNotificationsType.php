@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\NonEmptyArrayOfNotificationsType.
+ * Contains \mishanki\PhpEws\ArrayType\NonEmptyArrayOfNotificationsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

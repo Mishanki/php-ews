@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PreviewItemMailboxType.
+ * Contains \mishanki\PhpEws\Type\PreviewItemMailboxType.
  */
 
 namespace mishanki\PhpEws\Type;

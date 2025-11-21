@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\UnifiedMessageServiceConfiguration.
+ * Contains \mishanki\PhpEws\Type\UnifiedMessageServiceConfiguration.
  */
 
 namespace mishanki\PhpEws\Type;

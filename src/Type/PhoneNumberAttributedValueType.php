@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PhoneNumberAttributedValueType.
+ * Contains \mishanki\PhpEws\Type\PhoneNumberAttributedValueType.
  */
 
 namespace mishanki\PhpEws\Type;

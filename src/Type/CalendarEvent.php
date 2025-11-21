@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\CalendarEvent.
+ * Contains \mishanki\PhpEws\Type\CalendarEvent.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -49,7 +49,7 @@ class CalendarEvent extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\LegacyFreeBusyType
+     * @see \mishanki\PhpEws\Enumeration\LegacyFreeBusyType
      */
     public $BusyType;
 

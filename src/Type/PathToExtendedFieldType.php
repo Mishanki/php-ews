@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PathToExtendedFieldType.
+ * Contains \mishanki\PhpEws\Type\PathToExtendedFieldType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -32,7 +32,7 @@ class PathToExtendedFieldType extends BasePathToElementType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\DistinguishedPropertySetType
+     * @see \mishanki\PhpEws\Enumeration\DistinguishedPropertySetType
      */
     public $DistinguishedPropertySetId;
 
@@ -128,7 +128,7 @@ class PathToExtendedFieldType extends BasePathToElementType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MapiPropertyTypeType
+     * @see \mishanki\PhpEws\Enumeration\MapiPropertyTypeType
      */
     public $PropertyType;
 }

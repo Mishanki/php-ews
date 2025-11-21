@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ProtectionRuleActionType.
+ * Contains \mishanki\PhpEws\Type\ProtectionRuleActionType.
  */
 
 namespace mishanki\PhpEws\Type;

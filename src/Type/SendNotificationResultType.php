@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SendNotificationResultType.
+ * Contains \mishanki\PhpEws\Type\SendNotificationResultType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -21,7 +21,7 @@ class SendNotificationResultType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\SubscriptionStatusType
+     * @see \mishanki\PhpEws\Enumeration\SubscriptionStatusType
      */
     public $SubscriptionStatus;
 }

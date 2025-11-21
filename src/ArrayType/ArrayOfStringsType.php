@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfStringsType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfStringsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

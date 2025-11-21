@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\GetClientAccessTokenType.
+ * Contains \mishanki\PhpEws\Request\GetClientAccessTokenType.
  */
 
 namespace mishanki\PhpEws\Request;

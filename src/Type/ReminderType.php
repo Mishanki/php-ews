@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ReminderType.
+ * Contains \mishanki\PhpEws\Type\ReminderType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -59,7 +59,7 @@ class ReminderType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ReminderGroup
+     * @see \mishanki\PhpEws\Enumeration\ReminderGroup
      */
     public $ReminderGroup;
 

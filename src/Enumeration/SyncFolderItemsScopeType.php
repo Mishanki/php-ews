@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\SyncFolderItemsScopeType.
+ * Contains \mishanki\PhpEws\Enumeration\SyncFolderItemsScopeType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

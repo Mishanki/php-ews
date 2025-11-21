@@ -38,7 +38,7 @@ foreach (array('ArrayType', 'Request', 'Response', 'Type') as $namespace) {
 
         $map[$i]['map'][] = array(
             'type' => $basename,
-            'class' => "\\\\jamesiarmes\\\\PhpEws\\\\$namespace\\\\$classname",
+            'class' => "\\\\mishanki\\\\PhpEws\\\\$namespace\\\\$classname",
         );
     }
 }

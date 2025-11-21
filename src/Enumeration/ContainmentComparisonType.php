@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ContainmentComparisonType.
+ * Contains \mishanki\PhpEws\Enumeration\ContainmentComparisonType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

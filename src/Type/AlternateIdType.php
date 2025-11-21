@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\AlternateIdType.
+ * Contains \mishanki\PhpEws\Type\AlternateIdType.
  */
 
 namespace mishanki\PhpEws\Type;

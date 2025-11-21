@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\AvailabilityProxyRequestType.
+ * Contains \mishanki\PhpEws\Enumeration\AvailabilityProxyRequestType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

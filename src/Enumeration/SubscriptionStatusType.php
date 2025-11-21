@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\SubscriptionStatusType.
+ * Contains \mishanki\PhpEws\Enumeration\SubscriptionStatusType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

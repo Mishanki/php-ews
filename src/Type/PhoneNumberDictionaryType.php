@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PhoneNumberDictionaryType.
+ * Contains \mishanki\PhpEws\Type\PhoneNumberDictionaryType.
  */
 
 namespace mishanki\PhpEws\Type;

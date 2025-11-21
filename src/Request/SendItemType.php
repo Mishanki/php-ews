@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\SendItemType.
+ * Contains \mishanki\PhpEws\Request\SendItemType.
  */
 
 namespace mishanki\PhpEws\Request;

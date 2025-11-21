@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\GetUserRetentionPolicyTagsResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\GetUserRetentionPolicyTagsResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

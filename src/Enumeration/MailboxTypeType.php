@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\MailboxTypeType.
+ * Contains \mishanki\PhpEws\Enumeration\MailboxTypeType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

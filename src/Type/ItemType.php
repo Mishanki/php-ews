@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ItemType.
+ * Contains \mishanki\PhpEws\Type\ItemType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -163,7 +163,7 @@ class ItemType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ImportanceChoicesType
+     * @see \mishanki\PhpEws\Enumeration\ImportanceChoicesType
      */
     public $Importance;
 
@@ -248,7 +248,7 @@ class ItemType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ItemClassType
+     * @see \mishanki\PhpEws\Enumeration\ItemClassType
      */
     public $ItemClass;
 
@@ -376,7 +376,7 @@ class ItemType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\SensitivityChoicesType
+     * @see \mishanki\PhpEws\Enumeration\SensitivityChoicesType
      */
     public $Sensitivity;
 

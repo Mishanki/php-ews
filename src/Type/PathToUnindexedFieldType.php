@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PathToUnindexedFieldType.
+ * Contains \mishanki\PhpEws\Type\PathToUnindexedFieldType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -19,7 +19,7 @@ class PathToUnindexedFieldType extends BasePathToElementType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\UnindexedFieldURIType
+     * @see \mishanki\PhpEws\Enumeration\UnindexedFieldURIType
      */
     public $FieldURI;
 }

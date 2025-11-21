@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\RecurringMasterItemIdRanges.
+ * Contains \mishanki\PhpEws\Type\RecurringMasterItemIdRanges.
  */
 
 namespace mishanki\PhpEws\Type;

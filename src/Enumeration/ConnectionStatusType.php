@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\ConnectionStatusType.
+ * Contains \mishanki\PhpEws\Enumeration\ConnectionStatusType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

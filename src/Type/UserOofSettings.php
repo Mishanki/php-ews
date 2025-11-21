@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\UserOofSettings.
+ * Contains \mishanki\PhpEws\Type\UserOofSettings.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -34,7 +34,7 @@ class UserOofSettings extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ExternalAudience
+     * @see \mishanki\PhpEws\Enumeration\ExternalAudience
      */
     public $ExternalAudience;
 
@@ -65,7 +65,7 @@ class UserOofSettings extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\OofState
+     * @see \mishanki\PhpEws\Enumeration\OofState
      */
     public $OofState;
 }

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfSuggestion.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfSuggestion.
  */
 
 namespace mishanki\PhpEws\ArrayType;

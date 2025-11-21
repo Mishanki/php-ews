@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\PerformReminderActionType.
+ * Contains \mishanki\PhpEws\Request\PerformReminderActionType.
  */
 
 namespace mishanki\PhpEws\Request;

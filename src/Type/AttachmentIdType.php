@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\AttachmentIdType.
+ * Contains \mishanki\PhpEws\Type\AttachmentIdType.
  */
 
 namespace mishanki\PhpEws\Type;

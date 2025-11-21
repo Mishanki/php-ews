@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\PreviewItemBaseShapeType.
+ * Contains \mishanki\PhpEws\Enumeration\PreviewItemBaseShapeType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

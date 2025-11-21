@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\FindItemParentType.
+ * Contains \mishanki\PhpEws\Type\FindItemParentType.
  */
 
 namespace mishanki\PhpEws\Type;

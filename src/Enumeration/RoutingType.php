@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\RoutingType.
+ * Contains \mishanki\PhpEws\Enumeration\RoutingType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

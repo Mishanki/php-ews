@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfAppsType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfAppsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

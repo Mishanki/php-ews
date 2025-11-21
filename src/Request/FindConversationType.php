@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\FindConversationType.
+ * Contains \mishanki\PhpEws\Request\FindConversationType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -40,7 +40,7 @@ class FindConversationType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\MailboxSearchLocationType
+     * @see \mishanki\PhpEws\Enumeration\MailboxSearchLocationType
      */
     public $MailboxScope;
 
@@ -94,7 +94,7 @@ class FindConversationType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ConversationQueryTraversalType
+     * @see \mishanki\PhpEws\Enumeration\ConversationQueryTraversalType
      */
     public $Traversal;
 
@@ -107,7 +107,7 @@ class FindConversationType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ViewFilterType
+     * @see \mishanki\PhpEws\Enumeration\ViewFilterType
      */
     public $ViewFilter;
 }

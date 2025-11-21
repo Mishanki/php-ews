@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\ArchiveItemResponse.
+ * Contains \mishanki\PhpEws\Response\ArchiveItemResponse.
  */
 
 namespace mishanki\PhpEws\Response;

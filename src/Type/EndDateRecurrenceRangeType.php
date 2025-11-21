@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\EndDateRecurrenceRangeType.
+ * Contains \mishanki\PhpEws\Type\EndDateRecurrenceRangeType.
  */
 
 namespace mishanki\PhpEws\Type;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PhoneNumberDictionaryEntryType.
+ * Contains \mishanki\PhpEws\Type\PhoneNumberDictionaryEntryType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -33,7 +33,7 @@ class PhoneNumberDictionaryEntryType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\PhoneNumberKeyType
+     * @see \mishanki\PhpEws\Enumeration\PhoneNumberKeyType
      */
     public $Key;
 }

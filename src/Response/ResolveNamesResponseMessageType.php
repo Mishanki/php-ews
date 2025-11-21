@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Response\ResolveNamesResponseMessageType.
+ * Contains \mishanki\PhpEws\Response\ResolveNamesResponseMessageType.
  */
 
 namespace mishanki\PhpEws\Response;

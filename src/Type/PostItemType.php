@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\PostItemType.
+ * Contains \mishanki\PhpEws\Type\PostItemType.
  */
 
 namespace mishanki\PhpEws\Type;

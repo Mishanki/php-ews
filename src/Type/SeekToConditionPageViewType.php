@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SeekToConditionPageViewType.
+ * Contains \mishanki\PhpEws\Type\SeekToConditionPageViewType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -28,7 +28,7 @@ class SeekToConditionPageViewType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\IndexBasePointType
+     * @see \mishanki\PhpEws\Enumeration\IndexBasePointType
      */
     public $BasePoint;
 

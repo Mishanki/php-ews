@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Enumeration\TaskDelegateStateType.
+ * Contains \mishanki\PhpEws\Enumeration\TaskDelegateStateType.
  */
 
 namespace mishanki\PhpEws\Enumeration;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\QueryStringType.
+ * Contains \mishanki\PhpEws\Type\QueryStringType.
  */
 
 namespace mishanki\PhpEws\Type;

@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\CopyItemType.
+ * Contains \mishanki\PhpEws\Request\CopyItemType.
  */
 
 namespace mishanki\PhpEws\Request;

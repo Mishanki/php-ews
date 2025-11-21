@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ContextPropertyType.
+ * Contains \mishanki\PhpEws\Type\ContextPropertyType.
  */
 
 namespace mishanki\PhpEws\Type;

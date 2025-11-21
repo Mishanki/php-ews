@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Request\FindItemType.
+ * Contains \mishanki\PhpEws\Request\FindItemType.
  */
 
 namespace mishanki\PhpEws\Request;
@@ -143,7 +143,7 @@ class FindItemType extends BaseRequestType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ItemQueryTraversalType
+     * @see \mishanki\PhpEws\Enumeration\ItemQueryTraversalType
      */
     public $Traversal;
 }

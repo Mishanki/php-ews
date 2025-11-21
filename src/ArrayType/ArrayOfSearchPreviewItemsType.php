@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\ArrayType\ArrayOfSearchPreviewItemsType.
+ * Contains \mishanki\PhpEws\ArrayType\ArrayOfSearchPreviewItemsType.
  */
 
 namespace mishanki\PhpEws\ArrayType;

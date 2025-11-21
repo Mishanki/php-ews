@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\SuggestionsViewOptionsType.
+ * Contains \mishanki\PhpEws\Type\SuggestionsViewOptionsType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -94,7 +94,7 @@ class SuggestionsViewOptionsType extends Type
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\SuggestionQuality
+     * @see \mishanki\PhpEws\Enumeration\SuggestionQuality
      */
     public $MinimumSuggestionQuality;
 }

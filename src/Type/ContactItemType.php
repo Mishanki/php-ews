@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\ContactItemType.
+ * Contains \mishanki\PhpEws\Type\ContactItemType.
  */
 
 namespace mishanki\PhpEws\Type;
@@ -97,7 +97,7 @@ class ContactItemType extends ItemType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\ContactSourceType
+     * @see \mishanki\PhpEws\Enumeration\ContactSourceType
      */
     public $ContactSource;
 
@@ -163,7 +163,7 @@ class ContactItemType extends ItemType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\FileAsMappingType
+     * @see \mishanki\PhpEws\Enumeration\FileAsMappingType
      */
     public $FileAsMapping;
 
@@ -360,7 +360,7 @@ class ContactItemType extends ItemType
      *
      * @var string
      *
-     * @see \jamesiarmes\PhpEws\Enumeration\PhysicalAddressIndexType
+     * @see \mishanki\PhpEws\Enumeration\PhysicalAddressIndexType
      */
     public $PostalAddressIndex;
 

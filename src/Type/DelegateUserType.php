@@ -1,6 +1,6 @@
 <?php
 /**
- * Contains \jamesiarmes\PhpEws\Type\DelegateUserType.
+ * Contains \mishanki\PhpEws\Type\DelegateUserType.
  */
 
 namespace mishanki\PhpEws\Type;
